@@ -321,6 +321,8 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/884532.mp4
 https://vidmody.com/vs/tt0399146/
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSx7nwhbRfQ68JL982uBICGob6Y.jpg",A Ranjith Cinema (2023) (Tamil)
 http://starshare.st/movie/P4B9TB9xR8/humongous2tonight/269122.mp4
+#EXTINF:-1 tvg-id="animal_planet_hd" group-title="Phim truyện" tvg-logo="http://103.144.89.251/assets/images/ANIMAL PLANET HD1745038671.png",ANIMAL PLANET HD
+http://103.144.89.251:8082/ANIMAL.PLANET.HD/index.m3u8?token=9a71c7bfa4e27360082f6c42fd08597a3a562a76-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png",ANIMAL PLANET(test)
 http://103.244.145.15/live/anita123/anita123/151008.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="--" group-title="Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",AXN
@@ -333,16 +335,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
 #EXTINF:-1 tvg-id="AXN.id" group-title="Phim truyện" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg",AXN
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://mimipipi22.github.io/logo/antik/axn.jpg",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://estreams.tv.nej.cz/dash/CH_AXN_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="axn" group-title="Phim truyện" tvg-logo="https://freem3u.xyz/static/images/global/axn.png",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://mimipipi22.github.io/logo/antik/axn.jpg",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://estreams.tv.nej.cz/dash/CH_AXN_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="axn" group-title="Phim truyện" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/568841DF-E3B3-454A-9521-11813C6C0954/0-16x9.png?width=530",AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -353,6 +355,8 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=AXN
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
 #EXTINF:-1 tvg-id="79" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png",AXN HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13004.ts
+#EXTINF:-1 tvg-id="axn_hd" group-title="Phim truyện" tvg-logo="http://103.144.89.251/assets/images/AXN HD1745045171.png",AXN HD
+http://103.144.89.251:8082/AXN.HD/index.m3u8?token=3bdffe66a6156f0339356bd91994833d3ecab700-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="79" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png",AXN SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13005.ts
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",AXN White
@@ -379,6 +383,10 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+#EXTINF:-1 tvg-id="edge3/animal-planet-hd" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",Animal Planet
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYW5pbWFsLXBsYW5ldC1oZA==&e=.m3u8
+#EXTINF:-1 tvg-id="52d1df2fdb80" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png",Animal Planet
+https://sm-monirul.top/Toffee/live.php?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
@@ -397,6 +405,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23001.ts
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",Animal Planet HD
 http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="f70ef199f41d" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",Animal Planet HD
+https://sm-monirul.top/Toffee/live.php?id=f70ef199f41d&e=.m3u8
 #EXTINF:-1 tvg-id="15" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png",Animal Planet SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23002.ts
 #EXTINF:-1 tvg-id="animal-planet-us-east" group-title="Phim truyện",Animal Planet US East
@@ -437,7 +447,7 @@ https://autentic-autentichistory-1-se.lg.wurl.tv/playlist.m3u8
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BIZCinema.uz@SD" group-title="Phim truyện" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png",BIZ Cinema (1080p) - 1080P
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" group-title="Phim truyện" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",Bhojpuri Cinema (720p) - 720P
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://gstaticontent.com/images/h4ciG34AaQLfk38ltBGMDdxLeF5_big.jpg",Borat: Fita de Cinema Seguinte
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/651303.mp4
@@ -584,6 +594,8 @@ http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/264
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/261
 #EXTINF:-1 tvg-id="discoveryph1" group-title="Phim truyện" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",DISCOVERY CHANNEL(test)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+#EXTINF:-1 tvg-id="discovery_hd" group-title="Phim truyện" tvg-logo="http://103.144.89.251/assets/images/discovery hd.png",DISCOVERY HD
+http://103.144.89.251:8082/DISCOVERY.HD/index.m3u8?token=aa62bb57caa15abc982290b46a322597b9ed69d4-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" group-title="Phim truyện" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true",DISCOVERY INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
@@ -636,9 +648,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23011.ts
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png",Discovery Engliah HD
 http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10",Discovery Family
-https://tvsen5.aynascope.net/discoveryfamily/index.m3u8?e=1773636323&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6e56bfa49045d67505a8710936f62d1d
-#EXTINF:-1 tvg-id="discovery-family-channel" group-title="Phim truyện",Discovery Family Channel
-https://tvpass.org/live/DiscoveryFamily/sd
+https://tvsen5.aynascope.net/discoveryfamily/index.m3u8?e=1773645701&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc50881e333bf29b02b7d661d87ec300
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" group-title="Phim truyện" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family Channel
 http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" group-title="Phim truyện" tvg-logo="https://i.ibb.co/Z2Nf59p/Discovery-Family-logo-1.png",Discovery Family tvm.
@@ -650,13 +660,21 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12013.ts
 #EXTINF:-1 tvg-id="8" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png",Discovery H&H SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12014.ts
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/99526d9269f86250d6bb6cb625cd8275",Discovery HD
-https://tvsen6.aynascope.net/discovery_hd/index.m3u8?e=1773636298&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=513053f38c7fba9b50fd0620c8bf2c4a
+https://tvsen6.aynascope.net/discovery_hd/index.m3u8?e=1773645678&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dfb8e0b262b37703bd7e04b1751bb6c1
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",Discovery HD
 http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",Discovery ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png",Discovery Investigetion
 http://103.229.254.25:7001/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 tvg-id="edge3/discovery-kids" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png",Discovery Kids
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvZGlzY292ZXJ5LWtpZHM=&e=.m3u8
+#EXTINF:-1 tvg-id="1fe9cf550c24" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",Discovery Kids
+https://sm-monirul.top/Toffee/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTINF:-1 tvg-id="discovery-kids" group-title="Phim truyện" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LOGO_HD/image.png",Discovery Kids
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 #EXTINF:-1 tvg-id="1" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png",Discovery Kids FHD
@@ -672,7 +690,9 @@ http://tvmate.icu:8080/k4Svp2/645504/9861
 #EXTINF:-1 tvg-id="Science.Channel.HD.us2" group-title="Phim truyện" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png",Discovery Science
 http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/530b47c088522c355a93788fd80fbb1b",Discovery Science
-https://tvsen6.aynascope.net/discovery_science/index.m3u8?e=1773636289&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1472f1d3b591f4367e62b9d06ce8aa1b
+https://tvsen6.aynascope.net/discovery_science/index.m3u8?e=1773645671&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=42d28a3155b50a4eea2b28b0873a59bc
+#EXTINF:-1 tvg-id="591ea81b1aba" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png",Discovery Science
+https://sm-monirul.top/Toffee/live.php?id=591ea81b1aba&e=.m3u8
 #EXTINF:-1 tvg-id="116" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryscience.png",Discovery Science FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23012.ts
 #EXTINF:-1 tvg-id="116" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryscience.png",Discovery Science HD
@@ -690,7 +710,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23016.ts
 #EXTINF:-1 tvg-id="117" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverytheater.png",Discovery Theater SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23017.ts
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/d3f1746d033e2c46deca83fd5e54b08b",Discovery Turbo
-https://tvsen6.aynascope.net/discovery_turbo/index.m3u8?e=1773636321&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=04b42d382ca070f0db9394691f61a8e2
+https://tvsen6.aynascope.net/discovery_turbo/index.m3u8?e=1773645699&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7b1bffe407377542f3900acfb39ce353
+#EXTINF:-1 tvg-id="c106cb9b-69a2-4759-94b6-2822f5155488" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/d3f1746d033e2c46deca83fd5e54b08b",Discovery Turbo
+http://sm-monirul.top/AyNa/play.php?id=c106cb9b-69a2-4759-94b6-2822f5155488&e=.m3u8
+#EXTINF:-1 tvg-id="a051de5ade20" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",Discovery Turbo
+https://sm-monirul.top/Toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
@@ -753,7 +777,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",HBO
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04",HBO
-https://tvsen5.aynascope.net/hbo/index.m3u8?e=1773636318&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ac61aafcc5d1dadbec84c07e6b3dde0f
+https://tvsen5.aynascope.net/hbo/index.m3u8?e=1773645697&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0ae45cfca0e50a14c86db540b9ea8d10
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
@@ -801,10 +825,6 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://179.63.6.15:8002/play/a033
 #EXTINF:-1 tvg-id="HBO 2" group-title="Phim truyện" tvg-logo="https://iili.io/qopt1p4.png",HBO 2
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122360
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://lo1.in/cz/hbo2.png",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://estreams.tv.nej.cz/dash/CH_HBO2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -816,6 +836,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://qw.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://lo1.in/cz/hbo2.png",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://estreams.tv.nej.cz/dash/CH_HBO2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" group-title="Phim truyện",HBO 2 Eastern Feed
+https://tvpass.org/live/HBO2East/sd
 #EXTINF:-1 tvg-id="261" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png",HBO 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.ts
 #EXTINF:-1 tvg-id="261" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png",HBO 2 HD
@@ -853,6 +879,8 @@ https://a1xs.vip/300005
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="Phim truyện",HBO Eastern Feed
+https://tvpass.org/live/HBOEast/sd
 #EXTINF:-1 tvg-id="HBO Extreme" group-title="Phim truyện" tvg-logo="https://iili.io/qoy2pe9.png",HBO Extreme
 http://38.224.175.2:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBO Extreme" group-title="Phim truyện" tvg-logo="https://iili.io/qoy2pe9.png",HBO Extreme
@@ -1032,6 +1060,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg",HISTORY HIT 1 ON (R)
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="history_tv_hd" group-title="Phim truyện" tvg-logo="http://103.144.89.251/assets/images/HISTORY TV HD1745033679.png",HISTORY TV HD
+http://103.144.89.251:8082/HISTORY.TV.18.HD/index.m3u8?token=1fc264cecc0aae494e8d2a123f980a242749e1db-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="IN1600008DN" group-title="Phim truyện" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600008DN_20240925T102238SQUARE.png",HISTORY TV18
 https://jmp2.uk/stvp-IN1600008DN
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg",HISTORY 🇺🇸
@@ -1039,7 +1069,7 @@ https://jmp2.uk/stvp-IN1600008DN
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/72ea808c9221d980cb79623ce3c5e820",History
-https://tvsen5.aynascope.net/historyen/index.m3u8?e=1773636319&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fe5b16a3859ee0cfbccac59a6561b6ba
+https://tvsen5.aynascope.net/historyen/index.m3u8?e=1773645698&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=06fc6ee93a2cd6da52d31837255a5bf4
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png",History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1062,8 +1092,6 @@ https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
 http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
 #EXTINF:-1 tvg-id="History Channel" group-title="Phim truyện" tvg-logo="https://iili.io/qopiEcx.png",History Channel
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9838
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" group-title="Phim truyện",History Channel US Eastern Feed
-https://tvpass.org/live/HistoryEast/sd
 #EXTINF:-1 tvg-id="History.HD.us2" group-title="Phim truyện" tvg-logo="https://i.ibb.co/rywvj1W/History-2021-1.png",History Channel tvm.
 http://tvmate.icu:8080/0Ru8WD/642274/46810
 #EXTINF:-1 tvg-id="84" group-title="Phim truyện" tvg-logo="http://www.fontedecanais.tv/logos/canais/history.png",History FHD
@@ -1130,6 +1158,8 @@ https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
 http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.ibb.co.com/0GrGjbk/investdisco.png",Investigation Discovery (ID USA)
 https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium324/mono.m3u8
+#EXTINF:-1 tvg-id="6789650f5629" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png",Investigation Discovery HD
+https://sm-monirul.top/Toffee/live.php?id=6789650f5629&e=.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" group-title="Phim truyện" tvg-logo="https://i.ibb.co/dBts4m4/Investigation-Discovery-Logo2020.png",Investigation Discovery tvm.
 http://tvmate.icu:8080/k4Svp2/645504/46810
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" group-title="Phim truyện" tvg-logo="https://i.imgur.com/qrn6tUO.png",Italian Fishing TV (ita1)  (Italian) (Outdoor)
@@ -1244,9 +1274,9 @@ https://s1.imagescdns.pics/mx/DJ50YH1uov5uozDhqTuyYyqup3NhZwNkBP5PoUIlLKxhZGN4ZU
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",Noovo Cinema (CA) Geo
 https://amg00089-bellmedia-amg00089c12-lg-ca-3227.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocinema-lgca/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w95CUULjwNxsErXQz4wRzThAHBS.jpg",O Cinema Mal-Assombrado
-http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/900534.mp4
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w95CUULjwNxsErXQz4wRzThAHBS.jpg",O Cinema Mal-Assombrado
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/901104.mp4
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w95CUULjwNxsErXQz4wRzThAHBS.jpg",O Cinema Mal-Assombrado
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/900534.mp4
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nT05GJhGazB5VtUIFrk9pr8u3RD.jpg",Obcecado por Cinema
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/900373.mp4
 #EXTINF:-1 tvg-id="OneTVCinema2.kh@SD" group-title="Phim truyện" tvg-logo="https://i.imgur.com/H8PiAbA.png",One TV Cinema 2 (1080p) - 1080P
@@ -1271,7 +1301,7 @@ https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",Premium Cinema
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://s3.aynaott.com/storage/a6d7d9729aafd5055bfd5356b6fa8eef",SKY CINEMA ANIMATION
-https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1773636333&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=57ec040abc528b5f9d3c140b7705aea6
+https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1773645710&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1b8e32f9f1c1d1882c33b7fedafa1166
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://www.hdfilmizle.life/v/19432/poster/thumb/yemende-somon-avi.jpg",Salmon Fishing in the Yemen [28.01.2026]
 https://vs7.photour.org/v/j78rjl3w792s/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg",Save the Cinema
@@ -1390,13 +1420,13 @@ https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hfUMPxcN9AGgOYRQNsN8tpVMExI.jpg",Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/646001.mp4
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616",Viva Cinema
-http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616",Viva Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616",Viva Cinema
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",WOWOW Cinema
 https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org/t/p/w500/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg",Witchboard (2025) [27.01.2026]
@@ -1409,20 +1439,26 @@ http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.ibb.co.com/Ykzc1gk/zeecinema.png",Z Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg",ZB Cinema
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ZBCinema.in@HD" group-title="Phim truyện" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",ZB Cinema (720p) - 720P
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",ZEE CINEMA HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+#EXTINF:-1 tvg-id="zee_cinema_hd" group-title="Phim truyện" tvg-logo="http://103.144.89.251/assets/images/ZEE CINEMA HD1745033602.png",ZEE CINEMA HD
+http://103.144.89.251:8082/ZEE.CINEMA.HD/index.m3u8?token=6d2e5214d5a059f3ff141e7c6622bd11534dad62-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="zee-anoml-cinema" group-title="Phim truyện" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png",Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #EXTINF:-1 tvg-id="zee-cinema-sd" group-title="Phim truyện" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="edge3/zee-cinema-hd" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/76.png",Zee Cinema
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWNpbmVtYS1oZA==&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg",Zee Cinema HD
 http://110.39.27.47:8001/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="d581dd66e556" group-title="Phim truyện" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",Zee Cinema HD
+https://sm-monirul.top/Toffee/live.php?id=d581dd66e556&e=.m3u8
 #EXTINF:-1 tvg-id="338.unifi" group-title="Phim truyện" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=530",Zee Cinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1432,51 +1468,51 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=ZeeCinema
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" group-title="Phim truyện" tvg-logo="https://i.imgur.com/146OgfU.png",alpha Cinema (1080p) - 1080P
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",animal planet
-https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=6dc99003e6e8fa95ba718f4fc8d2b0ef2563330d-3fb145be623be2eac675968278e46ed9-1773621651-1773618051
+https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=57ec7cb131a0755d6b83516946793a1219b8b359-ce98c2c63bdb543321e56241e50b3de2-1773622858-1773619258
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",animal planet
 https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=35436b3dce9348c9a72bcfb50ed7f48b19cef86e-76e5254c1bbe050b36fe88feeb9de45c-1773635394-1773631794
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png",animal planet
-https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=57ec7cb131a0755d6b83516946793a1219b8b359-ce98c2c63bdb543321e56241e50b3de2-1773622858-1773619258
+https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=1e562dc96aac808cc0d372908c78b1df96f4657a-aeeba14017f0bbe0b948dff8d9d76865-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",discovery
 http://84.17.50.102/discovery/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/43.png",discovery hd
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=cc4527d802569c447f8223fe1cbc2022a9456e7a-935f2f1da7a55163454a124e3ad279ef-1773621651-1773618051
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/43.png",discovery hd
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=5ec6b6ab62ad149171bdbdc7a6369fe8cf4a9517-4999dcb3d3dedf931700fde9c5503634-1773622858-1773619258
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/43.png",discovery hd
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=b95847e90a7cd111759c634ddb5d14a9b4a74e80-22373d30cc1722cff8f7e352675bff89-1773635394-1773631794
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryhdInvestigation.png",discovery hd investigation
-https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=efe9d41a73b5f4e96b8dcb36248381d562b61b93-6810614fdf9694c79c9dd8e2f76ca9f0-1773621651-1773618051
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/43.png",discovery hd
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=d65e2dfa962b3893f64ed8dfc324a8294fd1de98-7fa888e8cc1900c2fd4179a91b76378b-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryhdInvestigation.png",discovery hd investigation
 https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=91c6e20214513b320644a234cbbc4d96a0dd917c-4ddb1c89392e7fc994f94b5826dc3e45-1773622858-1773619258
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryhdInvestigation.png",discovery hd investigation
 https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=a02b6a993f859919157f54627515a8290e3c0ba2-e64e1ad357f38942132a100580e918fc-1773635394-1773631794
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png",discovery kids
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=a461d093b0c15271eb3b4a6e193eef9a0eb95a93-577ca8747bcdfb233dd688fe05169de1-1773621651-1773618051
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryhdInvestigation.png",discovery hd investigation
+https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=86ab123197f6f67bdcb6726d2f429996f1c5208b-6ef123836c8e42f05ada95248f2f0ab2-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png",discovery kids
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=ce647586c97b59945092fc435823b909ca1f5225-5f4dc7b9daf4400e71025617e15a3bd7-1773622858-1773619258
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png",discovery kids
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=7012167a23d8bdf721951faff1c8905a3350515b-f7e17558d038015681babb3688b4e8f8-1773635394-1773631794
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryscience.png",discovery science
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=1ba1e6e22550d59142e3c4025b149fae54193887-082e7e8b8a14709d7eeb7ab3448cad4e-1773621651-1773618051
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png",discovery kids
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=731db320e107a1d94b925149e36e6a77a708923c-bb3561342238d71bd209fd9a519e43ec-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryscience.png",discovery science
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=54eba7ebb71bdb8ae3757c1e68e26c2771a20a6a-6b31f113d464b9bec91e2c447114e96a-1773622858-1773619258
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryscience.png",discovery science
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=ad69a644f96d02435cfee91cf4e6e281d3a2e8f5-a9ebc5a45e07d03a1b31b333f3c61e38-1773642611-1773639011
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryscience.png",discovery science
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=499e2089010fd4e201a106c82644c07a708e9d00-2e3433473f4034c46bbbf78bcf4acbb8-1773635394-1773631794
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryturbo.png",discovery turbo
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=af2b9829b6378725d6b6d86c857056a7a5cd9a59-87ad04d7f38cac5a78a728ebfd5db08c-1773621651-1773618051
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryturbo.png",discovery turbo
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=97c628646dfb2268bf06d03299ae1bbe12735bd2-48721078be884bc99cb92e06256720f0-1773622858-1773619258
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryturbo.png",discovery turbo
 https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=4ba3973c3fa7c108eaf15cbaa8a907128ca9f6b7-f1bc820c74228840af0638a02887643f-1773635394-1773631794
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/discoveryturbo.png",discovery turbo
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=ac045ae7dac4420d3c779bb5fd8d8fdbf76aff5a-6bc57ecaf78b5b5a84c1b7081c59537a-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",history
 http://84.17.50.102/history/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/76.png",zee cinema
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=0028e9dbafc67378b814070d68a620a4f01e4ccf-e2c6cf1d106381cfe9de360b11004f6d-1773621651-1773618051
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/76.png",zee cinema
 https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=c2df6499551432a8f6fc81259750247b96e559c5-7a051634acaf88f51f3ce610e8d495a4-1773622858-1773619258
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/76.png",zee cinema
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=2e749e27a4b57c13103287d298fba68b27c89596-861cad08b70bbc4c80320f916bd57f67-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://tvassets.roarzone.info/images/76.png",zee cinema
 https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=6e57a9067e2dbd22ed765e55acfee69804ac727c-e8cf0e4bf10c5a0877042878fe6f0e55-1773635394-1773631794
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg",الشرق Discovery
@@ -1493,83 +1529,94 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png",Channel Just for Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel National Geographic
+https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-cinema-jp.png",Channel The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",09h00 16/03 Sacramento Kings vs Utah Jazz
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773639053.png",00h00 ngày 16/03 Manchester United vs Aston Villa (Lương Sơn) BLV LƯU BỊ REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773639053.png",00h00 ngày 16/03 Manchester United vs Aston Villa (Lương Sơn) BLV LƯU BỊ REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773630520.png",11h05 ngày 16/03 Lazio vs AC Milan (Lương Sơn) BLV LEO REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773630520.png",11h05 ngày 16/03 Lazio vs AC Milan (Lương Sơn) BLV LEO REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Liverpool vs Tottenham Hotspur [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png",09h00 16/03 Sacramento Kings vs Utah Jazz (Hội Quán) FHD
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1773644018-0-0-9bf782193a25e1ba40366114e301261f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Liverpool vs Tottenham Hotspur [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png",09h00 16/03 Sacramento Kings vs Utah Jazz (Hội Quán) HD
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1773644018-0-0-d2157490a4de568e8a88661587f2f2e6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Liverpool vs Tottenham Hotspur [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png",09h00 16/03 Sacramento Kings vs Utah Jazz (Hội Quán) SD
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1773644018-0-0-ca7f5ebd02765a06b362342c89235a79
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Liverpool vs Tottenham Hotspur [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [A CHÈ] (Socolive) flv
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1773644018-0-0-53699c17175076fa21961dd5352533fd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Manchester United vs Aston Villa [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773636458-0-0-d5b077111dc2e0e38ea1861a5784f226
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1773644018-0-0-98c42572a8963fad4fa535290554d46a
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Manchester United vs Aston Villa [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773636458-0-0-d901ab0970ad4b48061997b971a8ffd3
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [A CHÈ] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1773644018-0-0-0c6b1a6eda33404ce94ca5111f17d5c0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Manchester United vs Aston Villa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773636458-0-0-2116a4cd0f4b6aae7f360fb7c46ab3c9
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1773644018-0-0-e990b0709801180d5e34c82796bb6ea0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Manchester United vs Aston Villa [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773636458-0-0-ae907308fb7d2c1b665ed031caef72c9
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) flv
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1773644018-0-0-eaf550dbbb6cdded9715740a8f56e675
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Nottingham Forest vs Fulham [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773636458-0-0-882a4663b3e6b53dab0b74571dc543d0
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1773644018-0-0-076d0a5b3d54eabbdb25eba62005bda4
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Nottingham Forest vs Fulham [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773636458-0-0-5fea9acc0cb53c6d6e9446ce02dfe02c
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1773644018-0-0-01d1841a0ee675b8254e1ac019158a19
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Nottingham Forest vs Fulham [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773636458-0-0-7f4fd86f56d60aa23eafc78af2056618
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1773644018-0-0-f016d2aef0750afe72812aed89ec09d6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ENG PR - Nottingham Forest vs Fulham [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773636458-0-0-ff7fed42346479559550784f1f813967
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) flv
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1773644018-0-0-66f64408923eb40dcdcc350c9528f9dc
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ITA D1 - Como vs AS Roma [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773637178-0-0-d985b6edcdc06baa3d676876d91feb4a
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1773644018-0-0-0342596acecd19cddb53dad7f64810ac
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ITA D1 - Como vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773637178-0-0-924757a4db53245efc60260e6b4892c7
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1773644018-0-0-9488e87322664316ae16abe0c6801449
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ITA D1 - Como vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773637178-0-0-18a3e1391e526e4bfa80a179a4991dbd
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1773644018-0-0-bc4f2eab285a08f889dce80664b6b7cb
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: ITA D1 - Como vs AS Roma [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773637178-0-0-405aa424bf850334326ee184f736bfd6
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) flv
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1773644018-0-0-4a22e589911cca8ea7700df11547e6a5
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - FC Barcelona vs Sevilla FC [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773636818-0-0-8d979dd36952d00fccd858b7f6415739
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1773644018-0-0-29cf4025f723c601ece640e481ddcadc
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - FC Barcelona vs Sevilla FC [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773636818-0-0-d51689253e864ebcaa8705665330c21e
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1773644018-0-0-8db4d03511f55fe8722790adbc943f49
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - FC Barcelona vs Sevilla FC [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773636818-0-0-301dcfd467c4879aa2b82948414e2def
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png",09h00 ngày 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1773644018-0-0-27b122914df6b0c0b0ea3bef6d37341d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - FC Barcelona vs Sevilla FC [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773636818-0-0-fe5cf9c8919138eac32ca0799c32f472
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png",09h00 ngày 16/03 Tigres Women vs Queretaro Women [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1773644018-0-0-7e4ef695892748948eefcdba77b803fa
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - Real Betis vs RC Celta [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773636818-0-0-07f466b69caa62c06ead4d7d027b59d5
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png",09h00 ngày 16/03 Tigres Women vs Queretaro Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1773644018-0-0-936609f50a176131452be049769e70db
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - Real Betis vs RC Celta [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773636818-0-0-489000a9162ac97220bd8e701d267780
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png",09h00 ngày 16/03 Tigres Women vs Queretaro Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1773644018-0-0-fcf279dd2e8c317b46ef62f7c930b211
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - Real Betis vs RC Celta [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773636818-0-0-446cec7d8f72c867cc001a16b50f129c
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png",09h00 ngày 16/03 Tigres Women vs Queretaro Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1773644018-0-0-f27c2035e4eb45da94e584922377ebab
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png",Tường thuật: SPA D1 - Real Betis vs RC Celta [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773636818-0-0-bd391c2745c9cfcc143fb7749f478c33
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1773644018-0-0-1b27388b0932824a580b873b708c4971
 #EXTINF:-1 tvg-id="" group-title="Live Events" tvg-logo="https://i.imgur.com/1vqowr7.png",060. Match!Football1
 https://wahyu1ptv.pages.dev/Match!Football1-HD.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live Events" tvg-logo="https://i.imgur.com/1vqowr7.png",061. Match!Football2
@@ -1647,13 +1694,10 @@ https://a1xs.vip/2000015
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7bde3e3c-e72d-431f-a7ab-24131a143785/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Live Events" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",[Spanish LALIGA] Sevilla vs Barcelona (STRMHUB)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/YJ8krnYwZrR/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live Events",beIN SPORTS 1 LIVE (V)
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/237081
+#EXTINF:-1 tvg-id="" group-title="Live Events",q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee Live",EPL channel 1
+https://sm-monirul.top/Toffee/live.php?id=bf1aced37e2b&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live Events" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Channel Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 tvg-id="Sportstars3.id" group-title="Live Events" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_99.png",📺 ⏳ 16:00-18:00 WIB - Friendly Match [SPORTSTARS 3]
@@ -1849,6 +1893,8 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-id="a_sports_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/A SPORTS HD1745044782.png",A SPORTS HD
+http://103.144.89.251:8082/A.SPORTS.HD/index.m3u8?token=434d23b597c4b6cadbccd054ca25a30d4aef5b10-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="19" group-title="Thể Thao" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_spor_mcm.png",A Spor
 https://tv.cdn-vizi.workers.dev/?ID=19
 #EXTINF:-1 tvg-id="ASpor.tr" group-title="Thể Thao" tvg-logo="https://assets.uzunmuhalefet.com/logos/a1535767-1a10-415f-81f2-967b13108bab.png",A Spor
@@ -1866,7 +1912,9 @@ https://dga1op10s1u3leo.2af954b6ecab54.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo=" ",A Sports
 https://ottlive.dishhome.com.np/protected/iwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1773636216&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4801a469ad900c7ae147e3ccb6f84022
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1773645605&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3d916b12f488b2571791966ea92be771
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",A sports
+http://sm-monirul.top/AyNa/play.php?id=a3d48c46-7902-45e2-abf9-0fab60c4d117&e=.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/V6Kaqha.png",ACCDN (1080p) (eng1)  (English) (Sports) - 1080P
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/U8cHMOt.png",ACI Sport TV (1080p) (ita1)  (Italian) (Sports) - 1080P
@@ -1923,6 +1971,8 @@ http://013tv.com:8080/F13836/35b68aca/145720
 http://013tv.com:8080/F13836/35b68aca/304572
 #EXTINF:-1 tvg-id="381855" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/6339533e807ff0eab61698dfd1395192.png",ARENA SPORT 8
 http://013tv.com:8080/F13836/35b68aca/306058
+#EXTINF:-1 tvg-id="389932" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ad45511ffbc847c4a97d0b1a4d5643b0.png",ARENA SPORT 9
+http://013tv.com:8080/F13836/35b68aca/304573
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="4️⃣🇰 🇺 🇭 🇩",ARENA SPORT HR 2
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ArenaHR2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENA SPORTS 1
@@ -2013,8 +2063,6 @@ https://amg02188-jungotv-amg02188c2-vizio-us-5631.playouts.now.amagi.tv/playlist
 http://mytvstream.net:8080/live/30550113/30550113/79545.m3u8
 #EXTINF:-1 tvg-id="465288" group-title="Thể Thao" tvg-logo="https://i.ibb.co/7dZSXDBq/Altitude-Sports.png",Altitude Sports
 https://a1xs.vip/40000048
-#EXTINF:-1 tvg-id="altitude-sports-denver" group-title="Thể Thao",Altitude Sports Denver
-https://tvpass.org/live/altitude-sports-denver/sd
 #EXTINF:-1 tvg-id="AltitudeSportsDenver.us" group-title="Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true",Altitude Sports xip.
 http://xxip25.top:8080/13yXsS/001616/79545
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Amazon-CA: PGA Tour Golf (2026-03-21 14:58:00)
@@ -2136,9 +2184,9 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBola1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Astro Bola 2
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBola2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Astro Foootball
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB4.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Astro Foootball
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS4.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Astro Foootball
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB4.m3u8
 #EXTINF:-1 tvg-id="399505" group-title="Thể Thao",Astro Grandstand
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS3.m3u8
 #EXTINF:-1 tvg-id="399505" group-title="Thể Thao" tvg-logo="https://i.ibb.co/DDHZqWGq/Astro-Grandstand.png",Astro Grandstand
@@ -2146,9 +2194,9 @@ https://a1xs.vip/1100032
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://gstaticontent.com/images/2WjImKh2iXGFRuteLzXU782MJ6l_big.jpg",Astro Kid
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/646527.mp4
 #EXTINF:-1 tvg-id="399511" group-title="Thể Thao",Astro Premier League
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS1.m3u8
-#EXTINF:-1 tvg-id="399511" group-title="Thể Thao",Astro Premier League
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB1.m3u8
+#EXTINF:-1 tvg-id="399511" group-title="Thể Thao",Astro Premier League
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS1.m3u8
 #EXTINF:-1 tvg-id="399491" group-title="Thể Thao",Astro Premier League 2
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS2.m3u8
 #EXTINF:-1 tvg-id="399491" group-title="Thể Thao",Astro Premier League 2
@@ -2471,11 +2519,11 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/BeinAsia1.m3u8
 #EXTINF:-1 tvg-id="524189" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",Bein Sports 1
 http://103.161.153.165:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",Bein Sports 1 (r)
+https://restream-live.realiptv.to/53420573/53717218/659439
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",Bein Sports 1 (r)
 https://restream-live.realiptv.to/53420573/53717218/659436
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",Bein Sports 1 (r)
 https://restream-live.realiptv.to/53420573/53717218/714411
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",Bein Sports 1 (r)
-https://restream-live.realiptv.to/53420573/53717218/659439
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",Bein Sports 1 True Vision 🎯
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-1724" group-title="Thể Thao",Bein Sports 17/24
@@ -2536,6 +2584,8 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",Bleav Football
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="909428fa-8473-43b2-aad5-23cf86b0d829" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",Bleav Football
+http://sm-monirul.top/AyNa/play.php?id=909428fa-8473-43b2-aad5-23cf86b0d829&e=.m3u8
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Bóng Đá Anh -  Canal + Foot
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=394814&extension=ts
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Bóng Đá Anh -  Canal + Sport
@@ -2606,8 +2656,6 @@ http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/371
 #EXTINF:-1 tvg-id="521262" group-title="Thể Thao" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png",CANAL+ SPORT 360
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/370
-#EXTINF:-1 tvg-id="52" group-title="Thể Thao" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cbc_sport_92O.png",CBC Sport
-https://tv.cdn-vizi.workers.dev/?ID=52
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -2620,6 +2668,8 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 https://restream-live.realiptv.to/2879115/5077048/3712
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/cbs-sports.png",CBS Sports Network
 https://a1xs.vip/4000008
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" group-title="Thể Thao",CBS Sports Network USA
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",CCTB Golf & Tennis
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://www.tvchinese.net/uploads/tv/fyzq.jpg",CCTV FOOTBALL
@@ -2632,6 +2682,8 @@ http://200.125.170.122:8000/play/a03j/index.m3u8?checkedby:iptvcat.com
 https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/TV/thumbnail/logo_tv.png",CINE SHORTS PREMIERE
 https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
+#EXTINF:-1 tvg-id="colors_cineplex_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/COLORS CINEPLEX HD1745033519.png",COLORS CINEPLEX HD
+http://103.144.89.251:8082/COLORS.CINEPLEX.HD/index.m3u8?token=c1698d428d744e4ea4993a837dda9b990f1fd2ab-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",COSMOTE SPORTS 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-1.m3u8?raw=true
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",COSMOTE SPORTS 2
@@ -2697,9 +2749,9 @@ http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/35264
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 Portugal (b2)
 http://fortv.cc:8080/phi@live.ca/phi@3574/35264
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 Portugal (r)
-https://restream-live.realiptv.to/53420573/53717218/926
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 Portugal (r)
 https://restream-live.realiptv.to/53420573/53717218/925
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png",DAZN 1 Portugal (r)
+https://restream-live.realiptv.to/53420573/53717218/926
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png",DAZN 2
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19029.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/6gQGTvi.jpg",DAZN 2
@@ -2756,6 +2808,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playli
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
 #EXTINF:-1 tvg-id="464182" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1 tvg-id="464182" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",DD Sports
+http://sm-monirul.top/AyNa/play.php?id=3b238911-d385-406a-b936-07550f30a4f3&e=.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports (720p) - 720P
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports (720p) - 720P
@@ -2768,10 +2822,6 @@ https://a1xs.vip/120002
 https://a1xs.vip/120004
 #EXTINF:-1 tvg-id="sportdigital.de" group-title="Thể Thao" tvg-logo="https://i.ibb.co/ksZQg3HW/sportdigital-fussball.png",DE: Sportdigital Fussball FHD
 https://a1xs.vip/120001
-#EXTINF:-1 tvg-id="7449" group-title="Thể Thao",DIEMA SPORT
-http://45.9.44.143:5020/play/a038/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-id="7448" group-title="Thể Thao",DIEMA SPORT2
-http://45.9.44.143:5020/play/a03a/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-id="5862" group-title="Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkNMMOI9fSPWxvbSlIW9orLAU0NYCBpjIIK47fZlULD1xgxTLmIakgg8CV3r327dRMuET8R76HREY2yD7l6vp2ESzPFxQlGKfBsvL5Pcq0zWn_tXbEeKlCHtWm3bnBOv545kkdxldFwCfikjLYPVZyLsIg6Wt5K3evvKetmF63_YSQlAtVsRXrZ-4RlKo/s700/DIGI%20SPORT%201.png",DIGI SPORT 1
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 #EXTINF:-1 tvg-id="5862" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s",DIGI SPORT 1
@@ -2823,8 +2873,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27184
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
 #EXTINF:-1 tvg-id="Dsport" group-title="Thể Thao" tvg-logo="https://iili.io/qopkq0P.png",Dsport
 http://217.26.190.76:8888/play/a0co/index.m3u8
-#EXTINF:-1 tvg-id="Dsport" group-title="Thể Thao" tvg-logo="https://iili.io/qopkq0P.png",Dsport
-https://xtream.videx.lol/Yoshiro/admin/424.m3u8
 #EXTINF:-1 tvg-id="Dsport +" group-title="Thể Thao" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/80d8999029533191ed8383fb12ccf042.jpg",EKOL SPORT
@@ -2851,6 +2899,8 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif",EPL 2 NOW SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-id="f5807afe716a" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJluFppSx7qkGdkjkiIQ5QyxlqJ9zeWszpJUQibhrbSw&s=10",EPL channel 5
+https://sm-monirul.top/Toffee/live.php?id=f5807afe716a&e=.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/t0e6EYt.jpg",ESPN
@@ -2874,11 +2924,11 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/891519
 #EXTINF:-1 tvg-id="28" group-title="Thể Thao" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png",ESPN 2 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22005.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 US (r)
-https://restream-live.realiptv.to/53420573/53717218/3637
+https://restream-live.realiptv.to/53420573/53717218/3726
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 US (r)
 https://restream-live.realiptv.to/53420573/53717218/2581
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-2.png",ESPN 2 US (r)
-https://restream-live.realiptv.to/53420573/53717218/3726
+https://restream-live.realiptv.to/53420573/53717218/3637
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/espn2.png",ESPN 2 US HD Test
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",ESPN 2 🇦🇷
@@ -2937,14 +2987,16 @@ http://cord-cutter.net:8080/sales@dellerstechshop.ca/sales@4889/99624
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",ESPN Deportes HD
-https://tvpass.org/live/espn-deportes/hd
+#EXTINF:-1 tvg-id="espn-deportes" group-title="Thể Thao",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 tvg-id="29" group-title="Thể Thao" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png",ESPN FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22000.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="Thể Thao" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png",ESPN HD
 https://a1xs.vip/40000011
 #EXTINF:-1 tvg-id="espn.brasil.br" group-title="Thể Thao" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png",ESPN HD
 http://46.151.196.223:14432
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",ESPN HD
+https://tvpass.org/live/ESPN/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/VaUUODO.jpg",ESPN NETWORK
 http://supersonictv.live:8080/006779/439866/22208
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN SD
@@ -2997,6 +3049,8 @@ http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/134832
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?tk=testing
+#EXTINF:-1 tvg-id="464123" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/EUROSPORTS HD1745040406.png",EUROSPORTS HD
+http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=cf5328b15f97775266636dcd74229b4d006950a4-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://ewsat.com/img/EDGE_SPORT.png",Edge Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Edgesports (Asia)
@@ -3014,13 +3068,13 @@ http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105528
 #EXTINF:-1 tvg-id="Equidia.fr@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/QPpbRcZ.png",Equidia (1080p) (fra1)  (French) (Sports) - 1080P
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",Espn
-https://tvsen5.aynascope.net/espn/index.m3u8?e=1773636226&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1a08d0a5b4a61e2f451a98fb5d78fe00
+https://tvsen5.aynascope.net/espn/index.m3u8?e=1773645614&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a4cd6eea93fb4e56089784235fb73ac1
 #EXTINF:-1 tvg-id="Espn 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12755
 #EXTINF:-1 tvg-id="Espn 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
-http://181.209.125.236:10000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="Espn 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9522
+#EXTINF:-1 tvg-id="Espn 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
+http://181.209.125.236:10000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Espn 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopzTeR.png",Espn 1
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122342
 #EXTINF:-1 tvg-id="Espn 2" group-title="Thể Thao" tvg-logo="https://iili.io/qopRJt4.png",Espn 2
@@ -3046,21 +3100,21 @@ http://181.224.200.5:2277/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://207.246.114.254:25461/live/gabysports/gabysports/3354.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://dplatino.net:80/live/credito3geotv/car26octtv/81254.m3u8
-#EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81254.ts
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://138.121.114.91:8000/play/a086/index.m3u8
+http://dplatino.net:80/live/credito3geotv/car26octtv/81254.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://181.209.125.236:10000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://181.209.37.74:8001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
+http://138.121.114.91:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 #EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
+#EXTINF:-1 tvg-id="Espn Premium" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
 #EXTINF:-1 tvg-id="Esport3.es@Originals" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",Esport3 (1080p) [Not 24/7] - 1080P
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://gstaticontent.com/images/szV6XpbpY14AgnCfupB2gzR1dr3_big.jpg",Esporte Sangrento
@@ -3117,6 +3171,8 @@ https://andro.adece12.sbs/checklist/androstreamlivees2.m3u8
 https://andro.adece14.sbs/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",Euro Sport 2 HD
 https://andro.3749206.xyz/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-id="512066" group-title="Thể Thao" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",Euro Sport HD
+https://sm-monirul.top/Toffee/live.php?id=258468998307&e=.m3u8
 #EXTINF:-1 tvg-id="512066" group-title="Thể Thao",Euro Sport HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="67b79781eab92d6624ee0a33" group-title="Thể Thao" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51",European Football League
@@ -3139,6 +3195,8 @@ https://jtvp.8088y.workers.dev/bpk-tv/Dsports_HD_BTS/output/index.mpd?tk=testing
 http://103.161.153.165:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie@US" group-title="Thể Thao" tvg-logo="https://i.imgur.com/cjXzWsI.png",F1 Channel (1080p) [Geo-blocked] (eng4)  (English) (Sports) - 1080P
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fast_sports_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png",FAST SPORTS HD
+http://103.144.89.251:8082/FAST.SPORTS.HD/index.m3u8?token=0e1304dc6f37d067bdf2896e6fba4370ed7e1b21-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/qBVqtYd.png",FB TV (eng4)  (English) (Sports)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="524015" group-title="Thể Thao" tvg-logo="https://i.imgur.com/maq2Qzk.jpg",FIGHT SPORTS
@@ -3243,12 +3301,10 @@ https://a1xs.vip/4000052
 https://a1xs.vip/4000056
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/YPHrFU0.png",FanDuel TV (720p) (eng4)  (English) (Sports) - 720P
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
-#EXTINF:-1 tvg-id="fanduel-sports-network-florida" group-title="Thể Thao",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" group-title="Thể Thao",Fanduel Sports Network South Tennessee
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" group-title="Thể Thao",Fanduel Sports Tennessee East
-https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" group-title="Thể Thao",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" group-title="Thể Thao",Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
 #EXTINF:-1 tvg-id="Fox Sport 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1
 http://138.121.114.91:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 1" group-title="Thể Thao" tvg-logo="https://iili.io/qopho5x.png",Fox Sport 1
@@ -3257,8 +3313,6 @@ http://181.209.125.236:10000/play/a02y/index.m3u8
 http://181.209.125.236:10000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" group-title="Thể Thao" tvg-logo="https://iili.io/qopwQWB.png",Fox Sport 2
 http://138.121.114.91:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-id="fox-sports-1" group-title="Thể Thao",Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/DftJmQBp/images.png",Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
@@ -3266,13 +3320,15 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",Fox Sports 1
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6",Fox Sports 1
-https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1773636241&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82496a4144a3953aa742fc82a1904d7d
+https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1773645628&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=af4cfb75c7d00afeff80fe44751586b1
+#EXTINF:-1 tvg-id="719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6",Fox Sports 1
+http://sm-monirul.top/AyNa/play.php?id=719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png",Fox Sports 1 (7PAL)
 https://7pal.short.gy/fs1us
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png",Fox Sports 1 (r)
-https://restream-live.realiptv.to/53420573/53717218/2501
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png",Fox Sports 1 (r)
 https://restream-live.realiptv.to/53420573/53717218/3732
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png",Fox Sports 1 (r)
+https://restream-live.realiptv.to/53420573/53717218/2501
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png",Fox Sports 1 (r)
 https://restream-live.realiptv.to/53420573/53717218/21592
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/s2XDT1T4/FS2-logo-2015-svg.png",Fox Sports 2
@@ -3343,6 +3399,8 @@ http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
 #EXTINF:-1 tvg-id="470741" group-title="Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg",GOLF CHANNEL 🇸🇰
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="golf_sports" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/GOLF SPORTS1745043338.png",GOLF SPORTS
+http://103.144.89.251:8082/GOLF.SPORTS/index.m3u8?token=5d452ef8c3c53a2dc267a58feab7ba69a8e540d8-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="463810" group-title="Thể Thao",GOLF+
 http://151.80.18.177:86/GOLF+_HD/index.m3u8
 #EXTINF:-1 tvg-id="463810" group-title="Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/sports/golf+.jpg",GOLF+
@@ -3364,7 +3422,7 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts
 #EXTINF:-1 tvg-id="470741" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",Golf Channel
 http://sm-monirul.top/AyNa/play.php?id=9954b40b-67df-4cd9-9303-e02d713ad0a0&e=.m3u8
 #EXTINF:-1 tvg-id="470741" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",Golf Channel
-https://tvsen6.aynascope.net/golfchannel/index.m3u8?e=1773636221&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f0e97e068ae3c358bd4b85cf70fb537c
+https://tvsen6.aynascope.net/golfchannel/index.m3u8?e=1773645609&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0bbd56109e4e4332c16bf86b284a045e
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",Golf Channel Latin America (spa3)  (Spanish) (Sports)
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://yt3.googleusercontent.com/0quLOHQGvWD-1HZ4HOL7r6rZW7DNCAhFclJ9koDxZAo19U-uSnchcWKmBDRcmUVmEsZs4__I9w=w0",Golf Nation 🇬🇧
@@ -3451,8 +3509,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://a1xs.vip/1100041
 #EXTINF:-1 tvg-id="492888" group-title="Thể Thao" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272",Hub Premier 2
 https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="492845" group-title="Thể Thao",Hub Premier 4
-https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="492888" group-title="Thể Thao",Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub4.png",Hub Premier 4 FHD
 https://a1xs.vip/1100044
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png",Hub Sports 1
@@ -3527,7 +3585,7 @@ http://5678999.life:2082/adamusa1242025/attalah77448866/8938
 http://45.74.244.181:3800/izle/eurosport2.m3u8
 #EXTINF:-1 tvg-id="kabloeuros" group-title="Thể Thao",Kablo Tv - Euro sports 1
 http://45.74.244.181:3800/izle/eurosport1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Knockouts!: Gatti Vs Baldomir (21:00 WIB) - FIGHT SPORTS
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Knockouts!: Khan Vs Garcia (21:00 WIB) - FIGHT SPORTS
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #EXTINF:-1 tvg-id="Sport 1.al" group-title="Thể Thao",Kujtesa Sport 1 HD
 https://mn.shikoshqip.live:2083/216b00f216cc995b/VkakEYkB9Y/171
@@ -3548,15 +3606,15 @@ http://5678999.life:2082/adamusa1242025/attalah77448866/8944
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://www.ass-media.de/pic/upload/2016/06/05/20160605163256-6cc7c1ff.png",Kuwait Sports HD
 http://5678999.life:2082/adamusa1242025/attalah77448866/117728
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10",LALIGA
-https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10",LALIGA
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10",LALIGA
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Laliga Movistar
-https://xtream.videx.lol/Yoshiro/admin/478.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://images.iptvmate.net/tvglogo/da3eba35df32e73cebbdbfa4cf4b8447.png",Lax Sports Network TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",M Sports BD
+https://cors-proxy.cooks.fyi/http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MNetSport.mk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/7k8ar1Z.png",M-Net Sport (720p) - 720P
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",M4 Sport 🇭🇺
@@ -3646,7 +3704,7 @@ http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" group-title="Thể Thao" tvg-logo="https://i.ibb.co/LdLd08FH/Marquee-Sports-Network.png",Marquee Sports Network
 https://a1xs.vip/4000010
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Network
-https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1773636230&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=00355c1e1fb17127ef22c5b9957a4c85
+https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1773645618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=df1f706e478e1a0f2bab469ee1649c11
 #EXTINF:-1 tvg-id="MeridianoTV.ve@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/I6gsUqD.png",Meridiano TV (spa4)  (Spanish) (Sports)
 https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/RPJiolQ.png",Midpen Media Center Youth Education and Sports Channel 28 (720p) (eng6)  (English) (Education) - 720P
@@ -3675,8 +3733,12 @@ http://49.0.64.96:8007/GOLF
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png",NBC Sports Boston
 http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8
+#EXTINF:-1 tvg-id="nbc-sports-california" group-title="Thể Thao",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/sd
 #EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png",NBC Sports California
 http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8
+#EXTINF:-1 tvg-id="465054" group-title="Thể Thao" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",NBC Sports California HD
+https://tvpass.org/live/nbc-sports-california/hd
 #EXTINF:-1 tvg-id="485735" group-title="Thể Thao" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a90a91570ce0536cbb22b591ad7e0da2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736299139819_nbc-sports-now-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png",NBC Sports NOW
 https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png",NBC Sports Philadelphia
@@ -3719,8 +3781,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19065.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19066.ts
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel (720p) (eng6)  (English) (Sports) - 720P
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="new-england-sports-network" group-title="Thể Thao",New England Sports Network
-https://tvpass.org/live/new-england-sports-network/sd
 #EXTINF:-1 tvg-id="e6f5a623c45d5757a50e602eb0591f62" group-title="Thể Thao" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6f5a623c45d5757a50e602eb0591f62/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718135290274_noticias-telemundo-ahora-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png",Noticias Telemundo Ahora
 https://jmp2.uk/rok-e6f5a623c45d5757a50e602eb0591f62.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Noticias Telemundo Ahora (1080p) [Geo-blocked] - 1080P
@@ -3860,12 +3920,16 @@ https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
 https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-id="PROSportInternational.my@SD" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png",PRO SPORT INTERNATIONAL
 https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ptv_sports_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/PTV SPORTS HD1745044993.png",PTV SPORTS HD
+http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=eaea40312b85ead4bf54e9803b7c453f2b65eae1-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",PTV Sports
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",PTV Sports
-https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1773636215&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ce65173631b556286e538e41bec8b071
+https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1773645604&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d32a6e47a8c147411a82b3852208b811
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/H0Z99VR/Picsart-25-09-02-15-55-40-649.png",PTV Sports
 https://m3u.8088y.fun/stk/uiop/play.php?id=55987
+#EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",PTV Sports
+http://sm-monirul.top/AyNa/play.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348&e=.m3u8
 #EXTINF:-1 tvg-id="Pac12Insider.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/736QREy.png",Pac 12 Insider (1080p) (eng7)  (English) (Sports) - 1080P
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Paris Premiere HD
@@ -3988,6 +4052,8 @@ https://ww.dooballfree.vip/live/primasport3/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaSport4.ro" group-title="Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947",Prima Sport 4
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 tvg-id="38b0853b-8333-4387-bd86-8437073a1c49" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/370762bb5582389fb52469931cdcd357",Pro Sports International
+http://sm-monirul.top/AyNa/play.php?id=38b0853b-8333-4387-bd86-8437073a1c49&e=.m3u8
 #EXTINF:-1 tvg-id="RACERInternational.pl@FAST" group-title="Thể Thao",RACER International (eng7)  (English) (Sports)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerSelect.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/CurtYvn.png",RACER Select (1080p) (eng7)  (English) (Sports) - 1080P
@@ -4105,9 +4171,9 @@ https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/S-sport1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ssport-plus-.png/640px-Ssport-plus-.png",S-SPORT 2
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/S-sport2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SCTV 22 - SSPORT 1 🇻🇳
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SCTV 22 - SSPORT 1 🇻🇳
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="V.Sport.Ultra.HD.se" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png",SE: V Sport Ultra HD
 https://a1xs.vip/9000013
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnXVwBChb_mmMOowFLyKWtVwCIWeQ8WK-GLfRctCWfgpjZxU5CahUHx6yHaHFGIN8cVKHrAtBacvwWwWaDxW8xPC6W6Cqh-vwhRk8uGwQkxn4D4paoAlpjsspEF7TCFwHADKQwPKn7DSenLhRy99eIpXgOi9CIcEMoyj61BpruKKc7PFQ7CQsUOVxAmwGc/s700/SEA%20V%20LEAGUE.png",SEA V LEAGUE ONE SPORT
@@ -4137,6 +4203,8 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
 http://013tv.com:8080/F13836/35b68aca/307980
 #EXTINF:-1 tvg-id="456331" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png",SKY SPORT 3
 http://013tv.com:8080/F13836/35b68aca/307981
+#EXTINF:-1 tvg-id="212838" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png",SKY SPORT 4
+http://013tv.com:8080/F13836/35b68aca/307982
 #EXTINF:-1 tvg-id="212824" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png",SKY SPORT 5
 http://013tv.com:8080/F13836/35b68aca/307983
 #EXTINF:-1 tvg-id="480217" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png",SKY SPORT 6
@@ -4152,15 +4220,15 @@ http://013tv.com:8080/F13836/35b68aca/307987
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg",SKY SPORT CALCIO
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://179.60.224.196:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://45.5.117.57:8200/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" group-title="Thể Thao" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png",SKY Sport 1 NZ
 https://a1xs.vip/700031
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" group-title="Thể Thao" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png",SKY Sport 2 NZ
@@ -4181,8 +4249,18 @@ https://purple-fog-7608.han686314.workers.dev/selcuksmartspor1.m3u8
 https://purple-fog-7608.han686314.workers.dev/selcuksmartspor2.m3u8
 #EXTINF:-1 tvg-id="524082" group-title="Thể Thao" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png",SOCCER CHANNEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:-1 tvg-id="sony_sports_1_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/sony sports 1 hd.png",SONY SPORTS 1 HD
+http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=3c11d59867366761707893bd348c53e929a80238-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/RElOsbl.jpg",SONY SPORTS 2
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Son2.m3u8
+#EXTINF:-1 tvg-id="sony_sports_2_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/sony sports 2 hd.png",SONY SPORTS 2 HD
+http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=b9cb3bdddc2be2712e5aabf5fe5024c05875a262-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
+#EXTINF:-1 tvg-id="sony_sports_3" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/Sony sports 3.png",SONY SPORTS 3
+http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=83b1d73edddc581643cae4f5e7967c1e65664744-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
+#EXTINF:-1 tvg-id="sony_sports_4" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/sony sports 4.png",SONY SPORTS 4
+http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=da88229add97992b04095aeefa4c3c40ae906768-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
+#EXTINF:-1 tvg-id="sony_sports_5_hd" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/sony sports 5 hd.png",SONY SPORTS 5 HD
+http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=aaed91fb175c172e2070960f5317e9d612532689-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SP: MOVISTAR GOLF HD 1080P - 1080P
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46880
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SP: MOVISTAR GOLF HD 720P - 720P
@@ -4446,8 +4524,16 @@ https://purple-fog-7608.han686314.workers.dev/selcukssport1.m3u8
 https://purple-fog-7608.han686314.workers.dev/selcukssport2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/QI0sRvg.jpg",STAR SPORT 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
+#EXTINF:-1 tvg-id="464285" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/STAR SPORTS 1 HD1744991778.png",STAR SPORTS 1 HD
+http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=7e833c638f06e67da11d5258966738ff6bc22307-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
+#EXTINF:-1 tvg-id="464295" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/STAR SPORTS 2 HD1744991842.png",STAR SPORTS 2 HD
+http://103.144.89.251:8082/STAR.SPORTS2.HD/index.m3u8?token=67b7c35f5e1cce624841c4b2aa874e379eac1160-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="464295" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8",STAR SPORTS 2 HD
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1773636252&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=71f959c39c525806e0e3b24ca56cfcdd
+http://sm-monirul.top/AyNa/play.php?id=3ac46078-2bf0-4998-a021-37b459e09fba&e=.m3u8
+#EXTINF:-1 tvg-id="464163" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/STAR SPORTS 31745039893.png",STAR SPORTS 3
+http://103.144.89.251:8082/STAR-SPORTS.3/index.m3u8?token=364be09b40ebd48f752dc27fd58a40bb699f09e0-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
+#EXTINF:-1 tvg-id="464238" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/STAR SPORTS SELECT 2 HD1745033722.png",STAR SPORTS SELECT 2 HD
+http://103.144.89.251:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=1f50a6983838cd51db91f88f9364a4ab30ffcade-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/37/641d47189768b.png",STARZPLAY SPORTS 1 4K
 http://5678999.life:2082/adamusa1242025/attalah77448866/282483
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/37/641d47189768b.png",STARZPLAY SPORTS 1 HD
@@ -4591,9 +4677,9 @@ https://v.antsports.tv/live/24/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Sky Sports Premier League
 https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (r)
-https://restream-live.realiptv.to/53420573/53717218/2181
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (r)
 https://restream-live.realiptv.to/53420573/53717218/2182
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",Sky Sports Premier League (r)
+https://restream-live.realiptv.to/53420573/53717218/2181
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-title="Thể Thao" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png",Sky Sports Premier League FHD
 https://a1xs.vip/2000002
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" group-title="Thể Thao" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Racing.png?raw=true",Sky Sports Racing UK NOW
@@ -4726,12 +4812,12 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21002.ts
 #EXTINF:-1 tvg-id="374694" group-title="Thể Thao",Sport 1
 https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="ATBD2300001PY" group-title="Thể Thao" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2300001PY_20250107T022216SQUARE.png",Sport 1 Motor
+https://jmp2.uk/stvp-ATBD2300001PY
 #EXTINF:-1 tvg-id="CHBD2300001ZB" group-title="Thể Thao" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2300001ZB_20250107T025556SQUARE.png",Sport 1 Motor
 https://jmp2.uk/stvp-CHBD2300001ZB
 #EXTINF:-1 tvg-id="DEBD2300001ND" group-title="Thể Thao" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2300001ND_20250107T024414SQUARE.png",Sport 1 Motor
 https://jmp2.uk/stvp-DEBD2300001ND
-#EXTINF:-1 tvg-id="ATBD2300001PY" group-title="Thể Thao" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2300001PY_20250107T022216SQUARE.png",Sport 1 Motor
-https://jmp2.uk/stvp-ATBD2300001PY
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Sport 2
 https://estreams.tv.nej.cz/dash/CH_SPORT2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Sportitalia.it@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/0CJGGgd.png",Sport Italia (1080p) (ita1)  (Italian) (Sports) - 1080P
@@ -4781,9 +4867,9 @@ https://restream-live.realiptv.to/53420573/53717218/839
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/WW0lNk1.png",Sport2U
 https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SportTV 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4809,7 +4895,7 @@ https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsCo
 #EXTINF:-1 tvg-id="489130" group-title="Thể Thao",Sports Grid
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="489130" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid
-https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1773636232&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=40eb7bd222b43e59abcbe7f22f68118b
+https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1773645620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d757d12fbab9943c26296e344828a4e5
 #EXTINF:-1 tvg-id="6216ae22c3bbca2de8704f65" group-title="Thể Thao" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",Sports Illustrated TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6216ae22c3bbca2de8704f65.m3u8?X-Plex-Token=PhYkUxKBCmmz8YZLhsCx
 #EXTINF:-1 tvg-id="489130" group-title="Thể Thao" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png",SportsGrid
@@ -4846,6 +4932,8 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1289
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="470574" group-title="Thể Thao",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 tvg-id="sportsnet-360" group-title="Thể Thao",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png",Sportsnet 360
 https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" group-title="Thể Thao" tvg-logo="https://i.imgur.com/oKnzVLr.png",Sportsnet 360
@@ -4860,8 +4948,6 @@ http://1tv41.icu:8080/april_wiseman@hotmail.com/JwjGB8K5uM/57298
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="470873" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png",Sportsnet One
 https://stream.decentdoubts.net/808/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
-#EXTINF:-1 tvg-id="sportsnet-ontario" group-title="Thể Thao",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/sd
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" group-title="Thể Thao" tvg-logo="https://i.imgur.com/UDfhP02.png",Sportsnet Ontario
 https://7pal.short.gy/sptsneton
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" group-title="Thể Thao" tvg-logo="https://i.ibb.co/xqdMW6XQ/Sports-Net-On.png",Sportsnet Ontario FHD
@@ -4896,18 +4982,16 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19026.ts
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="464285" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12472.ts
-#EXTINF:-1 tvg-id="464285" group-title="Thể Thao",Star Sports 1 HD
-http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #EXTINF:-1 tvg-id="464285" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7",Star Sports 1 HD
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1773636223&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4bc264a0a1f3a1f41d68c0b6e970937e
+https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1773645611&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8167297f856d824413024705f1c7eaf0
+#EXTINF:-1 tvg-id="464285" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 1 HD
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD (1080p) - 1080P
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD [Geo-blocked]
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="464295" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
-#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 HD (1080p) (eng8)  (English) (Sports) - 1080P
-http://103.121.6.5:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Star Sports 2 HD Hindi
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Tamil.in@HD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/eWPoUxB.png",Star Sports 2 Tamil HD (1080p) - 1080P
@@ -4972,12 +5056,16 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",T SPORT 🇮🇳
 http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 tvg-id="t_sports" group-title="Thể Thao" tvg-logo="http://103.144.89.251/assets/images/T SPORTS1744972630.png",T SPORTS
+http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=c7f3cb10d71b7d3170016b1f3c712e7c2a9cefad-0293c6b6948d3fe6619823fdce854f5e-1773646624-1773635824&remote=no_check_ip
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1773636214&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6f14f01cccf7e54199642bb1a608051c
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1773645603&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e0ae1535dbeda5d70817e41a65b84f7b
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports HD
+http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",T2 Tennis Channel (Geo)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",TABIISPOR1 HD
@@ -5123,9 +5211,9 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-id="TNT Sports" group-title="Thể Thao" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://207.246.114.254:25461/live/gabysports/gabysports/3398.m3u8
 #EXTINF:-1 tvg-id="TNT Sports" group-title="Thể Thao" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
-http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
-#EXTINF:-1 tvg-id="TNT Sports" group-title="Thể Thao" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://redworld.pro:8880/luis738049207/98756479239/327919
+#EXTINF:-1 tvg-id="TNT Sports" group-title="Thể Thao" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
+http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
 #EXTINF:-1 tvg-id="TNT Sports" group-title="Thể Thao" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://181.209.125.236:10000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports" group-title="Thể Thao" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
@@ -5140,6 +5228,8 @@ https://v.antsports.tv/live/5/index.m3u8
 https://v.antsports.tv/live/6/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS4.png",TNT Sports 4 FHD
 https://a1xs.vip/2000024
+#EXTINF:-1 tvg-id="9cc74d11cfd0" group-title="Thể Thao" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",TOFFEE Sports VIP
+https://sm-monirul.top/Toffee/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-id="430249" group-title="Thể Thao" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da",TRACE Sport Stars
 https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-sportstribal/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="430249" group-title="Thể Thao" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000085E_20250910T004955SQUARE.png",TRACE Sport Stars
@@ -5177,18 +5267,17 @@ https://streams.uzunmuhalefet.com/stream/978e9210-f530-44ae-99c8-8bdfc998b071.m3
 #EXTINF:-1 tvg-id="TRT Spor Yıldız.tr" group-title="Thể Thao" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/G/YE/246177/logo.png?v=638671715529106823",TRT Spor Yıldız
 http://104.238.23.221/dsgo.php?id=246177
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",TSN 1
-https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1773636242&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5b6d1d8c7d45959331f850e55599fc3e
+https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1773645629&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=437c667e214a0d9de0756330904ece55
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg ",TSN 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-1.png",TSN 1 (s)
 https://stream.decentdoubts.net/805/index.m3u8
 #EXTINF:-1 tvg-id="TSN.HD.ca2" group-title="Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",TSN 1 1tv.
 http://1tv41.icu:8080/april_wiseman@hotmail.com/JwjGB8K5uM/57292
-#EXTINF:-1 tvg-id="TSN1 HD.ca" group-title="Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png",TSN 1 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://7pal.short.gy/tsn1ca
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",TSN 2
-https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1773636227&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fae2f75aa91266c0f13d5cac2f66b482
+https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1773645615&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=427bfbabc2ca376d1f78971e96d23b42
+#EXTINF:-1 tvg-id="32d28b2c-aded-481d-833b-cee57cecfc93" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",TSN 2
+http://sm-monirul.top/AyNa/play.php?id=32d28b2c-aded-481d-833b-cee57cecfc93&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png",TSN 2 (s)
 https://stream.decentdoubts.net/806/index.m3u8
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true",TSN 2 1tv.
@@ -5199,7 +5288,9 @@ http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://7pal.short.gy/tsn2ca
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",TSN 3
-https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1773636243&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=59071c896a8f97a3b9feb6c6b5c1e570
+https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1773645629&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b6d09a50a81019ef07d41c775601a9f3
+#EXTINF:-1 tvg-id="9d3a1097-c171-4aee-99ad-e76c0c4a4c75" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",TSN 3
+http://sm-monirul.top/AyNa/play.php?id=9d3a1097-c171-4aee-99ad-e76c0c4a4c75&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-3.png",TSN 3 (s)
 https://stream.decentdoubts.net/807/index.m3u8
 #EXTINF:-1 tvg-id="TSN.3.HD.ca2" group-title="Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true",TSN 3 1tv.
@@ -5241,12 +5332,12 @@ https://a1xs.vip/6000002
 https://a1xs.vip/6000003
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",TSN3 🇨🇦
 https://stream.decentdoubts.net/807/index.m3u8?token=M0lLeXQ4ZWIxNkxJZ0p1cmhhMjBtTWlvMDhsK3h0NS9zb21keGF5am5vSERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
-#EXTINF:-1 tvg-id="tsn4" group-title="Thể Thao",TSN4
-https://tvpass.org/live/tsn4/sd
 #EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Thể Thao" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png",TSN4
 https://a1xs.vip/6000004
 #EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Thể Thao" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png",TSN5
 https://a1xs.vip/6000005
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",TSportss BD
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-tennis.png",TV4 Tennis 🇸🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5306,15 +5397,17 @@ http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/333398
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Tabii Spor 9
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/333397
 #EXTINF:-1 tvg-id="12205" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Talk Sport
-https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1773636228&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f9629846d594b653421f478918179933
-#EXTINF:-1 tvg-id="322530" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ZsWDiRF.png",Tap Sports
-http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1773645616&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a5478718c17662a9c72aa60584cccf95
+#EXTINF:-1 tvg-id="12205" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Talk Sport
+http://sm-monirul.top/AyNa/play.php?id=6e70514c-5f8e-483b-8c97-3c971b558a74&e=.m3u8
 #EXTINF:-1 tvg-id="322530" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ZsWDiRF.png",Tap Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e7c1b9a2d8f4a6c9f30b1d6e2a8c744:6178d9d177689eec5028e2dd608ae7b6
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
+#EXTINF:-1 tvg-id="322530" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ZsWDiRF.png",Tap Sports
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="5ae9fb0c6e015b0d951063f6a6b39ee5" group-title="Thể Thao" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5ae9fb0c6e015b0d951063f6a6b39ee5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1711394905485_telemundo-acci-n-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1_%25281%2529.png",Telemundo Acción
@@ -5395,10 +5488,12 @@ http://5678999.life:2082/adamusa1242025/attalah77448866/877927
 http://5678999.life:2082/adamusa1242025/attalah77448866/877930
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://x12tv.co/mbc/Thmanyah_Logo.svg.png",Thamanya 3 Sport SD
 http://5678999.life:2082/adamusa1242025/attalah77448866/877933
-#EXTINF:-1 tvg-id="the-tennis-channel" group-title="Thể Thao",The Tennis Channel
-https://tvpass.org/live/TennisChannel/sd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Tianjin Sports
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="TigoSports.sv" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png",Tigo Sports TV El Salvador (720p) [Geo-blocked] - 720P
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Tigo Sports TV El Salvador (720p) [Geo-blocked] - 720P
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TivibuSpor.tr" group-title="Thể Thao" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
 #EXTINF:-1 tvg-id="tivibu-spor-1724" group-title="Thể Thao",Tivibu Spor 17/24
@@ -5709,7 +5804,7 @@ http://origin.thetvapp.to/hls/MLB020/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/add-sports-1.png",asports
-https://edge2.roarzone.info:8447/roarzone/edge2/a-sports/index.m3u8?token=8e905791505877a57f9e88fbc38b10198622e169-ba7524774adee1607ccb76ab05f38289-1773635394-1773631794
+https://edge2.roarzone.info:8447/roarzone/edge2/a-sports/index.m3u8?token=09d871366c337c97f66edf09d41f9169734a1d41-f93c4991d707b5a181b5fb9875e2c969-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",beIN SPORT 2 FHD
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/87
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",beIN SPORT 2 HD
@@ -5776,27 +5871,27 @@ https://jmp2.uk/rok-909b135136a1567eaf3f65fb64988323.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",beIN SPORTS 🇲🇦
 http://154.197.91.169:8000/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",beIN Sport 1 HD
-https://purple-fog-7608.han686314.workers.dev/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",beIN Sport 1 HD
 https://purple-fog-7608.han686314.workers.dev/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",beIN Sport 1 HD
+https://purple-fog-7608.han686314.workers.dev/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",beIN Sport 1 HD
 https://atom.han686314.workers.dev/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",beIN Sport 1 HD
-https://bot-sport.aykara463.workers.dev/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",beIN Sport 1 HD
 https://bot-sport.aykara463.workers.dev/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/dwa2pew.jpg",beIN Sport 1 HD
-https://andro.adece12.sbs/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",beIN Sport 1 HD
+https://bot-sport.aykara463.workers.dev/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/dwa2pew.jpg",beIN Sport 1 HD
 https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/dwa2pew.jpg",beIN Sport 1 HD
+https://andro.adece12.sbs/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/dwa2pew.jpg",beIN Sport 1 HD
 https://andro.adece14.sbs/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/dwa2pew.jpg",beIN Sport 1 HD
 https://andro.adece14.sbs/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",beIN Sport 1 HD
-https://andro.3749206.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",beIN Sport 1 HD
 https://andro.3749206.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg",beIN Sport 1 HD
+https://andro.3749206.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",beIN Sport 2 HD
 https://purple-fog-7608.han686314.workers.dev/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="Thể Thao" tvg-logo="https://i.hizliresim.com/1opo3ah.jpg",beIN Sport 2 HD
@@ -5882,29 +5977,53 @@ https://mn.shikoshqip.live:2083/216b00f216cc995b/VkakEYkB9Y/195
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",espn HD
 http://84.17.50.102/espn/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png",euro sports
-https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=323484ea316f7f684afd896187e3badc5ea7cb0b-205dd78e233cf5f81979de34302df2e9-1773621651-1773618051
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png",euro sports
 https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=9ff460eaaef2bf7662dfc3581a3edfaae644cc93-292d0d5d01714ad4320bad538e7f26fd-1773622858-1773619258
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png",euro sports
+https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=94d21acd5d806f590bad3ada874d0c1f57b2b6b6-b6c3bb113cce3088459e77bfb34afe1b-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png",euro sports
 https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=6a044308761833f2807dc9fc6534cd9346019f4e-39441f56775742f0216dff75c5b64caa-1773635394-1773631794
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://images.vizio.com/v4/btv/1/1647012810/1/267/150/0.jpg",fubo Sports
 https://wurlfubo.global.transmit.live/hls/67eb094ee3ed1615e41629ae/v1/fubotv_fubo_sports_network_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk1ODAzODMxMH0
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/qFNRJLb.png",fubo Sports Network (1080p) (eng4)  (English) (Sports) - 1080P
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="11de64089b05" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="SPORTS",Global TV
+https://sm-monirul.top/Toffee/live.php?id=11de64089b05&e=.m3u8
+#EXTINF:-1 tvg-id="09958247947d" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png",q_75,f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="SPORTS",Desh TV
+https://sm-monirul.top/Toffee/live.php?id=09958247947d&e=.m3u8
+#EXTINF:-1 tvg-id="5865ee89896f" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/6y_b4poBNnOkwJLWmn7X/posters/c1440521-da52-4cf7-b137-dd38d1de083a.png",q_75,f_webp/6y_b4poBNnOkwJLWmn7X/posters/c1440521-da52-4cf7-b137-dd38d1de083a.png" group-title="SPORTS",EPL channel 6
+https://sm-monirul.top/Toffee/live.php?id=5865ee89896f&e=.m3u8
+#EXTINF:-1 tvg-id="2152917b80f2" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png",q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="SPORTS",Nexus TV
+https://sm-monirul.top/Toffee/live.php?id=2152917b80f2&e=.m3u8
+#EXTINF:-1 tvg-id="72236e9ac8d0" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png",q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png" group-title="SPORTS",ATN Bangla
+https://sm-monirul.top/Toffee/live.php?id=72236e9ac8d0&e=.m3u8
+#EXTINF:-1 tvg-id="5780f0b94094" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/Mi1QqZgBNnOkwJLWxggo/posters/3e9d4d0a-a346-4b39-92b5-13e9238ad240.png",q_75,f_webp/Mi1QqZgBNnOkwJLWxggo/posters/3e9d4d0a-a346-4b39-92b5-13e9238ad240.png" group-title="SPORTS",EPL channel 2
+https://sm-monirul.top/Toffee/live.php?id=5780f0b94094&e=.m3u8
+#EXTINF:-1 tvg-id="fe297e9de93c" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/OyEz-ZgBEef-9-uVnhcx/posters/f2143475-cf44-441a-b55d-58b2b5569aa5.png",q_75,f_webp/OyEz-ZgBEef-9-uVnhcx/posters/f2143475-cf44-441a-b55d-58b2b5569aa5.png" group-title="SPORTS",EPL channel 4
+https://sm-monirul.top/Toffee/live.php?id=fe297e9de93c&e=.m3u8
+#EXTINF:-1 tvg-id="53d12ffe3d30" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/Pi1TqZgBNnOkwJLWVggf/posters/d0bb78b5-4690-4c12-9c7b-e785eb8d7336.png",q_75,f_webp/Pi1TqZgBNnOkwJLWVggf/posters/d0bb78b5-4690-4c12-9c7b-e785eb8d7336.png" group-title="SPORTS",EPL channel 3
+https://sm-monirul.top/Toffee/live.php?id=53d12ffe3d30&e=.m3u8
+#EXTINF:-1 tvg-id="21e3f3e5ef49" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="SPORTS",Jamuna TV
+https://sm-monirul.top/Toffee/live.php?id=21e3f3e5ef49&e=.m3u8
+#EXTINF:-1 tvg-id="60a689916e60" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="SPORTS",Ekhon TV
+https://sm-monirul.top/Toffee/live.php?id=60a689916e60&e=.m3u8
+#EXTINF:-1 tvg-id="3bcb5f43bd8d" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="SPORTS",Channel i
+https://sm-monirul.top/Toffee/live.php?id=3bcb5f43bd8d&e=.m3u8
 #EXTINF:-1 tvg-id="raisport1" group-title="Thể Thao" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png",raisport1
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",speed sports 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="3f01188b-bba8-44ed-a75a-2662c108450c" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",speed sports 1
+http://sm-monirul.top/AyNa/play.php?id=3f01188b-bba8-44ed-a75a-2662c108450c&e=.m3u8
 #EXTINF:-1 tvg-id="463825" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/25.png",star sports 1
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=b41264c42488f46e8bc35cc2cf183266f7e2c842-d21a40ff0fdec20f9974b337d324b2af-1773635394-1773631794
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=336c45af19661f909883c7c4882f0782c3747295-b225e87c790187766c2d0f393ddee51b-1773642611-1773639011
 #EXTINF:-1 tvg-id="464015" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/26.png",star sports 2
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-2/index.m3u8?token=99ba63a64de075ef186220b058e112db9d9a4cd8-531aaa889f9940e8ffc2ffb0304f18d3-1773635394-1773631794
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-2/index.m3u8?token=b1bdd340a666693d9d3d5aa95bab7cebfe85ee85-f2ab85b79dd042c3b277d7d0329af765-1773642611-1773639011
 #EXTINF:-1 tvg-id="464065" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/27.png",star sports select 1
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=a8af808a4780468e6dd7865c62a044dda91b8b10-52fb38f656bb95312285402d1478d226-1773635394-1773631794
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=cb218727a7bfcbb5affd09da0d8893edf86800d4-288ab81616c25ed923d0f34ab9fda96f-1773642611-1773639011
 #EXTINF:-1 tvg-id="463953" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/28.png",star sports select 2
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=d2b14e904a316f3c53d8aed8f9c2312a8fb55d2b-a47a8b735fd71163fff1a3a0ba29a59b-1773635394-1773631794
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=c2c36ae842dd7f56d94700a7c3fc7efe2f62f3b4-0a667dcae8e0feada6b9460202503aa5-1773642611-1773639011
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://tvassets.roarzone.info/images/102.png",t sports
-https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=3ed2bc768251bdbc65d6449ff1d9d0df406b27df-15b506c811046fb81ccae0e0fdada779-1773635394-1773631794
+https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=9ea7432c2fde6de2348602fc0703a6cf4faca50f-b64e2df753f5bae677f61cf4c93da121-1773642611-1773639011
 #EXTINF:-1 tvg-id="tabii-spor-1724" group-title="Thể Thao",tabii Spor 17/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -5944,6 +6063,16 @@ https://dga1op10s1u3leo.2af954b6ecab54.click/live/selcuktabiispor1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=unifi1
+#EXTINF:-1 tvg-id="2ea95a9da2d7" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png",w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png" group-title="SPORTS",Zee Bollywood
+https://sm-monirul.top/Toffee/live.php?id=2ea95a9da2d7&e=.m3u8
+#EXTINF:-1 tvg-id="dc488b1502f5" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="SPORTS",Zee Anmol
+https://sm-monirul.top/Toffee/live.php?id=dc488b1502f5&e=.m3u8
+#EXTINF:-1 tvg-id="4effcf0f2452" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png",w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="SPORTS",Zing
+https://sm-monirul.top/Toffee/live.php?id=4effcf0f2452&e=.m3u8
+#EXTINF:-1 tvg-id="72a0803cf563" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="SPORTS",Zee Action
+https://sm-monirul.top/Toffee/live.php?id=72a0803cf563&e=.m3u8
+#EXTINF:-1 tvg-id="c65460ba0d73" group-title="Thể Thao" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png",w_400,q_100/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="SPORTS",Zee Cafe
+https://sm-monirul.top/Toffee/live.php?id=c65460ba0d73&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",|AR| AD Sport Asia 2 4K
 http://5678999.life:2082/adamusa1242025/attalah77448866/420185
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",|AR| AD Sport Asia 2 HD
@@ -6120,10 +6249,13 @@ http://5678999.life:2082/adamusa1242025/attalah77448866/123176
 http://5678999.life:2082/adamusa1242025/attalah77448866/167706
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",|AR| beIN Sport English 4k 3
 http://5678999.life:2082/adamusa1242025/attalah77448866/167707
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png",~GO3 Sport
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" group-title="Thể Thao" tvg-logo="https://i.imgur.com/BKaEtqL.png",Астрахань.Ru Sport (720p) - 720P
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5 (1080p) [Not 24/7] (rus1)  (Russian) (Sports) - 1080P
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by@Internet" group-title="Thể Thao" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5 Интернет (1080p) [Not 24/7] (rus1)  (Russian) (Sports) - 1080P
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ (rus1)  (Russian) (Sports)
@@ -6146,8 +6278,6 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel Golf Channel
-https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",Channel Hi Sport
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",Channel SOCCER CHANNEL
@@ -6166,8 +6296,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",Channel Sportstars4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel TSN2
-https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel TSN1
+https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel TSN5
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",Channel TVB Jade Astro
@@ -6180,6 +6310,8 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",Channel Trace Sports Stars
 https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel USA Network
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",▂ ▃ ▅ ▇ █ ▓ ▒ ░ SPORTS ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 #EXTINF:-1 tvg-id="107" group-title="Thể Thao" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",﻿Premiere 1 FHD
@@ -6210,10 +6342,6 @@ https://bwifi.my.id/5menit.mp4?match=classics2004irelandscotland_1773747720.0
 https://bwifi.my.id/5menit.mp4?match=nrltrytime_1773762720.0
 #EXTINF:-1 tvg-id="PremierSports" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/PremierSports_IVP_LAND_1280x720.jpg",🇬🇧 ⏳ Besok 22:22-23:42 WIB - NRL Try Time [Sky Sport Premier League FHD]
 https://bwifi.my.id/5menit.mp4?match=nrltrytime_1773786120.0
-#EXTINF:-1 tvg-id="beInSports1.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_309.png",🇮🇩 ⏳ 09:45-10:55 WIB - Ferrari Challenge North America [BEIN SPORT XTRA]
-https://bwifi.my.id/5menit.mp4?match=ferrarichallengenorthamerica_1773654300.0
-#EXTINF:-1 tvg-id="beInSports1.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_309.png",🇮🇩 ⏳ 10:55-12:55 WIB - F1 Kids 2026: Chinese GP 2026 [BEIN SPORT XTRA]
-https://bwifi.my.id/5menit.mp4?match=f1kids2026chinesegp_1773658500.0
 #EXTINF:-1 tvg-id="beInSports1.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_309.png",🇮🇩 ⏳ 13:55-14:55 WIB - Ferrari Challenge Europe Race [BEIN SPORT XTRA]
 https://bwifi.my.id/5menit.mp4?match=ferrarichallengeeuroperace_1773669300.0
 #EXTINF:-1 tvg-id="beInSports1.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_309.png",🇮🇩 ⏳ 14:55-15:55 WIB - Ferrari Challenge UK 2026 [BEIN SPORT XTRA]
@@ -6224,8 +6352,6 @@ https://bwifi.my.id/5menit.mp4?match=gearingup2026march_1773676500.0
 https://bwifi.my.id/5menit.mp4?match=f1mainrace2026chinesegp_1773681900.0
 #EXTINF:-1 tvg-id="beInSports1.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_309.png",🇮🇩 ⏳ 22:00-22:30 WIB - LFC Trending 2025/26 [BEIN SPORT XTRA]
 https://bwifi.my.id/5menit.mp4?match=lfctrending2025_1773698400.0
-#EXTINF:-1 tvg-id="AstroArena" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArena_2024_IVP_LAND_1280x720.jpg",🇲🇾 ⏳ 09:00-12:00 WIB - Motor Cub Prix 2025: Rnd 10 [ASTRO ARENA]
-https://bwifi.my.id/5menit.mp4?match=motorcubprix2025rnd_1773651600.0
 #EXTINF:-1 tvg-id="AstroArena" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArena_2024_IVP_LAND_1280x720.jpg",🇲🇾 ⏳ 12:00-13:00 WIB - Nadi Weekend [ASTRO ARENA]
 https://bwifi.my.id/5menit.mp4?match=nadiweekend_1773662400.0
 #EXTINF:-1 tvg-id="AstroArena" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWPGT.jpg",🇲🇾 ⏳ 14:00-16:45 WIB - Hari Pertama: Piala Dunia Trek UCI 2026 [ASTRO ARENA]
@@ -6294,20 +6420,6 @@ https://bwifi.my.id/5menit.mp4?match=masatambahan_1773781200.0
 https://bwifi.my.id/5menit.mp4?match=atpindianwells2026day_1773781800.0
 #EXTINF:-1 tvg-id="AstroArena" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArena_2024_IVP_LAND_1280x720.jpg",🇲🇾 ⏳ Besok 22:00-00:00 WIB - Nadi Arena [ASTRO ARENA]
 https://bwifi.my.id/5menit.mp4?match=nadiarena_1773784800.0
-#EXTINF:-1 tvg-id="FOXNews.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png",📺 ⏳ 09:00-10:00 WIB - Sunday Night In America [FOX SPORTS 🇲🇽]
-https://bwifi.my.id/5menit.mp4?match=sundaynightinamerica_1773651600.0
-#EXTINF:-1 tvg-id="Sportstars.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.png",📺 ⏳ 09:30-11:30 WIB - V-League 2025-2026: Women [TRACE Sport Stars]
-https://bwifi.my.id/5menit.mp4?match=league20252026women_1773653400.0
-#EXTINF:-1 tvg-id="FOXNews.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png",📺 ⏳ 10:00-11:00 WIB - One Nation [FOX SPORTS 🇲🇽]
-https://bwifi.my.id/5menit.mp4?match=onenation_1773655200.0
-#EXTINF:-1 tvg-id="Sportstars3.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_99.png",📺 ⏳ 10:00-12:00 WIB - BRI Liga 1 [SPORTSTARS 3]
-https://bwifi.my.id/5menit.mp4?match=briliga_1773655200.0
-#EXTINF:-1 tvg-id="Sportstars4.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_88.png",📺 ⏳ 10:00-12:00 WIB - V-League Men [SPORTSTARS 4]
-https://bwifi.my.id/5menit.mp4?match=leaguemen_1773655200.0
-#EXTINF:-1 tvg-id="SPOTV.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png",📺 ⏳ 11:00-13:00 WIB - 25/26 Roshn Saudi League [SPOTV PRIME KR]
-https://bwifi.my.id/5menit.mp4?match=2526roshnsaudileague_1773658800.0
-#EXTINF:-1 tvg-id="W-Sport" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/W-Sport_V1_IVP_LAND_1280x720.jpg",📺 ⏳ 11:00-13:00 WIB - USL 25/26 [W-SPORTS]
-https://bwifi.my.id/5menit.mp4?match=usl25_1773658800.0
 #EXTINF:-1 tvg-id="Sportstars.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.png",📺 ⏳ 11:30-12:00 WIB - Sports Today [TRACE Sport Stars]
 https://bwifi.my.id/5menit.mp4?match=sportstoday_1773660600.0
 #EXTINF:-1 tvg-id="FOXNews.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png",📺 ⏳ 12:00-13:00 WIB - Sunday Night In America [FOX SPORTS 🇲🇽]
@@ -6408,12 +6520,12 @@ https://bwifi.my.id/5menit.mp4?match=frauenbundesliga25_1773777600.0
 https://bwifi.my.id/5menit.mp4?match=mpseries_1773784800.0
 #EXTINF:-1 tvg-id="W-Sport" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/W-Sport_V1_IVP_LAND_1280x720.jpg",📺 ⏳ Besok 22:30-01:00 WIB - Coppa Italia Femminile 25/26 [W-SPORTS]
 https://bwifi.my.id/5menit.mp4?match=coppaitaliafemminile25_1773786600.0
-#EXTINF:-1 tvg-id="W-Sport" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/W-Sport_V1_IVP_LAND_1280x720.jpg",📺 🔴 07:00-09:00 WIB - Barclays WSL 25/26 [W-SPORTS]
+#EXTINF:-1 tvg-id="Sportstars.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.png",📺 🔴 09:30-11:30 WIB - V-League 2025-2026: Women [TRACE Sport Stars]
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9cc8f08dddb744dea58dbed4e07fb320/manifest.mpd
+#EXTINF:-1 tvg-id="W-Sport" group-title="Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/W-Sport_V1_IVP_LAND_1280x720.jpg",📺 🔴 11:00-13:00 WIB - USL 25/26 [W-SPORTS]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-#EXTINF:-1 tvg-id="Sportstars.id" group-title="Thể Thao" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.png",📺 🔴 07:30-09:30 WIB - V-League 2025-2026: Men [TRACE Sport Stars]
-https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9cc8f08dddb744dea58dbed4e07fb320/manifest.mpd
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 1
 https://a1xs.vip/ppv1
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 2
