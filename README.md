@@ -1,1 +1,1 @@
-Auto Update IPTV in 2026-03-17 06:16:54 GMT+7!✨CXT✨!
+Auto Update IPTV in 2026-03-17 06:47:32 GMT+7!✨CXT✨!
