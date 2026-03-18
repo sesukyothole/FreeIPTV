@@ -199,7 +199,7 @@ https://amg02188-jungotv-amg02188c2-vizio-us-5631.playouts.now.amagi.tv/playlist
 https://tvpass.org/live/altitude-sports-denver/sd
 #EXTINF:-1 tvg-id="AnixeHDSerie.de@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/960px-Anixe_HD.svg.png"group-title="Selection Sport",Anixe HD Serie 360p (SD)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/exyu/arensp1.png"group-title="Selection Sport",Arena Sport 1 (HD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/exyu/arensp1.png"group-title="Selection Sport",Arena Sport 1
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",Arena Sport 2
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
@@ -267,7 +267,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/8111111/hls/billi.m3u8?ads.xumo_chann
 https://dbrb49pjoymg4.cloudfront.net/10001/99951510/hls/bowl.m3u8?ads.xumo_channelId=99951510&ads.xumo_streamId=99951510&ads.channelId=99951510&ads.channelName=TripleBBowlingTV_us&ads.caid=TripleBBowlingTV&ads.csid=xumo_[PLATFORM]_TripleBBowlingTV_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4378&ads.xumo_contentName=TripleBBowlingTV&ads.xumo_providerId=4378&ads.xumo_providerName=TripleBBowlingTV&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
 #EXTINF:-1 group-title="Selection Sport",Boxing TV (SD)
 https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
-#EXTINF:-1 group-title="Selection Sport",CANAL Sport (HD)
+#EXTINF:-1 group-title="Selection Sport",CANAL Sport (FHD)
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1654150170/1/267/150/0.jpg"group-title="Selection Sport",CBS 47 Fox 30 Action News Jax (SD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQyMn0
@@ -393,13 +393,11 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/814326
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814325
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",ELEVEN SPORTS 4
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/814324
-#EXTINF:-1 tvg-id="espn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png"group-title="Selection Sport",ESPN
+#EXTINF:-1 tvg-id="espn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN (HD)_wordmark.svg/330px-ESPN (HD)_wordmark.svg.png"group-title="Selection Sport",ESPN (HD)
 https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
-#EXTINF:-1 tvg-id="espn"tvg-name="ESPN (SD)"group-title="Selection Sport",ESPN (SD)
-https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",ESPN 1 NL
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891520
-#EXTINF:-1 tvg-id="espn2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png"group-title="Selection Sport",ESPN 2
+#EXTINF:-1 tvg-id="espn2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png"group-title="Selection Sport",ESPN 2 (HD)
 https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",ESPN 2 NL
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891519
@@ -409,12 +407,14 @@ https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891518
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",ESPN 4 NL
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891517
-#EXTINF:-1 tvg-id="espnplus"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg"group-title="Selection Sport",ESPN Plus
+#EXTINF:-1 tvg-id="espnplus"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg"group-title="Selection Sport",ESPN Plus (HD)
 https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
-#EXTINF:-1 tvg-chno="48"tvg-id="ESPNU.HD.us2"tvg-name="ESPN U (HD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png"group-title="Selection Sport",ESPN U (HD)
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="espn-u"tvg-name="ESPN U (SD)"group-title="Selection Sport",ESPN U (SD)
+https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 group-title="Selection Sport",ESPN1 (HD)
 http://89.105.221.127/ESPN1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="espn2"tvg-name="ESPN2 (SD)"group-title="Selection Sport",ESPN2 (SD)
+https://tvpass.org/live/ESPN2/sd
 #EXTINF:-1 tvg-id="Eurosport.id"tvg-name="Eurosport"tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg"group-title="Selection Sport",EUROSPORT (FHD)
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg"group-title="Selection Sport",EUROSPORT 2 (FHD)
@@ -425,7 +425,7 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Euro Sport HD (FHD)
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-id="258468998307"tvg-name="Euro Sport HD (HD)"tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png"group-title="Selection Sport",Euro Sport HD (HD)
+#EXTINF:-1 tvg-id="258468998307"tvg-name="Euro Sport HD"tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png"group-title="Selection Sport",Euro Sport HD
 https://sm-monirul.top/Toffee/live.php?id=258468998307&e=.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD"tvg-logo="https://i.imgur.com/8t9mdg9.png"group-title="Selection Sport",Euronews Portuguese 720p (SD)
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
@@ -471,10 +471,14 @@ http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1
 https://9e7ec74c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRmFuRHVlbFRWRXh0cmFfSExT/playlist.m3u8?ads.wurl_channel=1568&ads.wurl_name=FanDuelTVExtra&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDQ5Njc2NTA2NH0
 #EXTINF:-1 tvg-id="XUMO_99951266"tvg-logo="https://image.xumo.com/v1/channels/channel/99951266/300x300.webp?type=color_onBlack"group-title="Selection Sport",FanDuel TV Extra (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951266/hls/playlist.m3u8?ads.xumo_channelId=99951266&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FanDuelTV&ads.csid=xumo_[PLATFORM]_FanDuelTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3971&ads.xumo_contentName=FanDuelTV&ads.xumo_providerId=3971&ads.xumo_providerName=FanDuelTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951266&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="fanduel-sports-indiana"tvg-name="Fanduel Sports Indiana"group-title="Selection Sport",Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd"tvg-name="Fanduel Sports Network Detroit (SD)"group-title="Selection Sport",Fanduel Sports Network Detroit (SD)
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville"tvg-name="Fanduel Sports Southeast Tennessee Nashville (SD)"group-title="Selection Sport",Fanduel Sports Southeast Tennessee Nashville (SD)
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida"tvg-name="Fanduel Sports Network Florida (SD)"group-title="Selection Sport",Fanduel Sports Network Florida (SD)
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-north"tvg-name="Fanduel Sports Network North (SD)"group-title="Selection Sport",Fanduel Sports Network North (SD)
+https://tvpass.org/live/fanduel-sports-network-north/sd
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",Fanduel TV (SD)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex.m3u8
 #EXTINF:-1 tvg-name="Fight (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/18af9e8bc3788c4e4164c35729cd8533.png"group-title="Selection Sport",Fight (SD)
@@ -497,7 +501,7 @@ https://7pal.short.gy/fox504au
 https://7pal.short.gy/fox505au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 506 (FHD)
 https://7pal.short.gy/fox506au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 507 (HD)
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 507 (FHD)
 https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242179/1/267/150/0.jpg"group-title="Selection Sport",Full Throttle TV (SD)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-oando1-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzI2MjgyNDgxMH0
@@ -591,14 +595,12 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png"group-title="Selection Sport",Lotus Macao Skygo
 https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Футбол 1.ru"tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png",MATCH FOOTBALL 1
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Футбол 2.ru"tvg-logo="https://i.ibb.co.com/nQZWJ34/matchf2.png",MATCH FOOTBALL 2
-https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="Матч! Игра.ru"group-title="Selection Sport"tvg-logo="",MATCH IGRA
-https://video.beeline.tv/live/d/channel510.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="here"group-title="Selection Sport"tvg-logo="",MIR BASKETBOLA
-https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
+#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! ТВ.ru"tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png",MATCH
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Боец.ru"tvg-logo="https://i.ibb.co.com/FwcxRWP/matchfight.png",MATCH FIGHT
+https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
+#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Футбол 3.ru"tvg-logo="https://i.ibb.co.com/rFx8z4t/matchf3.png",MATCH FOOTBALL 3
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1642576394/1/267/150/0.jpg"group-title="Selection Sport",MSG SportsZone (SD)
 https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1386&ads.wurl_name=MSGSportsZone&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk5Njk0OTA2Mn0
 #EXTINF:-1 tvg-id="marquee-sports-network"tvg-name="Marquee Sports Network (SD)"group-title="Selection Sport",Marquee Sports Network (SD)
@@ -609,13 +611,11 @@ https://linear-934.frequency.stream/dist/vizio/934/hls/master/playlist.m3u8?ads.
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1701121816/1/267/150/0.jpg"group-title="Selection Sport",Monster Jam (SD)
 https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1693&wurl_name=MonsterJam&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDIwNjIwNzMwMn0
-#EXTINF:-1 tvg-id="monumental-sports-network"tvg-name="Monumental Sports Network (SD)"group-title="Selection Sport",Monumental Sports Network (SD)
-https://tvpass.org/live/monumental-sports-network/sd
-#EXTINF:-1 tvg-id="94"tvg-chno="290"tvg-name="mundo-series"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png"group-title="Selection Sport",Mundo Series (HD)
+#EXTINF:-1 tvg-id="94"tvg-chno="290"tvg-name="mundo-series"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png"group-title="Selection Sport",Mundo Series (SD)
 https://streams2.sofast.tv/ptnr-yupptv/title-MUNDO_SERIES_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8?hdnts=st%3D1769557958~exp%3D1769579558~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-MUNDO_SERIES_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe3189902-0967-48a7-9d32-9401e34471c6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_94_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_94_-1~hmac%3D08450da72dc51789c5a7d7fa1c2d6866546a54f98d06f792e550b1dfd18eb3b0
 #EXTINF:-1 tvg-chno="101"tvg-id="NBA.TV.HD.us2"tvg-name="NBA TV (HD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png"group-title="Selection Sport",NBA TV (HD)
 http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="nbatv"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png"group-title="Selection Sport",NBA TV
+#EXTINF:-1 tvg-id="nbatv"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png"group-title="Selection Sport",NBA TV (HD)
 https://mega.z5cable.com/bpk-tv/nba_tv_hd/default/index.mpd
 #EXTINF:-1 tvg-id="NBA.TV.id"tvg-name="NBA TV (SD)"tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg"group-title="Selection Sport",NBA TV (SD)
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
@@ -623,16 +623,20 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 http://89.105.221.127/NBATV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="XUMO_99951253"tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/300x300.webp?type=color_onBlack"group-title="Selection Sport",NBC Sports NOW (SD)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_[PLATFORM]_NBCUSports_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=[IFA_TYPE]
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia"tvg-name="NBC Sports Philadelphia (SD)"group-title="Selection Sport",NBC Sports Philadelphia (SD)
+https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-chno="108"tvg-id="New.England.Sports.Network.HD.us2"tvg-name="NESN (FHD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png"group-title="Selection Sport",NESN (FHD)
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-id="XUMO_99991386"tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/300x300.webp?type=color_onBlack"group-title="Selection Sport",NEW Korean MOVIES  SERIES (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NewKoreanMoviesandSeries&ads.csid=xumo_[PLATFORM]_NewKoreanMoviesandSeries_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1825&ads.xumo_contentName=NEWK.ID&ads.xumo_providerId=1825&ads.xumo_providerName=NEWK.ID&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991386&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 tvg-id="nfl"tvg-logo=""group-title="Selection Sport",NFL
+#EXTINF:-1 tvg-id="nfl"tvg-logo=""group-title="Selection Sport",NFL (HD)
 https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 #EXTINF:-1 tvg-id="XUMO_99991738"tvg-logo="https://image.xumo.com/v1/channels/channel/99991738/300x300.webp?type=color_onBlack"group-title="Selection Sport",NFL Channel (SD)
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=[PLATFORM_CHILD]&usprivacy=[CCPA_Value]&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=[IFA]&tmsid=121705&palnonce=&rdid=[IFA]&islat=[IS_LAT]&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=[content_title]
 #EXTINF:-1 tvg-name="NFL Channel (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="Selection Sport",NFL Channel (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone (SD)"group-title="Selection Sport",NFL RedZone (SD)
+https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/novasport1.jpg"group-title="Selection Sport",NOVA SPORT 1 (FHD)
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/novasport2.jpg"group-title="Selection Sport",NOVA SPORT 2 (FHD)
@@ -671,7 +675,7 @@ http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="XUMO_99951390"tvg-logo="https://image.xumo.com/v1/channels/channel/99951390/300x300.webp?type=color_onBlack"group-title="Selection Sport",PickleballTV (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951390/hls/playlist.m3u8?ads.xumo_channelId=99951390&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=SinclairTennisChannelPickleballTV&ads.csid=xumo_[PLATFORM]_SinclairTennisChannelPickleballTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4198&ads.xumo_contentName=SinclairTennisChannelPickleballTV&ads.xumo_providerId=4198&ads.xumo_providerName=SinclairTennisChannelPickleballTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951390&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 1 (SD)
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
@@ -685,9 +689,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 7
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 8 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 9
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 9 (SD)
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 #EXTINF:-1 tvg-name="Pluto TV Action Sports (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/f07a1de9e816156b9eb2bd991811083c.png"group-title="Selection Sport",Pluto TV Action Sports (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -803,7 +807,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
 #EXTINF:-1 tvg-id="Soccer.Channel.id"tvg-name="Soccer Channel"tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg"group-title="Selection Sport",SOCCER CHANNEL (SD)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="43dcec1011e7"tvg-name="SONY SPORTS TEN 1 HD (HD)"tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png"group-title="Selection Sport",SONY SPORTS TEN 1 HD (HD)
+#EXTINF:-1 tvg-id="43dcec1011e7"tvg-name="SONY SPORTS TEN 1 HD"tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png"group-title="Selection Sport",SONY SPORTS TEN 1 HD
 https://sm-monirul.top/Toffee/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-id="abc6677968ef"tvg-name="SONY SPORTS TEN 2 HD"tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png"group-title="Selection Sport",SONY SPORTS TEN 2 HD
 https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8
@@ -847,6 +851,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 #EXTINF:-1 group-title="Selection Sport",Serie Club (HD)
 http://151.80.18.177:86/Serie_Club_HD/index.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD"tvg-logo="https://i.imgur.com/GaRQXHT.png"group-title="Selection Sport",Serie Max (HD)
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name=""group-title="Selection Sport"tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png",Setanta Sports
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #EXTINF:-1 tvg-id=""tvg-name=""group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFnTFCfQV-xQdy8miUJ2-dhgvSrripDVGXQ&s",Setanta Sports 2
@@ -879,30 +885,24 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD"tvg-logo="https://i.imgur.com/ZsPb8nL.png"group-title="Selection Sport",Sky News Extra 3 1080p (SD)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="Selection Sport",Sky Sport 1 NZ (HD)
-https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport 2 NZ (FHD)
 https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport 4 NZ
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="Selection Sport",Sky Sport F1 UHD (4K)
-https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 group-title="Selection Sport",Sky Sport Main Event (FHD)
 https://7pal.short.gy/skspmaine
 #EXTINF:-1 group-title="Selection Sport",Sky Sport News (HD)
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz"tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png"group-title="Selection Sport",Sky Sport Premier League FHD (FHD)
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz"tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png"group-title="Selection Sport",Sky Sport6 NZ FHD
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz"tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png"group-title="Selection Sport",Sky Sport6 NZ FHD (HD)
 https://7pal.short.gy/skyspt6nz
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz"tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png"group-title="Selection Sport",Sky Sport7 NZ FHD (HD)
 https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk"tvg-logo="https://i.imgur.com/i1yzHZj.png"group-title="Selection Sport",Sky Sports Action FHD
 https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"tvg-logo="https://i.imgur.com/gBtWXwY.png"group-title="Selection Sport",Sky Sports Main Event FHD (FHD)
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"tvg-logo="https://i.imgur.com/gBtWXwY.png"group-title="Selection Sport",Sky Sports Main Event FHD
 https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk"tvg-logo="https://i.imgur.com/CMChNM4.png"group-title="Selection Sport",Sky Sports PremierLeague FHD (FHD)
-https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk"tvg-logo="https://i.imgur.com/ZNUDU1r.png"group-title="Selection Sport",Sky Sports Tennis FHD (FHD)
 https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD"tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png"group-title="Selection Sport",Sony One Series Comedie 1080p (FHD)
@@ -945,7 +945,7 @@ http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/213.ts
 http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/212.ts
 #EXTINF:-1 tvg-id="6753"tvg-name="EX-YU: Sport Klub 7 (FHD)"tvg-logo="https://freeweb.t-2.net/itak/LOGO/Sportklub_7.png"group-title="Selection Sport",Sport Klub 7 (FHD)
 http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/6753.ts
-#EXTINF:-1 tvg-id="6754"tvg-name="EX-YU: Sport Klub 8"tvg-logo="https://freeweb.t-2.net/itak/LOGO/Sportklub_8.png"group-title="Selection Sport",Sport Klub 8
+#EXTINF:-1 tvg-id="6754"tvg-name="EX-YU: Sport Klub 8 (FHD)"tvg-logo="https://freeweb.t-2.net/itak/LOGO/Sportklub_8.png"group-title="Selection Sport",Sport Klub 8 (FHD)
 http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/6754.ts
 #EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE"tvg-name="SportDigital FUSSBALL DE (SD)"tvg-logo="https://i.imgur.com/mgOL0OZ.jpeg"group-title="Selection Sport",SportDigital FUSSBALL DE (SD)
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
@@ -963,13 +963,15 @@ http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 https://7pal.short.gy/sptsnet360
 #EXTINF:-1 tvg-id="sportsnet-360"tvg-name="Sportsnet 360 (SD)"group-title="Selection Sport",Sportsnet 360 (SD)
 https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 tvg-id="sportsnet-east"tvg-name="Sportsnet East"group-title="Selection Sport",Sportsnet East
+https://tvpass.org/live/sportsnet-east/sd
 #EXTINF:-1 tvg-id="Sportsnet.One.ca"tvg-logo="https://i.imgur.com/ttlElcO.png"group-title="Selection Sport",Sportsnet ONE (HD)
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca"tvg-logo="https://i.imgur.com/UDfhP02.png"group-title="Selection Sport",Sportsnet Ontario
 https://7pal.short.gy/sptsneton
 #EXTINF:-1 tvg-id="sportsnet-ontario"tvg-name="Sportsnet Ontario (SD)"group-title="Selection Sport",Sportsnet Ontario (SD)
 https://tvpass.org/live/sportsnet-ontario/sd
-#EXTINF:-1 tvg-id="sportsnet-pacific"tvg-name="Sportsnet Pacific (SD)"group-title="Selection Sport",Sportsnet Pacific (SD)
+#EXTINF:-1 tvg-id="sportsnet-pacific"tvg-name="Sportsnet Pacific"group-title="Selection Sport",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/sd
 #EXTINF:-1 tvg-id="sportsnet-pittsburgh"tvg-name="Sportsnet Pittsburgh (SD)"group-title="Selection Sport",Sportsnet Pittsburgh (SD)
 https://tvpass.org/live/sportsnet-pittsburgh/sd
@@ -1007,8 +1009,10 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_[PLATFORM]_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991341&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="Selection Sport",TNT (HD)
 http://89.105.221.127/TNT/index.m3u8?token=test
-#EXTINF:-1 tvg-id="tnt"tvg-logo=""group-title="Selection Sport",TNT
+#EXTINF:-1 tvg-id="tnt"tvg-logo=""group-title="Selection Sport",TNT (HD)
 https://mega.z5cable.com/bpk-tv/tnt_hd/default/index.mpd
+#EXTINF:-1 tvg-id="tnt-eastern-feed"tvg-name="TNT Eastern Feed (SD)"group-title="Selection Sport",TNT Eastern Feed (SD)
+https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="TNT.us"tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png"group-title="Selection Sport",TNT MX (HD)
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 1
@@ -1023,7 +1027,7 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/577998
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577997
 #EXTINF:-1 tvg-id="308"tvg-name="TNT Sports"tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png"group-title="Selection Sport",TNT SPorts 1
 https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="Selection Sport",TNT Sport 1 (HD)
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 xui-id="11539"tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png"group-title="Selection Sport",TNT Sport 1 (SD)
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
@@ -1031,7 +1035,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 xui-id="11540"tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co.com/fpHYC7N/TNT2.png"group-title="Selection Sport",TNT Sport 2 (SD)
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 group-title="Selection Sport",TNT Sport 3 (FHD)
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 3 (SD)
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 xui-id="11541"tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co.com/5r1gJwz/TNT3.png"group-title="Selection Sport",TNT Sport 3 (SD)
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
@@ -1041,7 +1045,7 @@ https://7pal.short.gy/tntspts4
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 group-title="Selection Sport",TNTHD (FHD)
 http://89.105.221.127/TNTHD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="9cc74d11cfd0"tvg-name="TOFFEE Sports VIP (HD)"tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png"group-title="Selection Sport",TOFFEE Sports VIP (HD)
+#EXTINF:-1 tvg-id="9cc74d11cfd0"tvg-name="TOFFEE Sports VIP"tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png"group-title="Selection Sport",TOFFEE Sports VIP
 https://sm-monirul.top/Toffee/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-id="556888"group-title="Selection Sport"tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358846'&EntityType='Item'&EntityId='556888'&Width=350&Height=250",TRACE Sport Stars (SD)
 https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9cc8f08dddb744dea58dbed4e07fb320/manifest.mpd
@@ -1061,7 +1065,7 @@ https://7pal.short.gy/tsn5ca
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="TV4 Tennis SE"tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-tennis.png"group-title="Selection Sport",TV4 Tennis
 https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TVP Sport
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TVP Sport (FHD)
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 #EXTINF:-1 tvg-id="TVP Sport (HD).cz"tvg-name=""tvg-logo="https://iptvboss.xyz/logos/Poland/TVPSport.pl.png"group-title="Selection Sport",TVP Sport (HD)
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
@@ -1157,7 +1161,7 @@ http://84.17.50.102/espn/index.m3u8
 https://wurlfubo.global.transmit.live/hls/67eb094ee3ed1615e41629ae/v1/fubotv_fubo_sports_network_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk1ODAzODMxMH0
 #EXTINF:-1 tvg-id="8740"tvg-name="EX-YU: ARENA SPORT 1X2 ᴴᴰ (SR)"tvg-logo="data:image/png;base64,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 SportARENA SPORT 1X2  SR (FHD)
 http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21065.ts
-#EXTINF:-1 tvg-id="7636"tvg-name="EX-YU: ARENA SPORT 2 PREMIUM ᴴᴰ (SR)"tvg-logo="data:image/png;base64,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 SportARENA SPORT 2 PREMIUM  SR (HD)
+#EXTINF:-1 tvg-id="7636"tvg-name="EX-YU: ARENA SPORT 2 PREMIUM ᴴᴰ (SR)"tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYUAAACBCAMAAAAYG1bYAAAAyVBMVEUAAADeHiP8qKireGyDiP0PmHiOIGh1IHh7cAAD8Pz97u80NDTyrqf39dExndAAiOjo7KysrgMjblZWf29vbu7u7fISe9vb3U1NTo6Ohf3ioqL2ysusrKxERET41NX75OQLCwsgICBwcHC4uLhOTk5YWFjodng8PDxNTU1fX1IiIiamppnZ2fdBxFcOzyNMjQdKirvnqDkWFsjIyPrhIb0wMF3d3cYGBjiRUnlXmDjTVDum5ztkJL42NnytLXqfH7nbW9WXeDAAAAJtklEQVR4nO2dfVsTOxDFy7J4bQtsAVta5MqbL6BoVVBEUK98w91wcq13TnZnJmkNM9zc7tskvz22ROJpm0tbxovV9ZtD58XHQbtBaux4KxerRX4tuggT0NHSYpUptDKFNJQppKBMIQVlCikoU0hBmUIKyhRSUKaQgjKFFJQppKBMIQVlCikoU0hBmUIKyhRSUKaQgjKFFJQppKAACmVZ3aksM4VQGSmUVa9dfr26Ob65rrU7lV2EplCy0ih7FU3ZwfdfnGnTvdg7bjsWTlkCi0ThbK9ddYtZtU9W2lXmUKrdWj6Kz2F9spFp5DqXFy3Lf2BpnC02qzlI1sLmHVZdKRsW8y0FMr2N4BgorOeoTvQFDadz71D27VXxunp6YWkKtXfADG23UlIYb9oaIeDrfH8KKAO6OIxfGprDZXQPTKdisdhd655s6c2LwiUP4ZeGr20NQuspeOi68V4qCr0n3i9rMXAUniupHDbJMNbcJpBzzyiFeGgpjP4SiuFFiYCmgUdjLwThAMHoNnte33kxBobqmvvq5LkSzFLzBGWrX2i6met9WY8hXKpPknA6utSGiwFRXCelnWk9ukIPcxslXkK7bJL77fngOFZRuEotj5ZG2aRj0DjzLa1JaCwvgzcUawqSeGLlUIxuDQ3ToNQ19wz342lUG5x49GdkuKMYmkYAnOvzWPQek07nNYCu0zxfdeU4xJJIWRnULxwt48LiGbGmCMSQqarnA7d93mOwNJoR9AIaR9sN6Ah5htaoumMP4Onrv7fz6vsOQbHxk4CichEIqdgAaCimpTWzSFtkwfTjvjauqGreys8OCGJo4DSBQpFTivBdyIko8tRqK6FJ7io7mdn1fgf8S99pYckjoIMzqPTjVk9G7pjRQAHTGbOhFHQdrUv6cWE8r2Rf3j7SQxFGQDQzHjcvHBjipjJQkApKp3MUxIytOxN5bT6gh6SOArye686rnwLKUTNZCCbOgq6I9kXDmoPT6bsxN9pRuXwp4YEAfOYXgPvalRh6TINrVFUhAtbtVNlAT9woCjI4b7ovXgUYhEPu3gHIAzCbklRqM5r76JIFdWHrM51VAoyHD5TNtObsGaaVmyb2mIpXNUeKuYDvfrUgmb36YorIuva7pcmCWrOsvUnJ0vH3pAlOGHIX68o7I1411q44jkpBjjGNlgSsy22ENdOUUDY1NEdioyCMaHVcuIna1UZCiF67fTOEcCkSFwyPijowGggNa4Nd2DHJH63RnJvlDPcNzE7Auq4HwnOYI1xRGVaJuq8a6cU93emtV2YL5xgU5CHj8vwwM0ShIwNimfmkOXbNic6qzEp9LjxSTgjI4Iwqxpm3If8Fk4UgzkYtTv1Bu1cLdG6boHAoh2JPvkBSiBUXWJv6snBP76XiUKjqu8Wizp1fie97klgSgqRsqp7AEIftfaw0DinOBREWOB3ABAUZHD2dPZDmWOItNDD2tTlX66Ovm0UCuVW3Rqe0XvDCAryq3vGF5n78TZL3mEclQvwYWTnCI9SYlCob1W89oo8pQkMHZk4QszZ38k8l2qZOIhm9CBqDQrUiXj1Z5ifwqUIzh1PcJYhNFJOlbep7sQIlAoS7EzgF9eICiA4Nz8B8sy0xPHIqFFf4dNnYg1qEUyp5c6ezSAwF9cwZLLgpZlANQjYVjf13htyBS6YQtkTy51FV1Fr6KcgG7U56smE5ry206A8XLobfUya1VAKYM25KL4pds7KSiDM0q3xdkXxtrU6WQi5woCKUAIithMUJCtCqdJ97pEETTK4v8lsqnIAU8vfXMBKYwCGo40kwWGgi4476FF4bClXuxNnUm4cKNhUEUyjGCoIkKBAVVcMY7MOLEZnbRf3Z7ObXIF0IBQyieqAo9vRT44HyygVZgYnUFRTZVfCQ00gwBMVcgaIgx3k0yq83113lfvY6wqmpcmmTgslOOqyUyjHsLinO9adAOCjsCzf79HmrNYHg0HDnu44CzyomKiDClSGtYsYf2am4IDQWVHWsoAPevU6QN27ps6pSYrVBWCg4IxZW2t9HIXC3dmE8mUII3RsNddIfEGbVej5SD0PQVjv7KdQ7uFaRjgDYALf22tSJCLNqoDqCerKfz8FNAlTKNZmbeSkAFGVZBs2o7papyQNDZI4bCclApVTQI9N5UtsMykIhJgQfhaDgPIjjUVu4uBFOW2CawsuWM4KKyNC8FEICc6eBLhCqj2FJTObqeQlwIPgr24NyPWMyGSoQc0xCYvbtiVFTcEDoGCH4KFiDcdZzJJ9ASXA7ZsrFef2IZjghmCh4IxOHdeRD21TRVy4bKoZ5lBSaGsUHlzAAQPhXpShtLObrSoPBGyqe6VJtR9PWZVR6EcYwg3ZggeCiin70EwjFi2MxE6pqwhL2IoPlRRQAv9vyDoJ2skBVVw7q9vPo3cC36JtqkTwQqH5syqhoKjJxjSFjQF2bt31usajUabm8ONd3v87lyV0NlsnaY0JtVBQUXBP25kTQFubMoZrEmKYVNnQhWvjX34oT2xwx4bzdgyKXGRopyOAcZ0LRnBvanO3U5tVmoKrJyvOUQehdFIQVrEoOMmTEI21TMrR2a1cacsfVaYA4JbZE1VIwX5UsWr1WSFYq0vMcTuZ70XW1GF5wnzpiCzXxPqgVCqWrv3mOUWoyqxyFslRDiEHhk7hpaHm3XsimnvrCKz1NK43cZW2S3oIMSgkEJzR5L3vT1EpT1BiKFTbBggxKMg13AcPzmqbOtEJ2pVz5LycoFCaIMSgIGfO0Ur4ScFsIpMpRGbVXe1LUHCsrD0ABXWdc3ShHZfU4pHulEkhXK7fkTVQ1GQP7nQcXfquQgUi7KHKgyqylTkJEx5MxSi1A2lSyRU1IRsoUFhcTTb1t9hqhzulTGHhwRnZ1AE7KGrMasoU5KD8wMHZaFMngrQ4Lg2YQqH8p4P4tsoGK36PDLSGiFymFWE6YgN4Q9cHA229SJ0HjmWB1iKOx3LboKpSAH1gcOzsimasZEZFbxJilm7tw2iaxjcFNYdHAOsKkToXQs3jWQ8K9sy7xk9N0VjRrJ3lUHrPUl7ziZcmEqYgXyRlMyYpaDDSpXB4In62do6Ns1ilSHpEwhBWUKKShTSEGZQgrKFFJQppCCMoUUlCmkoEwhBWUKKShTSEGZQgrKFFJQppCCMoUUlCmkoEwhBWUKKShTSEGZQgrKFFJQppCCHj8qF6sUKCwvWu9XFq0PHxfdBv8CrQ4J5Lh1hhgAAAAASUVORK5CYIIgrouptitleSelection SportARENA SPORT 2 PREMIUM  SR (FHD)
 http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/7636.ts
 #EXTINF:-1 group-title="Selection Sport",nbatv (SD)
 http://84.17.50.102/nbatv/index.m3u8
@@ -1197,9 +1201,11 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",ช่อง Fighting TV Samurai (FHD)
 https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Fox Sports 2 (SD)
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -1213,8 +1219,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KCBSDT1 (SD)
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Boston (SD)
@@ -1247,7 +1251,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbCvlS5dVNB4dCTucggWnoqGPorUZReTPpA&s",ช่อง TV Series
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbCvlS5dVNB4dCTucggWnoqGPorUZReTPpA&s",ช่อง TV Series (HD)
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade Astro (FHD)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
