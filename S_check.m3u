@@ -201,7 +201,7 @@ https://tvpass.org/live/altitude-sports-denver/sd
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/exyu/arensp1.png"group-title="Selection Sport",Arena Sport 1
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",Arena Sport 2
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",Arena Sport 2 (HD)
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
 #EXTINF:-1 group-title="Selection Sport",AstrakhanRU Sport HD (SD)
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
@@ -321,14 +321,12 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",CBS Sports (SD)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-name="CBS Sports HQ (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/e66c23a9699af17a826414b61baa5c93.png"group-title="Selection Sport",CBS Sports HQ (SD)
+#EXTINF:-1 tvg-name="CBS Sports HQ (HD)"tvg-logo="https://images.iptvmate.net/tvglogo/e66c23a9699af17a826414b61baa5c93.png"group-title="Selection Sport",CBS Sports HQ (HD)
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 tvg-id="XUMO_99991645"tvg-logo="https://image.xumo.com/v1/channels/channel/99991645/300x300.webp?type=color_onBlack"group-title="Selection Sport",CBS Sports HQ (SD)
+#EXTINF:-1 tvg-id="XUMO_99991645"tvg-logo="https://image.xumo.com/v1/channels/channel/99991645/300x300.webp?type=color_onBlack"group-title="Selection Sport",CBS Sports HQ (HD)
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?imafw_csid=[CBSSPORTS_CSID];imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:[deviceID]&imafw__fw_is_lat=[LIMITED_AD_TRACKING]&imafw__fw_vcid2=[PPID]&imafw__fw_app_bundle=[app_bundle]&imafw_is_lat=[LIMITED_AD_TRACKING]
 #EXTINF:-1 tvg-id="CBSSportsHQ.us"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/CBS_Sports_HQ_Logo.svg/512px-CBS_Sports_HQ_Logo.svg.png"group-title="Selection Sport",CBS Sports HQ 720p (SD)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-id="cbs-sports-network-usa"tvg-name="CBS Sports Network USA (SD)"group-title="Selection Sport",CBS Sports Network USA (SD)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
 #EXTINF:-1 tvg-name="CBSN Bay Area (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/3618281560a870d7e14c7736effb8418.png"group-title="Selection Sport",CBSN Bay Area (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="CBSN Boston (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/7930d163efd5e7ebbe47cf3c03de415f.png"group-title="Selection Sport",CBSN Boston (SD)
@@ -357,8 +355,10 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png"group-title="Selection Sport",CCTV5 (HD)
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/ctsport.jpg"group-title="Selection Sport",CT SPORT
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/ctsport.jpg"group-title="Selection Sport",CT SPORT (FHD)
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="chicago-sports-network"tvg-name="Chicago Sports Network (SD)"group-title="Selection Sport",Chicago Sports Network (SD)
+https://tvpass.org/live/chicago-sports-network/sd
 #EXTINF:-1 tvg-id="CinePremiere.us@SD"tvg-logo="https://i.imgur.com/PdhWTO6.png"group-title="Selection Sport",Cine Premiere (SD)
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us@SD"tvg-logo="https://i.imgur.com/PdhWTO6.png"group-title="Selection Sport",Cine Premiere 720p (SD)
@@ -409,17 +409,17 @@ https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891518
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",ESPN 4 NL (FHD)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891517
+#EXTINF:-1 tvg-id="espn-news"tvg-name="ESPN News (SD)"group-title="Selection Sport",ESPN News (SD)
+https://tvpass.org/live/ESPNews/sd
 #EXTINF:-1 tvg-id="espnplus"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg"group-title="Selection Sport",ESPN Plus (HD)
 https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
 #EXTINF:-1 tvg-chno="48"tvg-id="ESPNU.HD.us2"tvg-name="ESPN U (HD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png"group-title="Selection Sport",ESPN U (HD)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="espn-u"tvg-name="ESPN U (SD)"group-title="Selection Sport",ESPN U (SD)
-https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 group-title="Selection Sport",ESPN1 (HD)
 http://89.105.221.127/ESPN1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Eurosport.id"tvg-name="Eurosport"tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg"group-title="Selection Sport",EUROSPORT (FHD)
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg"group-title="Selection Sport",EUROSPORT 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg"group-title="Selection Sport",EUROSPORT 2 (FHD)
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="Eurosport 2"tvg-name="Eurosport 2"tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg"group-title="Selection Sport",EUROSPORT 2
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
@@ -477,6 +477,8 @@ https://9e7ec74c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 https://dbrb49pjoymg4.cloudfront.net/10001/99951266/hls/playlist.m3u8?ads.xumo_channelId=99951266&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FanDuelTV&ads.csid=xumo_[PLATFORM]_FanDuelTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3971&ads.xumo_contentName=FanDuelTV&ads.xumo_providerId=3971&ads.xumo_providerName=FanDuelTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951266&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 tvg-id="fanduel-sports-network-north"tvg-name="Fanduel Sports Network North (SD)"group-title="Selection Sport",Fanduel Sports Network North (SD)
 https://tvpass.org/live/fanduel-sports-network-north/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma"tvg-name="Fanduel Sports Network Oklahoma (SD)"group-title="Selection Sport",Fanduel Sports Network Oklahoma (SD)
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",Fanduel TV (SD)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex.m3u8
 #EXTINF:-1 tvg-name="Fight (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/18af9e8bc3788c4e4164c35729cd8533.png"group-title="Selection Sport",Fight (SD)
@@ -489,6 +491,8 @@ https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Formula.ge@SD"tvg-logo="https://i.postimg.cc/bwb9v94m/formula.png"group-title="Selection Sport",Formula 1080p (SD)
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports-1"tvg-name="Fox Sports 1 (SD)"group-title="Selection Sport",Fox Sports 1 (SD)
+https://tvpass.org/live/FoxSports1/sd
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 505 (FHD)
 https://7pal.short.gy/fox505au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 506 (FHD)
@@ -517,7 +521,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951462/hls/master.m3u8?ads.xumo_cha
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATromance.uk@UK"tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"group-title="Selection Sport",GREAT romance 1080p (SD)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735702035/1/267/150/0.jpg"group-title="Selection Sport",Game  Fish TV (SD)
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735702035/1/267/150/0.jpg"group-title="Selection Sport",Game  Fish TV (FHD)
 https://amg00436-osg-amg00436c7-vizio-us-8353.playouts.now.amagi.tv/playlist/amg00436-ksemotvholdingsfast-gameandfishtv-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU1OTI0OTQxM30
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",Gaora Sports (SD)
 https://nl.utako.moe/gaora/index.m3u8
@@ -535,7 +539,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/802488
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",HUB PREMIER 10 (FHD)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/827972
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",HUB PREMIER 11
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",HUB PREMIER 11 (FHD)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/827971
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",HUB PREMIER 2 (FHD)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/827981
@@ -553,8 +557,8 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/827975
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/827974
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",HUB PREMIER 9 (FHD)
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/827973
-#EXTINF:-1 tvg-id=""group-title="Selection Sport"tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272",Hub Sports 7 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
+#EXTINF:-1 tvg-id=""group-title="Selection Sport"tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272",Hub Sports 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://klcbsofficial.com/favicon.ico",ID  KLCBS
 https://streaming.klcbsofficial.com/listen/klcbs/klcbs
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://klcbsofficial.com/favicon.ico",ID  KLCBS
@@ -565,7 +569,7 @@ https://a5.siar.us/radio/8010/radio
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Selection Sport",Infosport (HD)
 http://151.80.18.177:86/Infosport+_HD/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg"group-title="Selection Sport",JOJ SPORT
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg"group-title="Selection Sport",JOJ SPORT (FHD)
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg"group-title="Selection Sport",JOJ SPORT 2 (FHD)
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
@@ -587,20 +591,20 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png"group-title="Selection Sport",Lotus Macao Skygo
 https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! ТВ.ru"tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png",MATCH
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Арена.ru"tvg-logo="https://i.ibb.co.com/FsfgCJG/matcharena.png",MATCH ARENA
+https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 #EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Футбол 1.ru"tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png",MATCH FOOTBALL 1
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-#EXTINF:-1 group-title="Selection Sport"tvg-id="Матч! Футбол 3.ru"tvg-logo="https://i.ibb.co.com/rFx8z4t/matchf3.png",MATCH FOOTBALL 3
-https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
-#EXTINF:-1 group-title="Selection Sport"tvg-id="МАТЧ ПРЕМЬЕР.ru"tvg-logo="https://i.ibb.co.com/6HMSwdy/matchpremier.png",MATCH PREMIERE
-https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1642576394/1/267/150/0.jpg"group-title="Selection Sport",MSG SportsZone (SD)
 https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1386&ads.wurl_name=MSGSportsZone&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk5Njk0OTA2Mn0
-#EXTINF:-1 tvg-id="marquee-sports-network"tvg-name="Marquee Sports Network (SD)"group-title="Selection Sport",Marquee Sports Network (SD)
-https://tvpass.org/live/marquee-sports-network/sd
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242170/1/267/150/0.jpg"group-title="Selection Sport",MeatEater (FHD)
 https://linear-934.frequency.stream/dist/vizio/934/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQ3NjAzNTQxNTR9
 #EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD"tvg-logo="https://i.imgur.com/ohCSMhY.png"group-title="Selection Sport",Memorias TV Series 720p Geoblocked (HD)
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-id="midatlantic-sports-network"tvg-name="Midatlantic Sports Network (SD)"group-title="Selection Sport",Midatlantic Sports Network (SD)
+https://tvpass.org/live/midatlantic-sports-network/sd
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1701121816/1/267/150/0.jpg"group-title="Selection Sport",Monster Jam (SD)
 https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1693&wurl_name=MonsterJam&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDIwNjIwNzMwMn0
 #EXTINF:-1 tvg-id="94"tvg-chno="290"tvg-name="mundo-series"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png"group-title="Selection Sport",Mundo Series (SD)
@@ -611,10 +615,10 @@ http://212.102.60.231/NBA_TV/index.m3u8
 https://mega.z5cable.com/bpk-tv/nba_tv_hd/default/index.mpd
 #EXTINF:-1 tvg-id="NBA.TV.id"tvg-name="NBA TV (SD)"tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg"group-title="Selection Sport",NBA TV (SD)
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-#EXTINF:-1 tvg-id="nba-tv-usa"tvg-name="NBA TV USA (SD)"group-title="Selection Sport",NBA TV USA (SD)
-https://tvpass.org/live/NBATV/sd
 #EXTINF:-1 group-title="Selection Sport",NBATV (FHD)
 http://89.105.221.127/NBATV/index.m3u8?token=test
+#EXTINF:-1 tvg-id="nbc-sports-boston"tvg-name="NBC Sports Boston (SD)"group-title="Selection Sport",NBC Sports Boston (SD)
+https://tvpass.org/live/nbc-sports-boston/sd
 #EXTINF:-1 tvg-id="XUMO_99951253"tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/300x300.webp?type=color_onBlack"group-title="Selection Sport",NBC Sports NOW (SD)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_[PLATFORM]_NBCUSports_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=[IFA_TYPE]
 #EXTINF:-1 tvg-chno="108"tvg-id="New.England.Sports.Network.HD.us2"tvg-name="NESN (FHD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png"group-title="Selection Sport",NESN (FHD)
@@ -627,13 +631,11 @@ https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=[PLATFORM_CHILD]&usprivacy=[CCPA_Value]&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=[IFA]&tmsid=121705&palnonce=&rdid=[IFA]&islat=[IS_LAT]&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=[content_title]
 #EXTINF:-1 tvg-name="NFL Channel (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="Selection Sport",NFL Channel (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone (SD)"group-title="Selection Sport",NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/novasport1.jpg"group-title="Selection Sport",NOVA SPORT 1 (FHD)
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/novasport2.jpg"group-title="Selection Sport",NOVA SPORT 2 (FHD)
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",NOW SPORTS 7 (FHD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",NOW SPORTS 7
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/802482
 #EXTINF:-1 tvg-logo=""group-title="Selection Sport",Nova Sport 1
 https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
@@ -647,7 +649,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k307aBr.jpg"group-title="Selection Sport",ONE SPORT (SD)
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ffp4qg.jpg"group-title="Selection Sport",ONE SPORTS (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ffp4qg.jpg"group-title="Selection Sport",ONE SPORTS
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 #EXTINF:-1 tvg-id="XUMO_99991374"tvg-logo="https://image.xumo.com/v1/channels/channel/99991374/300x300.webp?type=color_onBlack"group-title="Selection Sport",Outdoor America (FHD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991374/hls/playlist.m3u8?ads.xumo_channelId=99991374&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ObsessionMediaOutdoorAmerica&ads.csid=xumo_[PLATFORM]_ObsessionMediaOutdoorAmerica_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1096&ads.xumo_contentName=ObsessionMediaOutdoorAmerica&ads.xumo_providerId=1096&ads.xumo_providerName=ObsessionMediaOutdoorAmerica&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991374&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
@@ -675,13 +677,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 4 (SD)
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 5 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 5
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 6 (SD)
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 7 (SD)
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 8 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="Selection Sport",Pilipinas Live 9 (SD)
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
@@ -727,9 +729,9 @@ https://amg01258-raycom-amg01258c1-vizio-us-780.playouts.now.amagi.tv/playlist/a
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 2 (HD)
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",Premier Sports (SD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",Premier Sports
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Selection Sport",Premier Sports 2 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Selection Sport",Premier Sports 2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="Selection Sport"tvg-logo="",Premier Sports Rugby (SD)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
@@ -777,21 +779,21 @@ https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #EXTINF:-1 tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg"group-title="Selection Sport",SKY NEWS NOW (SD)
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket FHD"tvg-id="SkySpCricket.HD.uk"tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png"group-title="Selection Sport"radio="false",SKY SPORTS CRICKET (HD)
+#EXTINF:-1 tvg-name="Sky Sports Cricket FHD"tvg-id="SkySpCricket.HD.uk"tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png"group-title="Selection Sport"radio="false",SKY SPORTS CRICKET (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League FHD"tvg-id="SkySp.PL.HD.uk"tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png"group-title="Selection Sport"radio="false",SKY SPORTS EPL (HD)
+#EXTINF:-1 tvg-name="Sky Sports Premier League FHD"tvg-id="SkySp.PL.HD.uk"tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png"group-title="Selection Sport"radio="false",SKY SPORTS EPL (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Football FHD"tvg-id="SkySp.Fball.HD.uk"tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png"group-title="Selection Sport"radio="false",SKY SPORTS FOOTBALL (HD)
+#EXTINF:-1 tvg-name="Sky Sports Football FHD"tvg-id="SkySp.Fball.HD.uk"tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png"group-title="Selection Sport"radio="false",SKY SPORTS FOOTBALL (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Golf FHD"tvg-id="SkySp.Golf.HD.uk"tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png"group-title="Selection Sport"radio="false",SKY SPORTS GOLF (HD)
+#EXTINF:-1 tvg-name="Sky Sports Golf FHD"tvg-id="SkySp.Golf.HD.uk"tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png"group-title="Selection Sport"radio="false",SKY SPORTS GOLF (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Main Event FHD"tvg-id="SkySpMainEvHD.uk"tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png"group-title="Selection Sport"radio="false",SKY SPORTS MAIN EVENT (HD)
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD"tvg-id="SkySpMainEvHD.uk"tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png"group-title="Selection Sport"radio="false",SKY SPORTS MAIN EVENT (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Mix FHD"tvg-id="SkySp.Mix.HD.uk"tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png"group-title="Selection Sport"radio="false",SKY SPORTS MIX (HD)
+#EXTINF:-1 tvg-name="Sky Sports Mix FHD"tvg-id="SkySp.Mix.HD.uk"tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png"group-title="Selection Sport"radio="false",SKY SPORTS MIX (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD"tvg-id="SkySp.News.HD.uk"tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png"group-title="Selection Sport"radio="false",SKY SPORTS NEWS (HD)
+#EXTINF:-1 tvg-name="Sky Sports F1 FHD"tvg-id="SkySp.News.HD.uk"tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png"group-title="Selection Sport"radio="false",SKY SPORTS NEWS (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Tennis FHD"tvg-id="SkySp.Tennis.HD.uk"tvg-logo="http://crm.iptvpro.pw/iptv/logo/uk/sky-sports-tennis-uk.png"group-title="Selection Sport"radio="false",SKY SPORTS TENNIS (HD)
+#EXTINF:-1 tvg-name="Sky Sports Tennis FHD"tvg-id="SkySp.Tennis.HD.uk"tvg-logo="http://crm.iptvpro.pw/iptv/logo/uk/sky-sports-tennis-uk.png"group-title="Selection Sport"radio="false",SKY SPORTS TENNIS (FHD)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg"group-title="Selection Sport",SKY UK (SD)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -815,11 +817,11 @@ http://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Selection Sport"tvg-id=""tvg-chno=""group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png"tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 1 SGP (SD)
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/cz/sport2.png"group-title="Selection Sport",SPORT 2 (HD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/cz/sport2.png"group-title="Selection Sport",SPORT 2
 http://estreams.tv.nej.cz/dash/CH_SPORT2_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/sport2.jpg"group-title="Selection Sport",SPORT 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/sport2.jpg"group-title="Selection Sport",SPORT 2 (FHD)
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 group-title="Selection Sport"tvg-id=""tvg-chno=""group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png"tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 2 SGP (SD)
+#EXTINF:-1 group-title="Selection Sport"tvg-id=""tvg-chno=""group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png"tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 2 SGP
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 #EXTINF:-1 tvg-name="SPORT DE  iptvmatenet (SD)"group-title="Selection Sport"tvg-logo="https://images.iptvmate.net/tvglogo/06b8a4b5cfdc035594db4613899f0960.png",SPORT DE  iptvmatenet (SD)
 https://images.iptvmate.net/files/iptvmate/8.mp4
@@ -835,7 +837,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-id="SPOTV (SD).id"tvg-name="SPOTV (SD)"tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg"group-title="Selection Sport",SPOTV (SD)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV (SD).png"group-title="Selection Sport",SPOTV (SD)
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png"group-title="Selection Sport",SPOTV
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 #EXTINF:-1 tvg-id="SPOTV.2.id"tvg-name="SPOTV2"tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg"group-title="Selection Sport",SPOTV 2 (SD)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
@@ -847,7 +849,7 @@ http://151.80.18.177:86/Serie_Club_HD/index.m3u8
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #EXTINF:-1 tvg-id=""tvg-name=""group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFnTFCfQV-xQdy8miUJ2-dhgvSrripDVGXQ&s",Setanta Sports 2
 https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
-#EXTINF:-1 tvg-id="SinPoTV.id@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png"group-title="Selection Sport",Sin Po TV
+#EXTINF:-1 tvg-id="SinPoTV.id@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png"group-title="Selection Sport",Sin Po TV (SD)
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTINF:-1 tvg-name="Sky 1 Racing"tvg-id=""group-title="Selection Sport"tvg-logo="https://images.iptvmate.net/tvglogo/21c306a04e0e0851ffded212ca73e6dc.png",Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
@@ -963,10 +965,10 @@ https://tvpass.org/live/sportsnet-east/sd
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca"tvg-logo="https://i.imgur.com/UDfhP02.png"group-title="Selection Sport",Sportsnet Ontario
 https://7pal.short.gy/sptsneton
-#EXTINF:-1 tvg-id="sportsnet-ontario"tvg-name="Sportsnet Ontario"group-title="Selection Sport",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/sd
 #EXTINF:-1 tvg-id="sportsnet-pittsburgh"tvg-name="Sportsnet Pittsburgh (SD)"group-title="Selection Sport",Sportsnet Pittsburgh (SD)
 https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-id="sportsnet-west"tvg-name="Sportsnet West (SD)"group-title="Selection Sport",Sportsnet West (SD)
+https://tvpass.org/live/sportsnet-west/sd
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735718200/1/267/150/0.jpg"group-title="Selection Sport",Stadium (SD)
 https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=160&wurl_name=Stadium&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDU5NDA4MTYzNn0
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
@@ -979,7 +981,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
 #EXTINF:-1 tvg-id="XUMO_99951180"tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/300x300.webp?type=color_onBlack"group-title="Selection Sport",Strongman Champions League (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=RightsBoosterStrongmanChamp&ads.csid=xumo_[PLATFORM]_RightsBoosterStrongmanChamp_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3808&ads.xumo_contentName=RightsBoosterStrongmanChamp&ads.xumo_providerId=3808&ads.xumo_providerName=RightsBoosterStrongmanChamp&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951180&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 tvg-id="SunBangla.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"group-title="Selection Sport",Sun Bangla 576p
+#EXTINF:-1 tvg-id="SunBangla.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"group-title="Selection Sport",Sun Bangla 576p (SD)
 http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 tvg-id="301"tvg-name="Super Cricket"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png"group-title="Selection Sport",Super Cricket
 https://catowrap.live/mrgamingsscric.m3u8
@@ -1005,15 +1007,15 @@ https://mega.z5cable.com/bpk-tv/tnt_hd/default/index.mpd
 https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="TNT.us"tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png"group-title="Selection Sport",TNT MX (HD)
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 1 (FHD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 1
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/578001
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 2 (FHD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 2
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/578000
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 3 (HD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 3
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577999
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 4 (FHD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 4
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577998
-#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 5 (HD)
+#EXTINF:-1 tvg-logo=""group-title="Selection Sport",TNT SPORTS 5
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/577997
 #EXTINF:-1 tvg-id="308"tvg-name="TNT Sports"tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png"group-title="Selection Sport",TNT SPorts 1
 https://catowrap.live/mrgamingbtsport1.m3u8
@@ -1023,7 +1025,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 xui-id="11541"tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co.com/5r1gJwz/TNT3.png"group-title="Selection Sport",TNT Sport 3 (SD)
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#EXTINF:-1 xui-id="11542"tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co.com/ZgQ5jVD/TNT4.png"group-title="Selection Sport",TNT Sport 4
+#EXTINF:-1 xui-id="11542"tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co.com/ZgQ5jVD/TNT4.png"group-title="Selection Sport",TNT Sport 4 (SD)
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 group-title="Selection Sport",TNTHD (FHD)
 http://89.105.221.127/TNTHD/index.m3u8?token=test
@@ -1089,8 +1091,6 @@ https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=UFC&ads.csid=xumo_[PLATFORM]_UFC_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3345&ads.xumo_contentName=UFC&ads.xumo_providerId=3345&ads.xumo_providerName=UFC&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951134&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co.com/F60rSrv/univpremiere.png"group-title="Selection Sport",UNIVERSAL PREMIERE (SD)
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
-#EXTINF:-1 tvg-id="USANetwork.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"group-title="Selection Sport",USA Network East 1080p Not 247 (SD)
-https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="Selection Sport",USABEIN (HD)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="5dc2a961bac1f70009ca7524"group-title="Selection Sport"tvg-name=""tvg-logo="https://images.iptvmate.net/tvglogo/1423e3c046b4d5d54cdd7bbf36b481b3.png",Unbeaten Esports (SD)
@@ -1159,9 +1159,9 @@ https://sm-monirul.top/Toffee/live.php?id=b18613696a70&e=.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport",Матч (SD)
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append"catchup-days="7"catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Selection Sport"tvg-id="match-tv",Матч 7 Архив (4K)
+#EXTINF:-1 catchup="append"catchup-days="7"catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Selection Sport"tvg-id="match-tv",Матч 7 Архив
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
-#EXTINF:-1 group-title="Selection Sport",Матч HD
+#EXTINF:-1 group-title="Selection Sport",Матч HD (FHD)
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 catchup="append"catchup-days="7"catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Selection Sport"tvg-id="match-tv",Матч Архив (4K)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -1191,7 +1191,7 @@ https://nl.utako.moe/fighting_tv/index.m3u8
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -1205,10 +1205,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KCBSDT1 (SD)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Philadelphia (SD)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV HD (HD)
