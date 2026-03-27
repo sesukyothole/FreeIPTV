@@ -69,15 +69,15 @@ jobs:
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/a1x.m3u -O tkty22.m3u || true
         sed -i 's/"🦁欧洲五大联赛🦁"/"USUK SPORT"/g;s/"🐉海外体育"/"USUK SPORT"/g;s/"🐉4K-8K频道"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"Sports"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"Events"/"4️⃣🇰 🇺 🇭 🇩"/g' tkty22.m3u || true
         
-        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/output_check.m3u -O Sport1.m3u || true
-        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Live-Schedue/refs/heads/1/live_schedule_check.m3u -O live_schedue_check.m3u || true
+        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/output_clean.m3u -O Sport1.m3u || true
+        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Live-Schedue/refs/heads/1/live_schedule_clean.m3u -O live_schedue_clean.m3u || true
 
         # Integrate sources
         rm -f IPTV.m3u && touch IPTV.m3u
         #cat Out_Iptv_CXT.m3u VTV.m3u >> IPTV.m3u || true
         #cat S_check.m3u >> IPTV.m3u || true
         cat Sport1.m3u >> IPTV.m3u || true
-        cat live_schedue_check.m3u >> IPTV.m3u || true
+        cat live_schedue_clean.m3u >> IPTV.m3u || true
         cat tkty22.m3u >> IPTV.m3u || true
         sed -i '/#EXTM3U/d' IPTV.m3u || true
         sed -i '1i #EXTM3U' IPTV.m3u || true
