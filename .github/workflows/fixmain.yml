@@ -106,7 +106,7 @@ jobs:
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/BuddyChewChew/tv/refs/heads/default/M3U8/TV.xml -O EPG3.xml || true
         cat EPG1.xml EPG2.xml EPG3.xml >> EPG.xml || true
         rm -f EPG1.xml EPG2.xml EPG3.xml || true
-        echo "Auto Update IPTV in $DATE!✨CXT✨!" > README.md
+        #echo "Auto Update IPTV in $DATE!✨CXT✨!" > README.md
 
     - name: Commit and Push Changes
       run: |
