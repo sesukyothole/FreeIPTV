@@ -71,6 +71,7 @@ jobs:
         
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/output_clean.m3u -O Sport1.m3u || true
         #wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Stalker2M3U/refs/heads/1/live_schedule.m3u -O live_schedue.m3u || true
+        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Stalker2M3U/refs/heads/1/Football_match_live.m3u -O Football_match_live.m3u || true
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Stalker2M3U/refs/heads/1/live_schedule_Optimize.m3u -O live_schedue.m3u || true
         #wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Match_Stream/refs/heads/1/Stream_live.m3u -O live_schedue.m3u || true
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Live-Schedue/refs/heads/1/live_schedule.m3u -O E_live_schedue.m3u || true
@@ -80,6 +81,7 @@ jobs:
         #cat Out_Iptv_CXT.m3u VTV.m3u >> IPTV.m3u || true
         #cat S_check.m3u >> IPTV.m3u || true
         cat Sport1.m3u >> IPTV.m3u || true
+        cat Football_match_live.m3u >> IPTV.m3u || true
         cat live_schedue.m3u >> IPTV.m3u || true
         cat E_live_schedue.m3u >> IPTV.m3u || true
         cat tkty22.m3u >> IPTV.m3u || true
