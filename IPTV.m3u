@@ -6445,298 +6445,378 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afd
 #EXTINF:-1 tvg-id="1360327" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/SPAIN/VIX.png",16/04 02:00 AM | ES - VIX 02 : ARSENAL @ SPORTING LISBON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1360327
+#EXTINF:-1 tvg-id="1761862" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",16/04 02:00 AM | LIVE | ARSENAL VS. SPORTING LISBON | (ES) | 8K | ES: VIX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1761862&extension=ts&play_token=qhEFVpZ8el
 #EXTINF:-1 tvg-id="1535859" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",16/04 02:00 AM | ES (VIX 02) | Arsenal vs. Sporting Lisbon ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535859&extension=ts&play_token=sPg5lWUxdk
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535859&extension=ts&play_token=DlrvZzlUYk
+#EXTINF:-1 tvg-id="1312058" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/EUROPE/uefaa.png",16/04 02:00 AM | UEFA 02 : BAYERN MUNICH @ REAL MADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312058
+#EXTINF:-1 tvg-id="1405370" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/USA/hbomaxori.png",16/04 02:00 AM | US - HBO MAX 04 : BAYERN MUNICH @ REAL MADRID UEFA CHAMPIONS LEAGUE (QF 2ND LEG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1405370
 #EXTINF:-1 tvg-id="1285511" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png",16/04 02:00 AM | CA - DAZN 08 : BAYERN MUNICH @ REAL MADRID (COMMENTAIRES EN FRANÇAIS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285511
 #EXTINF:-1 tvg-id="1285512" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png",16/04 02:00 AM | CA - DAZN 09 : BAYERN MUNICH @ REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285512
-#EXTINF:-1 tvg-id="1896476" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",16/04 02:00 AM | BAYERN MUNICH - REAL MADRID | | 8K | : MAX 10
+#EXTINF:-1 tvg-id="1896476" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",16/04 02:00 AM | LIVE | BAYERN MUNICH - REAL MADRID | | 8K | : MAX 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1896476&extension=ts&play_token=HUhnryFsS2
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1896476&extension=ts&play_token=9lbbiRsRN5
 #EXTINF:-1 tvg-id="830067" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/04 02:00 AM | UEFA | 02 - Bayern Munich vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7843CF0606FBDCB063F67B9A84A649F
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=830067&extension=ts&play_token=zVv1MZ8ZPe
+#EXTVLCOPT:http-header=Authorization: Bearer 9740DDAB9C40EDBE208035CA2D6E8AB6
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=830067&extension=ts&play_token=CvSnqZlmhD
 #EXTINF:-1 tvg-id="993058" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",16/04 02:00 AM | UEFA | 02 - Bayern Munich vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=993058&extension=ts&play_token=ifQWEDI0PC
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=993058&extension=ts&play_token=6ep2dpADoI
 #EXTINF:-1 tvg-id="1025279" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",16/04 02:00 AM | UEFA | 02 - Bayern Munich vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1025279&extension=ts&play_token=Odmm1oKzbW
-#EXTINF:-1 tvg-id="1912584" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Bayern Munich vs. Real Madrid (Commentaires en Français) | UEFA Champions League | | | 8K | CA: DAZN 19
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1025279&extension=ts&play_token=nCOJ5ckG43
+#EXTINF:-1 tvg-id="1912595" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Live | Bayern Munich vs. Real Madrid (Commentaires en Français) | UEFA Champions League | 8K | CA: DAZN 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1912584&extension=ts&play_token=a2H3xwMFup
-#EXTINF:-1 tvg-id="1912583" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Bayern Munich vs. Real Madrid | UEFA Champions League | | | 8K | CA: DAZN 20
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1912595&extension=ts&play_token=bKScD8kPlX
+#EXTINF:-1 tvg-id="1912592" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Live | Bayern Munich vs. Real Madrid | UEFA Champions League | 8K | CA: DAZN 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1912583&extension=ts&play_token=hS5YEHDt0y
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1912592&extension=ts&play_token=CXUqhrEVn9
+#EXTINF:-1 tvg-id="1405367" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/USA/hbomaxori.png",16/04 02:00 AM | US - HBO MAX 07 : ARSENAL @ SPORTING CP UEFA CHAMPIONS LEAGUE (QF 2ND LEG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1405367
+#EXTINF:-1 tvg-id="1405366" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/USA/hbomaxori.png",16/04 02:00 AM | US - HBO MAX 08 : ARSENAL @ SPORTING CP UEFA CHAMPIONS LEAGUE (QF 2ND LEG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1405366
 #EXTINF:-1 tvg-id="1312092" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/USA/para.png",16/04 02:00 AM | US - PARAMOUNT 02 : ARSENAL @ SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312092
 #EXTINF:-1 tvg-id="1285513" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png",16/04 02:00 AM | CA - DAZN 10 : ARSENAL @ SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285513
-#EXTINF:-1 tvg-id="1896477" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",16/04 02:00 AM | ARSENAL - SPORTING CP | | 8K | : MAX 9
+#EXTINF:-1 tvg-id="1896477" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",16/04 02:00 AM | LIVE | ARSENAL - SPORTING CP | | 8K | : MAX 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1896477&extension=ts&play_token=HtN4JqdfMQ
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1896477&extension=ts&play_token=ywiBJQrXPL
 #EXTINF:-1 tvg-id="1535959" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",16/04 02:00 AM | AU (STAN 03) | Arsenal v Sporting CP UEFA Champions League 2025/2026 ( :12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535959&extension=ts&play_token=fcE9u8ZPRD
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535959&extension=ts&play_token=iVTlMHuuzs
 #EXTINF:-1 tvg-id="1150168" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | EN - ARSENAL VS SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150168
 #EXTINF:-1 tvg-id="1150167" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | EN - ARSENAL VS SPORTING CP [BK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150167
 #EXTINF:-1 tvg-id="1501736" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",16/04 02:00 AM | UEFA Champions League: Arsenal vs Sporting CP @ :Paramount+ 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1501736&extension=ts&play_token=NEumaYYdsC
-#EXTINF:-1 tvg-id="1912582" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Arsenal vs. Sporting CP | UEFA Champions League | | | 8K | CA: DAZN 21
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1501736&extension=ts&play_token=taJYFPBNnq
+#EXTINF:-1 tvg-id="1912591" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Live | Arsenal vs. Sporting CP | UEFA Champions League | 8K | CA: DAZN 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1912582&extension=ts&play_token=u7230cvr3x
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1912591&extension=ts&play_token=2jbkQgyogk
 #EXTINF:-1 tvg-id="1150141" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | FR - ARSENAL VS SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150141
 #EXTINF:-1 tvg-id="1150140" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | FR - ARSENAL VS SPORTING CP [BK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150140
 #EXTINF:-1 tvg-id="1292008" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | AR - ARSENAL VS SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292008
 #EXTINF:-1 tvg-id="1292007" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | AR - ARSENAL VS SPORTING CP [BK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292007
 #EXTINF:-1 tvg-id="1292015" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | SP - ARSENAL VS SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292015
 #EXTINF:-1 tvg-id="1292020" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | DE - ARSENAL VS SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292020
 #EXTINF:-1 tvg-id="1274757" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | ALB - ARSENAL VS SPORTING CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1274757
 #EXTINF:-1 tvg-id="1702695" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",16/04 02:00 AM | Soccer: Arsenal vs Sporting CP @ :Tv2Play NO 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702695&extension=ts&play_token=AFFrB2fFIv
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702695&extension=ts&play_token=6e65qhCCat
 #EXTINF:-1 tvg-id="1360326" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/SPAIN/VIX.png",16/04 02:00 AM | ES - VIX 01 : FC BAYERN MÜNCHEN @ REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1360326
-#EXTINF:-1 tvg-id="1881227" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | FC Bayern München - Real Madrid | Viertelfinale (Rückspiel) | UEFA Champions League | | | 8K | DE: DAZN 9
+#EXTINF:-1 tvg-id="1881226" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Live | FC Bayern München - Real Madrid | Viertelfinale (Rückspiel) | UEFA Champions League | 8K | DE: DAZN 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881227&extension=ts&play_token=5vRMiXBvtW
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881226&extension=ts&play_token=eo1Fl0qPxG
+#EXTINF:-1 tvg-id="1761863" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",16/04 02:00 AM | LIVE | FC BAYERN MÜNCHEN VS. REAL MADRID | (ES) | 8K | ES: VIX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1761863&extension=ts&play_token=EadDOcU2hB
 #EXTINF:-1 tvg-id="1535860" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",16/04 02:00 AM | ES (VIX 01) | FC Bayern München vs. Real Madrid ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535860&extension=ts&play_token=MSS15E5n6q
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535860&extension=ts&play_token=LfFvkaPJfk
 #EXTINF:-1 tvg-id="1360326" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/SPAIN/VIX.png",16/04 02:00 AM | ES - VIX 01 : FC BAYERN MÜNCHEN @ REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1360326
 #EXTINF:-1 tvg-id="1535958" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",16/04 02:00 AM | AU (STAN 04) | Bayern München v Real Madrid UEFA Champions League 2025/2026 ( :12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535958&extension=ts&play_token=OSde69BCYH
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535958&extension=ts&play_token=roKDBnjWNZ
 #EXTINF:-1 tvg-id="1150166" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | EN - BAYERN MÜNCHEN VS REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150166
 #EXTINF:-1 tvg-id="1150165" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | EN - BAYERN MÜNCHEN VS REAL MADRID [BK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150165
-#EXTINF:-1 tvg-id="1810044" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | UEFA CHAMPIONS LEAGUE CL-STUDION: BAYERN MÜNCHEN - REAL MADRID | (SE) | 8K | SE: VIAPLAY 3
+#EXTINF:-1 tvg-id="1810044" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | LIVE | UEFA CHAMPIONS LEAGUE CL-STUDION: BAYERN MÜNCHEN - REAL MADRID | (SE) | 8K | SE: VIAPLAY 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810044&extension=ts&play_token=sJ1JyVvGfZ
-#EXTINF:-1 tvg-id="1810042" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | UEFA CHAMPIONS LEAGUE BAYERN MÜNCHEN - REAL MADRID | (SE) | 8K | SE: VIAPLAY 5
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810044&extension=ts&play_token=D9srxXEXG5
+#EXTINF:-1 tvg-id="1810042" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | LIVE | UEFA CHAMPIONS LEAGUE BAYERN MÜNCHEN - REAL MADRID | (SE) | 8K | SE: VIAPLAY 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810042&extension=ts&play_token=nELR8jzH5M
-#EXTINF:-1 tvg-id="1825993" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | UCL KVARTSFINAL 2:2: BAYERN MÜNCHEN - REAL MADRID UHD | (SE) | 8K | SE: PLAY+ 10
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810042&extension=ts&play_token=RtD4317f59
+#EXTINF:-1 tvg-id="1825993" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | LIVE | UCL KVARTSFINAL 2:2: BAYERN MÜNCHEN - REAL MADRID UHD | (SE) | 8K | SE: PLAY+ 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825993&extension=ts&play_token=R8ZRmijR8m
-#EXTINF:-1 tvg-id="1825992" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | UCL KVARTSFINAL 2:2: BAYERN MÜNCHEN - REAL MADRID | (SE) | 8K | SE: PLAY+ 11
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825993&extension=ts&play_token=f71uH8mH6g
+#EXTINF:-1 tvg-id="1825992" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | LIVE | UCL KVARTSFINAL 2:2: BAYERN MÜNCHEN - REAL MADRID | (SE) | 8K | SE: PLAY+ 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825992&extension=ts&play_token=xHrS41bvHY
-#EXTINF:-1 tvg-id="1918857" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/04 02:00 AM | Bayern München vs. Real Madrid | all | | | 8K | DE: SOCCER 20
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825992&extension=ts&play_token=QjEN8dmG7S
+#EXTINF:-1 tvg-id="1918855" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/04 02:00 AM | Live | Bayern München vs. Real Madrid | all | 8K | DE: SOCCER 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918857&extension=ts&play_token=Y4EPeNinkq
-#EXTINF:-1 tvg-id="1881227" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | FC Bayern München - Real Madrid | Viertelfinale (Rückspiel) | UEFA Champions League | | | 8K | DE: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918855&extension=ts&play_token=ngwwbPgMeZ
+#EXTINF:-1 tvg-id="1881226" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/04 02:00 AM | Live | FC Bayern München - Real Madrid | Viertelfinale (Rückspiel) | UEFA Champions League | 8K | DE: DAZN 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881227&extension=ts&play_token=5vRMiXBvtW
-#EXTINF:-1 tvg-id="1863219" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | UEFA CHAMPIONS LEAGUE BAYERN MÜNCHEN - REAL MADRID | (DK) | 8K | DK: VIAPLAY 8
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881226&extension=ts&play_token=eo1Fl0qPxG
+#EXTINF:-1 tvg-id="1761863" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",16/04 02:00 AM | LIVE | FC BAYERN MÜNCHEN VS. REAL MADRID | (ES) | 8K | ES: VIX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863219&extension=ts&play_token=LPedBzXwbm
-#EXTINF:-1 tvg-id="1665537" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",16/04 02:00 AM | BAYERN MÜNCHEN - REAL MADRID | (FI) | 8K | FI: MTV 3
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1761863&extension=ts&play_token=EadDOcU2hB
+#EXTINF:-1 tvg-id="1863219" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | LIVE | UEFA CHAMPIONS LEAGUE BAYERN MÜNCHEN - REAL MADRID | (DK) | 8K | DK: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1665537&extension=ts&play_token=MGxiA26LpX
-#EXTINF:-1 tvg-id="1919080" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/04 02:00 AM | Bayern München vs. Real Madrid | all | | | 8K | BR: SOCCER 4
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863219&extension=ts&play_token=1wGcoIsfEF
+#EXTINF:-1 tvg-id="1665537" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",16/04 02:00 AM | LIVE | BAYERN MÜNCHEN - REAL MADRID | (FI) | 8K | FI: MTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919080&extension=ts&play_token=zLssJDqYNA
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1665537&extension=ts&play_token=awk8hEU3g4
+#EXTINF:-1 tvg-id="1919082" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/04 02:00 AM | Live | Bayern München vs. Real Madrid | all | 8K | BR: SOCCER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919082&extension=ts&play_token=2srxN0TFP5
 #EXTINF:-1 tvg-id="1150136" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | FR - BAYERN MÜNCHEN VS REAL MADRID [LCF]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150136
 #EXTINF:-1 tvg-id="1150135" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | FR - BAYERN MÜNCHEN VS REAL MADRID [CK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150135
 #EXTINF:-1 tvg-id="1096035" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | FR - BAYERN MÜNCHEN VS REAL MADRID [BE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1096035
 #EXTINF:-1 tvg-id="1096034" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | FR - BAYERN MÜNCHEN VS REAL MADRID [LCH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1096034
 #EXTINF:-1 tvg-id="1292006" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | AR - BAYERN MÜNCHEN VS REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292006
 #EXTINF:-1 tvg-id="1150139" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | AR - BAYERN MÜNCHEN VS REAL MADRID [BK]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150139
 #EXTINF:-1 tvg-id="1150174" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | SP - BAYERN MÜNCHEN VS REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1150174
 #EXTINF:-1 tvg-id="1292019" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | DE - BAYERN MÜNCHEN VS REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1292019
 #EXTINF:-1 tvg-id="1274756" group-title="Live UEFA Champions League-Match" tvg-logo="https://go4.pw/champ/champions.png",16/04 02:00 AM | ALB - BAYERN MÜNCHEN VS REAL MADRID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AA9077363B7EEDEA6B520A2803A933EA
+#EXTVLCOPT:http-header=Authorization: Bearer 4DDE9755D702968E7B1DE3D8265ABB33
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1274756
 #EXTINF:-1 tvg-id="1702615" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | CL studion Bayern München vs Real Madrid @ :Viaplay SE 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702615&extension=ts&play_token=M3GRUIjKX7
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702615&extension=ts&play_token=tzlbdkZ7c4
 #EXTINF:-1 tvg-id="1702613" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | Bayern München vs Real Madrid @ :Viaplay SE 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702613&extension=ts&play_token=lvQWdJDJfF
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702613&extension=ts&play_token=BqRVFubv7Y
 #EXTINF:-1 tvg-id="1704141" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | UCL kvartsfinal 2:2: Bayern Munchen vs Real Madrid UHD @ :TeliaPlay SE 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704141&extension=ts&play_token=bSq8LTES6P
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704141&extension=ts&play_token=KOrSpsso8N
 #EXTINF:-1 tvg-id="1704139" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | UCL kvartsfinal 2:2: Bayern Munchen vs Real Madrid @ :TeliaPlay SE 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704139&extension=ts&play_token=JbiL4n5LLL
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704139&extension=ts&play_token=BS8pjibT6b
 #EXTINF:-1 tvg-id="1535860" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",16/04 02:00 AM | ES (VIX 01) | FC Bayern München vs. Real Madrid ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535860&extension=ts&play_token=MSS15E5n6q
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535860&extension=ts&play_token=LfFvkaPJfk
 #EXTINF:-1 tvg-id="1703066" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",16/04 02:00 AM | Bayern München vs Real Madrid @ :Viaplay DK 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703066&extension=ts&play_token=taPw23kCj2
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703066&extension=ts&play_token=MhJMQ8c7AA
 #EXTINF:-1 tvg-id="1704244" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",16/04 02:00 AM | UEFA Champions League: Bayern Munchen vs Real Madrid @ :Telia FI 09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704244&extension=ts&play_token=WK5mzZ3gsL
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704244&extension=ts&play_token=nfkZETCtes
 #EXTINF:-1 tvg-id="1704298" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",16/04 02:00 AM | Bayern Munchen Real Madrid @ :MTV FI 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704298&extension=ts&play_token=XCD8vLnd7r
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704298&extension=ts&play_token=SeYmoKUFh3
+#EXTINF:-1 tvg-id="1801858" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",17/04 02:00 AM | FC Porto vs Nottingham Forest @ :Disney+ SE 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1801858&extension=ts&play_token=WvJ275i6Rt
+#EXTINF:-1 tvg-id="1535850" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",17/04 02:00 AM | ES (VIX 11) | Nottingham Forest vs. FC Porto ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535850&extension=ts&play_token=DuOgI0vod7
+#EXTINF:-1 tvg-id="1801857" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",17/04 02:00 AM | Bologna vs Aston Villa @ :Disney+ SE 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1801857&extension=ts&play_token=LOndEb6Mv3
+#EXTINF:-1 tvg-id="1535852" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",17/04 02:00 AM | ES (VIX 09) | Aston Villa vs. Bologna ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535852&extension=ts&play_token=KEgBzQvXRh
+#EXTINF:-1 tvg-id="1801855" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",17/04 02:00 AM | Crystal Palace vs Fiorentina @ :Disney+ SE 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1801855&extension=ts&play_token=UwAqOYz3h6
+#EXTINF:-1 tvg-id="1535851" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107",17/04 02:00 AM | ES (VIX 10) | Fiorentina vs. Crystal Palace ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1535851&extension=ts&play_token=wISSjnw3kZ
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",17/04 02:00 AM | UEFA | 04 - Rayo Vallecano vs AEK Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9740DDAB9C40EDBE208035CA2D6E8AB6
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=830065&extension=ts&play_token=cofxchCmnk
+#EXTINF:-1 tvg-id="993056" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",17/04 02:00 AM | UEFA | 04 - Rayo Vallecano vs AEK Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=993056&extension=ts&play_token=Eo17avjFdp
+#EXTINF:-1 tvg-id="1025277" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",17/04 02:00 AM | UEFA | 04 - Rayo Vallecano vs AEK Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 81E54CFBA6DF211F8D356A6ED8A4C823
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1025277&extension=ts&play_token=pey7SPO6on
 #EXTINF:-1 tvg-id="17286" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skyamainevent.png",16/04 01:00 AM | ATP Tennis (UK - SKY SPORTS MAIN EVENT FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -12517,77 +12597,37 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285213&extens
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer EF98FBEB7C8245D7960F2DB163DD22F3
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285214&extension=ts&play_token=E2JUG0eqMW
-#EXTINF:-1 tvg-id="470730" group-title="🎾|Live Tennis",15/04 09:00 PM | Barcelona Open Banc Sabadell (TSN4)
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="470730" group-title="🎾|Live Tennis",15/04 09:00 PM | Barcelona Open Banc Sabadell (TSN4)
-https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",15/04 09:00 PM | Barcelona Open Banc Sabadell (TSN4)
-https://tvpass.org/live/tsn4/hd
-#EXTINF:-1 tvg-id="bein_sport" group-title="🎾|Live Tennis" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://zeustv453269.info/b1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="beinsport1f.tr" group-title="🎾|Live Tennis" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://goldvod.site/live/hpgdisco/123456/10534.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-http://77.137.40.221:8000/play/a01e
-#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
-#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
-#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 tvg-id="BS1" group-title="🎾|Live Tennis" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-http://5678999.life:2082/adamusa1242025/attalah77448866/333799
-#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn14k/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn1hevc/index.m3u8
-#EXTINF:-1 tvg-id="beINSports1.tr" group-title="🎾|Live Tennis" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-https://goldvod.site/live/hpgdisco/123456/143.m3u8
-#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",15/04 09:00 PM | Rafael Jodar vs Camilo Ugo Carabelli (beIN SPORTS 1)
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F144.png&w=800",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",16/04 02:00 AM | Arsenal vs Sporting CP (TNT Sports 1)
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495258.ts
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 http://supersonictv.live:8080/611366/682256/22074
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+https://sm-monirul.top/Toffee/live.php?id=discovery_sd&e=.m3u8
 #EXTINF:-1 tvg-id="discoveryph1" group-title="Live UEFA Champions League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
-http://89.105.221.127/Discovery/index.m3u8?token=test
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
-http://84.17.50.102/discovery/index.m3u8
-#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
-https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
 #EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+http://84.17.50.102/discovery/index.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
+https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Discovery+)
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",16/04 02:00 AM | Arsenal vs Sporting CP (TNT Sports 1)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495258.ts
 #EXTINF:-1 tvg-id="521272" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Canal+)
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 tvg-id="521272" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Canal+)
-http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:-1 tvg-id="521272" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Canal+)
-http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:-1 tvg-id="bein_sport" group-title="Live UEFA Champions League" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
-https://zeustv453269.info/b2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="beinsport2f.tr" group-title="Live UEFA Champions League" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
-https://goldvod.site/live/hpgdisco/123456/10535.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
 http://77.137.40.221:8000/play/a01g
 #EXTINF:-1 tvg-id="532982" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
@@ -12597,14 +12637,15 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #EXTINF:-1 tvg-id="532982" group-title="Live UEFA Champions League" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 #EXTINF:-1 tvg-id="532982" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="532982" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-id="532982" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Live UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Live UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="Live UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
 http://5678999.life:2082/adamusa1242025/attalah77448866/333801
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN SPORTS 2)
@@ -12628,13 +12669,13 @@ https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="392303" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
 http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392317" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
-https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
 http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
-https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392311" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
 http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392298" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
 http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392298" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport 2 HR)
@@ -12649,67 +12690,83 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2865
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/99624
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" group-title="Live UEFA Champions League" tvg-logo="https://ip-tv.dev/images/ico/10110.png",16/04 02:00 AM | Arsenal vs Sporting CP (Canal+ Extra 2)
 http://46.149.191.219:9114/play/a026
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Canal+ Extra 2)
-http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1 tvg-id="381848" group-title="Live UEFA Champions League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8540b09c6c9b9e4fe035d27166426736.png",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport Premium 2)
+http://013tv.com:8080/F13836/35b68aca/3603
 #EXTINF:-1 tvg-id="381848" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport Premium 2)
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="381848" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Arena Sport Premium 2)
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaSport2.ro" group-title="Live UEFA Champions League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049",16/04 02:00 AM | Arsenal vs Sporting CP (Prima Sport 2)
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvRU5_2VI2ZrYUQF5HkfJ7eTPbpytm1-R5QKTQXckOuYgJSDP0ERiUVNQHXe0oInDR8sFTwMglQ3pcIRQJQ273ZtoDm9k9ihIVRJDc8R_K5FvvAJ2OCtRtXCxgNlC9DDzHwNUT5c2Zq_QtBCh0gphhdq7yzyHbCYGIPLvkPri9Fnnpp1BYjyBW6WL_j_e/s700/PRIMA%20SPORT%202.png",16/04 02:00 AM | Arsenal vs Sporting CP (Prima Sport 2)
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-id="6506" group-title="Live UEFA Champions League" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",16/04 02:00 AM | Arsenal vs Sporting CP (Digi Sport 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://kuk1.modprimus1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 #EXTINF:-1 tvg-id="6506" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Digi Sport 2)
 http://91.201.172.14:35006/
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png",16/04 02:00 AM | Arsenal vs Sporting CP (SuperSport Premier League HD)
-http://mains.services/live/bshorty/Zv5le07a0J/d3d180ce-c708-4ff5-9ffe-070031f1d2e7.ts
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Tabii Spor 1)
-https://zeustv453269.info/tabii1/index.m3u8
+#EXTINF:-1 tvg-id="PrimaSport2.ro" group-title="Live UEFA Champions League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049",16/04 02:00 AM | Arsenal vs Sporting CP (Prima Sport 2)
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvRU5_2VI2ZrYUQF5HkfJ7eTPbpytm1-R5QKTQXckOuYgJSDP0ERiUVNQHXe0oInDR8sFTwMglQ3pcIRQJQ273ZtoDm9k9ihIVRJDc8R_K5FvvAJ2OCtRtXCxgNlC9DDzHwNUT5c2Zq_QtBCh0gphhdq7yzyHbCYGIPLvkPri9Fnnpp1BYjyBW6WL_j_e/s700/PRIMA%20SPORT%202.png",16/04 02:00 AM | Arsenal vs Sporting CP (Prima Sport 2)
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/bMC6dEf.jpg",16/04 02:00 AM | Arsenal vs Sporting CP (Ziggo Sport 2)
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/LcmjcJN.jpg",16/04 02:00 AM | Arsenal vs Sporting CP (Ziggo Sport 2)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14906
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8JLJOuh_bd5xRoUioPmyMDwXEUsAdefcmw&usqp=CAU",16/04 02:00 AM | Arsenal vs Sporting CP (Ziggo Sport 2)
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport2.m3u8
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F144.png&w=800",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+http://77.137.40.221:8000/play/a01h
+#EXTINF:-1 tvg-id="532983" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 tvg-id="532983" group-title="Live UEFA Champions League" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3
+#EXTINF:-1 tvg-id="532983" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="532983" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",16/04 02:00 AM | Arsenal vs Sporting CP (beIN Sports 3 HD)
+http://5678999.life:2082/adamusa1242025/attalah77448866/333803
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png",16/04 02:00 AM | Arsenal vs Sporting CP (SuperSport Premier League HD)
+http://mains.services/live/bshorty/Zv5le07a0J/d3d180ce-c708-4ff5-9ffe-070031f1d2e7.ts
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | Arsenal vs Sporting CP (Tabii Spor 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 http://supersonictv.live:8080/611366/682256/22074
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+https://sm-monirul.top/Toffee/live.php?id=discovery_sd&e=.m3u8
 #EXTINF:-1 tvg-id="discoveryph1" group-title="Live UEFA Champions League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
-http://89.105.221.127/Discovery/index.m3u8?token=test
-#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
-http://84.17.50.102/discovery/index.m3u8
-#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
-https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
 #EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
 #EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+http://84.17.50.102/discovery/index.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
+https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Discovery+)
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" group-title="Live UEFA Champions League" tvg-logo="https://ip-tv.dev/images/ico/10110.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Canal+ Sport 2)
-http://46.149.191.219:9114/play/a026
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Canal+ Sport 2)
-http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (SuperSport Premier League)
-http://mains.services/live/bshorty/Zv5le07a0J/d3d180ce-c708-4ff5-9ffe-070031f1d2e7.ts
 #EXTINF:-1 tvg-id="521272" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Canal+)
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 tvg-id="521272" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Canal+)
-http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:-1 tvg-id="521272" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Canal+)
-http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (SuperSport Premier League)
+http://mains.services/live/bshorty/Zv5le07a0J/d3d180ce-c708-4ff5-9ffe-070031f1d2e7.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" group-title="Live UEFA Champions League" tvg-logo="https://ip-tv.dev/images/ico/10110.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Canal+ Sport 2)
+http://46.149.191.219:9114/play/a026
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/hJr0Ay6.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (ESPN 5)
 http://nymcsus.autos:80/live/010794/FXz1sY/71955.ts
 #EXTINF:-1 tvg-id="418724" group-title="Live UEFA Champions League" tvg-logo="https://i.imgur.com/jD0bDM0.jpg",16/04 02:00 AM | FC Bayern München vs Real Madrid (ESPN 5)
@@ -12718,10 +12775,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
 https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
 #EXTINF:-1 tvg-id="418724" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (ESPN 5)
 http://190.0.247.38:8000/play/a012
-#EXTINF:-1 tvg-id="bein_sport" group-title="Live UEFA Champions League" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
-https://zeustv453269.info/b1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="beinsport1f.tr" group-title="Live UEFA Champions League" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
-https://goldvod.site/live/hpgdisco/123456/10534.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
@@ -12731,20 +12784,26 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
 #EXTINF:-1 tvg-id="532981" group-title="Live UEFA Champions League" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
 #EXTINF:-1 tvg-id="532981" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="532981" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="532981" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Live UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
+#EXTINF:-1 tvg-id="532981" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Live UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="Live UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
 #EXTINF:-1 tvg-id="BS1" group-title="Live UEFA Champions League" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 http://5678999.life:2082/adamusa1242025/attalah77448866/333799
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn14k/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn1hevc/index.m3u8
-#EXTINF:-1 tvg-id="beINSports1.tr" group-title="Live UEFA Champions League" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
-https://goldvod.site/live/hpgdisco/123456/143.m3u8
 #EXTINF:-1 tvg-id="532981" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (beIN SPORTS 1)
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Ziggo Sport)
@@ -12752,19 +12811,21 @@ http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="392303" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
 http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392317" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
-https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
 http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
-https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392311" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
 http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392298" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
 http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="392298" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
 https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="403427" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport 1 HR)
 https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="381850" group-title="Live UEFA Champions League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport Premium 1)
+http://013tv.com:8080/F13836/35b68aca/3601
 #EXTINF:-1 tvg-id="381850" group-title="Live UEFA Champions League" tvg-logo="https://lo1.in/exyu/arensp1.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Arena Sport Premium 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
@@ -12782,16 +12843,52 @@ http://91.201.172.14:35005/
 #EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 02:00 AM | FC Bayern München vs Real Madrid (Prima Sport 1)
 https://ww.dooballfree.vip/live/primasport1/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 02:00 AM | FC Bayern München vs Real Madrid (Prima Sport 1)
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 02:00 AM | FC Bayern München vs Real Madrid (Prima Sport 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 02:00 AM | FC Bayern München vs Real Madrid (Prima Sport 1)
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCJIC4-i8LmN0ENVDKdIXibfRJ5ptFGdKrTPbZGWhS1Gupaf7TaTdxz95BmzcW5R5oJlsGRYjAshgJKjrSl79-rdX7vliymWDogODWd4-mc9bBCEc_DdSyMswq-ZcoTL8tlFkfwBpkhy2wdUdHSndMhEkTKejhryjHFzvcIBvxS_nokJo51iENerS5GOtR/s700/PRIMA%20SPORT%201.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (Prima Sport 1)
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-id="bein_sport" group-title="🎾|Live Tennis" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png",16/04 04:00 PM |  (beIN SPORTS 2)
-https://zeustv453269.info/b2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="beinsport2f.tr" group-title="🎾|Live Tennis" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",16/04 04:00 PM |  (beIN SPORTS 2)
-https://goldvod.site/live/hpgdisco/123456/10535.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Tabii Spor Türkiye)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Turkmenistan Sport HD)
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League",16/04 02:00 AM | FC Bayern München vs Real Madrid (Turkmenistan Sport HD)
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Champions League" tvg-logo="https://i.ibb.co.com/crWgv5z/vsportplus.png",16/04 02:00 AM | FC Bayern München vs Real Madrid (V Sport Premium HD)
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
+#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530",16/04 04:00 PM |  (beIN SPORTS 1)
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",16/04 04:00 PM |  (beIN SPORTS 1)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png",16/04 04:00 PM |  (beIN SPORTS 1)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
+#EXTINF:-1 tvg-id="BS1" group-title="🎾|Live Tennis" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",16/04 04:00 PM |  (beIN SPORTS 1)
+http://5678999.life:2082/adamusa1242025/attalah77448866/333799
+#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 04:00 PM |  (beIN SPORTS 1)
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn14k/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 04:00 PM |  (beIN SPORTS 1)
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn1hevc/index.m3u8
+#EXTINF:-1 tvg-id="532981" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 1)
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 #EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 2)
 http://77.137.40.221:8000/play/a01g
 #EXTINF:-1 tvg-id="532982" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 2)
@@ -12801,17 +12898,135 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #EXTINF:-1 tvg-id="532982" group-title="🎾|Live Tennis" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",16/04 04:00 PM |  (beIN SPORTS 2)
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 #EXTINF:-1 tvg-id="532982" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="532982" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-id="532982" group-title="🎾|Live Tennis",16/04 04:00 PM |  (beIN SPORTS 2)
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",16/04 04:00 PM |  (beIN SPORTS 2)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",16/04 04:00 PM |  (beIN SPORTS 2)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="🎾|Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png",16/04 04:00 PM |  (beIN SPORTS 2)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 #EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",16/04 04:00 PM |  (beIN SPORTS 2)
 http://5678999.life:2082/adamusa1242025/attalah77448866/333801
 #EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 04:00 PM |  (beIN SPORTS 2)
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn24k/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎾|Live Tennis" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",16/04 04:00 PM |  (beIN SPORTS 2)
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://afcocafot.com:8080/bn2hevc/index.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Europa League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Europa League" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Europa League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Europa League" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://supersonictv.live:8080/611366/682256/22074
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Europa League" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+https://sm-monirul.top/Toffee/live.php?id=discovery_sd&e=.m3u8
+#EXTINF:-1 tvg-id="discoveryph1" group-title="Live UEFA Europa League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Europa League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Europa League" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://84.17.50.102/discovery/index.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Discovery+)
+http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8JLJOuh_bd5xRoUioPmyMDwXEUsAdefcmw&usqp=CAU",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Ziggo Sport 3)
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport3.m3u8
+#EXTINF:-1 tvg-id="381849" group-title="Live UEFA Europa League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/37f61d2b06d6d3ae0fd3d72f35ee378f.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport Premium 3)
+http://013tv.com:8080/F13836/35b68aca/3605
+#EXTINF:-1 tvg-id="392303" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392298" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392298" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="403427" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Arena Sport 2 HR)
+https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="5862" group-title="Live UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVycPrqcSQ74386GOn1z8JGgOC-9Pg5mvSGw&s",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Digi Sport 1)
+http://cmskos.bekaks.net:777/live/valard_klient2/PhcWLtKTuc/2466.m3u8
+#EXTINF:-1 tvg-id="5862" group-title="Live UEFA Europa League" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Digi Sport 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://jardo111.jardomany1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+#EXTINF:-1 tvg-id="5862" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Digi Sport 1)
+http://91.201.172.14:35005/
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Prima Sport 1)
+https://ww.dooballfree.vip/live/primasport1/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Prima Sport 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Live UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Prima Sport 1)
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Europa League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCJIC4-i8LmN0ENVDKdIXibfRJ5ptFGdKrTPbZGWhS1Gupaf7TaTdxz95BmzcW5R5oJlsGRYjAshgJKjrSl79-rdX7vliymWDogODWd4-mc9bBCEc_DdSyMswq-ZcoTL8tlFkfwBpkhy2wdUdHSndMhEkTKejhryjHFzvcIBvxS_nokJo51iENerS5GOtR/s700/PRIMA%20SPORT%201.png",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Prima Sport 1)
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="7135" group-title="Live UEFA Europa League",16/04 11:45 PM | Celta Vigo vs SC Freiburg (Polsat Sport Premium 2)
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Conference League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Conference League" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Conference League" tvg-logo="https://i.imgur.com/2JR5vSZ.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Conference League" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://supersonictv.live:8080/611366/682256/22074
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Conference League" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+https://sm-monirul.top/Toffee/live.php?id=discovery_sd&e=.m3u8
+#EXTINF:-1 tvg-id="discoveryph1" group-title="Live UEFA Conference League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Conference League" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Conference League" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://84.17.50.102/discovery/index.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-id="524042" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="460811" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Discovery+)
+http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+#EXTINF:-1 tvg-id="5864" group-title="Live UEFA Conference League" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Digi Sport 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://kuk1.modprimus1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+#EXTINF:-1 tvg-id="PrimaSport2.ro" group-title="Live UEFA Conference League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Prima Sport 2)
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Conference League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvRU5_2VI2ZrYUQF5HkfJ7eTPbpytm1-R5QKTQXckOuYgJSDP0ERiUVNQHXe0oInDR8sFTwMglQ3pcIRQJQ273ZtoDm9k9ihIVRJDc8R_K5FvvAJ2OCtRtXCxgNlC9DDzHwNUT5c2Zq_QtBCh0gphhdq7yzyHbCYGIPLvkPri9Fnnpp1BYjyBW6WL_j_e/s700/PRIMA%20SPORT%202.png",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Prima Sport 2)
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="392303" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392317" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392311" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392298" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="392298" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="403427" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Arena Sport 3 HR)
+https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="" group-title="Live UEFA Conference League",16/04 11:45 PM | AZ Alkmaar vs Shakhtar Donetsk (Ziggo Sport)
+http://86.87.15.10:8005/play/a00v/index.m3u8
