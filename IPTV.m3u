@@ -2,10 +2,10 @@
 #EXTM3U
 #PLAYLIST:Cleaned Playlist - Cleaned
 #GENERATED-BY: CXT Cleaner v2.0 (Stalker Ready)
-#VALIDATION-DATE: 2026-04-26 16:17:05
+#VALIDATION-DATE: 2026-04-26 13:22:07
 #TOTAL-STREAMS-CHECKED: 2857
-#TOTAL-VALID-STREAMS: 2544
-#SUCCESS-RATE: 89.0%
+#TOTAL-VALID-STREAMS: 2567
+#SUCCESS-RATE: 89.8%
 #FILTERS-APPLIED: ADULT, .mp4, cinehub24.com
 #ORDER-PRESERVATION: Original order maintained
 ########################################
@@ -202,8 +202,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 https://estreams.tv.nej.cz/dash/CH_AXN_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/axn-es.png",AXN(test)
 http://103.244.145.15/live/anita123/anita123/151036.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-#EXTINF:-1 tvg-id="368365" group-title="🎬😜|Giải Trí",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
@@ -230,8 +228,6 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="460893" group-title="🎬😜|Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 tvg-id="460893" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="460893" group-title="🎬😜|Giải Trí",HBO
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="460893" group-title="🎬😜|Giải Trí",HBO
@@ -352,6 +348,10 @@ http://172.110.219.252:80/live/47125065/12264670/126915.ts
 #EXTINF:-1 tvg-id="523274" group-title="🎬😜|Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest?cb=20250505123120",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#EXTINF:-1 tvg-id="540103" group-title="🎬😜|Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO Signature HD
+https://e4.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=OvqDYf6l2v29hnQq2LeKtQ&expires=1777193818&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" group-title="🎬😜|Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO Signature SD
+https://e2.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=SGAnmta1soTYx4DSP_xmGg&expires=1777193809&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="523274" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg",HBO SIGNATURE
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -379,8 +379,6 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí" tvg-logo="https://dl.dropbox.com/scl/fi/zsbacg5t7lorej9vx5lsa/Cinemax-hometv.png?rlkey=pe3s86fk2p7k4q9w0eoij7jzl&dl=0",CINEMAX
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí",Cinemax
@@ -397,6 +395,8 @@ http://172.110.219.252:80/live/47125065/12264670/223548.ts
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 #EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20201205114958",Cinemax
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true",Cinemax SD
+https://e2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=5C6F5KObY39H_H6kqrDvwg&expires=1777193050&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 #EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg",CINEMAX 🇵🇭
@@ -410,6 +410,8 @@ https://canaiss.fazoeli.co.za/fontes/smart/cinemax.m3u8
 https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
 #EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg",CINEMAX
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="540181" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true",Cinemax HD
+https://v12.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=H_M_6BouBYbDVWyL5QkLrA&expires=1777193059&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 #EXTINF:-1 tvg-id="523277" group-title="🎬😜|Giải Trí" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",Cinemax
@@ -584,6 +586,8 @@ https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",INWILD (Geo)
 https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Inwild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="historytv18hd.in" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png",Adventure Earth
@@ -632,6 +636,10 @@ http://172.110.219.252:80/live/47125065/12264670/125220.ts
 http://172.110.219.252:80/live/47125065/12264670/125221.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" group-title="🎬😜|Giải Trí" tvg-logo="https://logos.imperioapps.top/DISCOVERY.png",Discovery Channel SD
 http://172.110.219.252:80/live/47125065/12264670/125222.ts
+#EXTINF:-1 tvg-id="492867" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true",Discovery HD
+https://e3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=Xu8JeLonvebnz9FWxwUsyQ&expires=1777193249&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="539301" group-title="🎬😜|Giải Trí",discovery
+http://84.17.50.102/discovery/index.m3u8
 #EXTINF:-1 tvg-id="524042" group-title="🎬😜|Giải Trí",Discovery Channel
 https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -670,6 +678,12 @@ http://103.244.145.15/live/anita123/anita123/150984.m3u8?token=ShJcU0BbQQNHWwZaV
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/749
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="🎬😜|Giải Trí" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",National Geographic HD (1080p) (eng6) (English) (Documentary) - 1080P
 http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true",National Geographic SD
+https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=6Lo-32ThtHeR_ghPDkbOrw&expires=1777194170&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="465089" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true",National Geographic HD
+https://e4.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=L-vk5PVtQ2uFkJbVCO1nIw&expires=1777194179&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí",National geographic
 https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
 #EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
@@ -704,6 +718,10 @@ http://172.110.219.252:80/live/47125065/12264670/125103.ts
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 #EXTINF:-1 tvg-id="524074" group-title="🎬😜|Giải Trí" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+#EXTINF:-1 tvg-id="animal-planet-us-east" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true",Animal Planet SD
+https://e1.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8?token=oQ2sN6KBz5ttjBgy63VghA&expires=1777192841&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="540133" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true",Animal Planet HD
+https://e1.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8?token=fBC74-dcE9x8cQT6Pt57ww&expires=1777192851&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="524074" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png",Animal Planet
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -831,6 +849,15 @@ https://e2.thetvapp.to/hls/mlb10/tracks-v1a1/mono.m3u8?token=NJevedxbHvkjdj-p9L5
 http://cord-cutter.net:8080/hq3y4G/234247/53717
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/k44W7jg.jpg",12:25 WIB • U18s Match: Sunderland v Utd25/26
 http://tvmate.icu:8080/69NpyV/884735/53717
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://img.rapid-api.icu/football/team/fcc41fc742ef8c2529245e0a5e553f3b/image/small?v=1768601124",12h00 ngày 26/04 Busan Transportation Corporation vs Gangneung Citizen (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/3d60558ddbebd54ad74057f0944ee210/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://img.rapid-api.icu/football/team/ebe6d4e3a10ae910694ec00b3d0949ff/image/small?v=1768601124",12h00 ngày 26/04 Central Coast Mariners Youth vs Newcastle Jets FC Youth (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/486a49846b69968b7ae4f29fd4b7fcbc/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://img.rapid-api.icu/football/team/d1088cc4079a5bac9b3fc685afdf4f44/image/small?v=1768601124",12h00 ngày 26/04 Suwon Football Club vs Gimpo FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live.alilicloud.com/live/86a5f79d66c3a6f8923dbec28d791831/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",13:00 | Karşiyaka - Esenler Erokspor | Basketbol Süper Ligi
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",13:15 | Baskonia - Barcelona | İspanya Basketbol Ligi
@@ -928,6 +955,9 @@ https://mll1.mpfiles.cfd/live/33/stream.m3u8?expires=1777163596&token=a969f04ac7
 https://mll1.mpfiles.cfd/live/33/stream.m3u8?expires=1777172828&token=8b3c1b70107f618fa62f59ddd1c88e9be97fb0bcf28d4efbf48955258b92f324|referer=https://sharkstreams.net|origin=https://sharkstreams.net|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F142.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="⚽🥎| Thể Thao" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",[MLB] New York Yankees vs Houston Astros (SHARK)
 https://mll1.mpfiles.cfd/live/33/stream.m3u8?expires=1777163596&token=a969f04ac7be21853e83242aea8cf1ffaf29d5dba19229e0ca00f8e1ba8ebaf8|referer=https://sharkstreams.net|origin=https://sharkstreams.net|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="⚽🥎| Thể Thao" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",[MLB] Yankees vs Astros (WEBCAST)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=aDBffmNX1ooMO9ICf4LVQSG6Z3tZcUV9l373SIW68dU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1777185050/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",[Soccer] Arsenal vs Newcastle (ROXIE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8
@@ -1103,10 +1133,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
 #EXTINF:-1 tvg-id="381854" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENASPORT 5
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Art Sport 1 HD 🇽🇰
-http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Art Sport 1 HD 🇽🇰
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png",ART Sport 1 XK
 http://cdn.tv-rds.workers.dev/ARTSport1.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Art Sport 2 HD 🇽🇰
@@ -1180,16 +1206,12 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS4.m3u8
 https://dl.dropboxusercontent.com/scl/fi/fvmlubrpsz62feuvcutxu/asspfoot.m3u8?rlkey=ewph2mk93bpw44va9k9b9e6p9&dl=0
 #EXTINF:-1 tvg-id="399505" group-title="⚽🥎| Thể Thao",Astro Grandstand
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS3.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Astro iQIYI
-http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/M1W8rYc.png",Astro Showcase
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Astro Xing He
-http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Astro 欢喜
 https://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Astro 爱奇艺
@@ -1846,6 +1868,10 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3712
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3621
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png",CBS Sports Network (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10454
+#EXTINF:-1 tvg-id="464937" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true",CBS Sports Network HD
+https://v3.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=1lVrdqEnLblwg33tHN00WQ&expires=1777193040&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true",CBS Sports Network SD
+https://v17.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=B9AmjGPe-g53SxE85flc1Q&expires=1777193031&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="cbs-sports-network-usa" group-title="⚽🥎| Thể Thao",CBS Sports Network USA
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",CCTB Golf & Tennis
@@ -2390,6 +2416,8 @@ http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 http://lunar.pm:8080/2055735047/PtuUrexwIC/122345
 #EXTINF:-1 tvg-id="Espn Premium" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
+#EXTINF:-1 tvg-id="espn" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true",ESPN SD
+https://e2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=r5TykdmRIvAEM33tXnLTGQ&expires=1777193372&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="ESPNU.us" group-title="⚽🥎| Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" group-title="⚽🥎| Thể Thao",ESPN U
@@ -2404,8 +2432,16 @@ http://181.118.156.46:8000/play/a04g/index.m3u8
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/41918
 #EXTINF:-1 tvg-id="447031" group-title="⚽🥎| Thể Thao",ESPN2
 https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="463679" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true",ESPN2 HD
+https://v16.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=IXHFxY6KIeHxf3neBitXUw&expires=1777193401&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="espn2" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true",ESPN2 SD
+https://e4.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=HF-MCGcxtW2FHFR1teLmKA&expires=1777193391&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" group-title="⚽🥎| Thể Thao" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",ESPN8 The Ocho (1080p) (eng4) (English) (Sports) - 1080P
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="465108" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",ESPNU HD
+https://v14.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8?token=SubS41KewO-jr2R0wFiFiA&expires=1777193439&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="espn-u" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",ESPNU SD
+https://e4.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8?token=QnGd3rJgJ7ptLq4GUUW0Eg&expires=1777193429&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPNYEDEK
 http://62.131.195.211:8086/4.ts
 #EXTINF:-1 tvg-id="Esport3.es@Originals" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",Esport3 (1080p) [Not 24/7] - 1080P
@@ -2560,8 +2596,6 @@ https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
 https://tvpass.org/live/fanduel-sports-network-socal/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" group-title="⚽🥎| Thể Thao",Fanduel Sports Network Wisconsin
 https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" group-title="⚽🥎| Thể Thao",Fanduel Sports Southeast South Carolina
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
 #EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" group-title="⚽🥎| Thể Thao",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/sd
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/YPHrFU0.png",FanDuel TV (720p) (eng4) (English) (Sports) - 720P
@@ -2615,6 +2649,10 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3645
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3732
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png",Fox Sports 1 (x)
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1846
+#EXTINF:-1 tvg-id="fox-sports-1" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",FOX Sports 1 HD
+https://v18.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=HVz9iIrMSUDJS4Gv_pS6Bg&expires=1777193515&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="fox-sports-1" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",FOX Sports 1 SD
+https://v14.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=qJeETraTPfIK9uKOP48gdA&expires=1777193505&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",FOX Sports 1 try.
 http://trytv.icu:8080/96066144/96066144/1846
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2644,6 +2682,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2500
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/1847
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-2-ARG-logo.png",FOX SPORTS 2 ARG
 http://cdn.tv-rds.workers.dev/FOX2ARG.m3u8
+#EXTINF:-1 tvg-id="fox-sports-2" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FOX Sports 2 SD
+https://e1.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=6-LJpC24AULNJyR7s6aFlQ&expires=1777193524&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2773,6 +2813,10 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/5845
 https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
 #EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/2560px-Golf_Channel_logo_2025.svg.png",Golf Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418180
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",Golf Channel Latin America (spa3) (Spanish) (Sports)
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 tvg-id="golf-channel-usa" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",Golf Channel SD
+https://v18.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=KUtx3WaJNc1ODUDd6C8kCA&expires=1777193657&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg",GOLF CHANNEL 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -2964,10 +3008,6 @@ http://cdn.tv-rds.workers.dev/MaxSport1HR.m3u8
 #EXTINF:-1 tvg-id="535766" group-title="⚽🥎| Thể Thao",MAX SPORT 1 🇧🇬
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-id="535766" group-title="⚽🥎| Thể Thao",MAX SPORT 1 🇧🇬
-https://s@broadcasthub.click/hls/d4wCTO7I07xH/index.m3u8
-#EXTINF:-1 tvg-id="535766" group-title="⚽🥎| Thể Thao",MAX SPORT 1 🇧🇬
-https://broadcasthub.click/hls/d4wCTO7I07xH/index.m3u8?st=ckC2N92iV3kAgnxDYT1CJA&e=1763674107
-#EXTINF:-1 tvg-id="535766" group-title="⚽🥎| Thể Thao",MAX SPORT 1 🇧🇬
 http://92.247.25.42:11176/
 #EXTINF:-1 tvg-id="535766" group-title="⚽🥎| Thể Thao",MAX SPORT 1 🇧🇬
 http://213.169.39.30:5138
@@ -2999,6 +3039,8 @@ http://213.169.39.30:5142
 http://92.247.25.42:11178/
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png",Max Sport 4 HD
 http://filex.me:8080/live/drzain/002808/318167.ts
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",MAX Sport 4 HD
+http://45.9.44.143:5020/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",MAX SPORT 4 HD
 http://lb.wisp.cat/lb0/MAX_SPORT_4_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="535763" group-title="⚽🥎| Thể Thao",MAX SPORT 4 🇧🇬
@@ -3131,8 +3173,6 @@ http://lb.wisp.cat/lb0/CZ_NOVA_SPORT4_HD/video.m3u8?token=AUSnMTD
 http://pl.online24.pm/play/1709/C0D18CDEC14EAF8/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Nova Sport 5 HD CZ
 http://lb.wisp.cat/lb0/CZ_NOVA_SPORT5_HD/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="392147" group-title="⚽🥎| Thể Thao",NOVA SPORT 5 🇬🇷
-https://broadcasthub.click/hls/fiVIihmSW94P/index.m3u8?st=c3ofcIGWn_tyvfu8fhKqrw&e=1763673960
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Nova Sport 6 HD CZ
 http://lb.wisp.cat/lb0/CZ_NOVA_SPORT6_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Nova Sport HD BG
@@ -3533,10 +3573,6 @@ https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTINF:-1 tvg-id="PrimaSport5.ro" group-title="⚽🥎| Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s",Prima Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCJIC4-i8LmN0ENVDKdIXibfRJ5ptFGdKrTPbZGWhS1Gupaf7TaTdxz95BmzcW5R5oJlsGRYjAshgJKjrSl79-rdX7vliymWDogODWd4-mc9bBCEc_DdSyMswq-ZcoTL8tlFkfwBpkhy2wdUdHSndMhEkTKejhryjHFzvcIBvxS_nokJo51iENerS5GOtR/s700/PRIMA%20SPORT%201.png",PRIMA SPORTS 1
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvRU5_2VI2ZrYUQF5HkfJ7eTPbpytm1-R5QKTQXckOuYgJSDP0ERiUVNQHXe0oInDR8sFTwMglQ3pcIRQJQ273ZtoDm9k9ihIVRJDc8R_K5FvvAJ2OCtRtXCxgNlC9DDzHwNUT5c2Zq_QtBCh0gphhdq7yzyHbCYGIPLvkPri9Fnnpp1BYjyBW6WL_j_e/s700/PRIMA%20SPORT%202.png",PRIMA SPORTS 2
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://s3.aynaott.com/storage/370762bb5582389fb52469931cdcd357",Pro Sports International
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Qazsport
@@ -3680,8 +3716,6 @@ http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
 http://013tv.com:8080/F13836/35b68aca/2130
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/8786dbe736e2fb808c0836d69f157250.png",SKY SPORT 1 AUSTRIA (VIP)
 http://013tv.com:8080/F13836/35b68aca/308105
-#EXTINF:-1 tvg-id="401577" group-title="⚽🥎| Thể Thao",SKY SPORT 1 🇦🇹
-https://s@broadcasthub.click/hls/GV3AN0c16n/index.m3u8
 #EXTINF:-1 tvg-id="482486" group-title="⚽🥎| Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png",SKY SPORT 2
 http://013tv.com:8080/F13836/35b68aca/307980
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3706,8 +3740,6 @@ http://013tv.com:8080/F13836/35b68aca/307982
 https://sky-nz.b-cdn.net/skysport4/master.mpd
 #EXTINF:-1 tvg-id="212838" group-title="⚽🥎| Thể Thao" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286",SKY Sport 4
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/759464.m3u8
-#EXTINF:-1 tvg-id="212838" group-title="⚽🥎| Thể Thao",SKY SPORT 4 🇦🇹
-https://s@broadcasthub.click/hls/L7Tc05o1sLD/index.m3u8
 #EXTINF:-1 tvg-id="212824" group-title="⚽🥎| Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png",SKY SPORT 5
 http://013tv.com:8080/F13836/35b68aca/307983
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3894,8 +3926,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
 http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/sky-sports-premier-league_logo.png",Sky Sports Premier League UK
 http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8
-#EXTINF:-1 tvg-id="538892" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/sky-sports-racing-logo.png",Sky Sports Racing UK
-http://cdn.tv-rds.workers.dev/SkySportsRacing.m3u8
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Racing.png?raw=true",Sky Sports Racing UK (NOW)
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527631&extension=ts
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsTennis.jpg",Sky Sports Tennis
@@ -4056,6 +4086,8 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hl
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",SPORT ITALIA 🇮🇹
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png",SPORT KLUB 1
+http://013tv.com:8080/F13836/35b68aca/3473
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SPORT KLUB 10
 http://013tv.com:8080/F13836/35b68aca/305955
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f03f8c517a5e79b9e8e927180496370d.png",SPORT KLUB 2
@@ -4573,6 +4605,8 @@ http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 #EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="⚽🥎| Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 HD (1080p) (eng8) (English) (Sports) - 1080P
 https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/eWPoUxB.png",Star Sports 2 Tamil HD (1080p) - 1080P
+http://103.229.254.25:7001/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="464163" group-title="⚽🥎| Thể Thao",Star Sports 3
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 #EXTINF:-1 tvg-id="464163" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3
@@ -4738,6 +4772,10 @@ https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="telemundocorpuschristi" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png",Telemundo Corpus Christi (720p) - 720P
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true",Telemundo East HD
+https://k1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=gV4i6MqY1KAVgAlO86LYYg&expires=1777194635&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true",Telemundo East SD
+https://k1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=qhnlhyDbVGQuD8RwTtyudA&expires=1777194625&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="telemundo-eastern-feed" group-title="⚽🥎| Thể Thao",Telemundo Eastern Feed
 https://tvpass.org/live/TelemundoEast/sd
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/j2O4ndp.png",Telemundo Internacional (720p) (spa6) (Spanish) (General) - 720P
@@ -4798,6 +4836,8 @@ http://49.0.64.96:8007/TENNIS
 https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Tennis Channel Germany (720p) - 720P
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="the-tennis-channel" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true",Tennis Channel SD
+https://v15.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=REyfwEcP-AdMmuW-JSUnUA&expires=1777194644&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Tennis Plus
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 #EXTINF:-1 tvg-id="687a783e928ee2ca866b7faa" group-title="⚽🥎| Thể Thao" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5db9d9c0-666f-4153-a55b-0de074aba0c7",Tennis TV
@@ -4938,8 +4978,6 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527617&exten
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png",TNT Sport 1 🇬🇧
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",TNT SPORT 1 🇬🇧
-https://s@broadcasthub.click/hls/y1M7fzurUAHk/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10",TNT SPORT 2
 http://lunar.pm:8080/Cynthiab/Travel66/100776
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU",TNT SPORT 2
@@ -4964,8 +5002,6 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527613&exten
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co.com/5r1gJwz/TNT3.png",TNT Sport 3 🇬🇧
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",TNT SPORT 3 🇬🇧
-https://s@broadcasthub.click/hls/kvJmq6EB26a/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",TNT SPORT 3 🇬🇧
 http://gr.seetv.cc/play/934/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPTaIzOT5TNq7LGoE1rT1NhrLOfnwnWYSXJygex5OIQ&s=10",TNT SPORT 4
@@ -5387,6 +5423,8 @@ https://tvpass.org/live/tsn3/hd
 http://cdn.tv-rds.workers.dev/TSN4.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/qJyAWU8.png",TSN4 (720p) [Not 24/7] (eng9) (English) (Sports) - 720P
 https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="470390" group-title="⚽🥎| Thể Thao",TSN5
+https://tvpass.org/live/tsn5/sd
 #EXTINF:-1 tvg-id="470390" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png",TSN5
 http://cdn.tv-rds.workers.dev/TSN5.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/HEzHpzz.png",TSN5 (1080p) [Not 24/7] (eng9) (English) (Sports) - 1080P
@@ -5523,22 +5561,34 @@ https://tvpass.org/live/USANetworkEast/sd
 http://172.110.219.252:80/live/47125065/12264670/151463.ts
 #EXTINF:-1 tvg-id="470317" group-title="⚽🥎| Thể Thao" tvg-logo="https://logos.imperioapps.top/USANETWORK.png",Usa Network HD
 http://172.110.219.252:80/live/47125065/12264670/151464.ts
+#EXTINF:-1 tvg-id="470317" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network HD
+https://k1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=0n0GqJ79_ipj0Td_z4GA8g&expires=1777194863&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="USA.br" group-title="⚽🥎| Thể Thao" tvg-logo="https://logos.imperioapps.top/USANETWORK.png",Usa Network SD
 http://172.110.219.252:80/live/47125065/12264670/151465.ts
+#EXTINF:-1 tvg-id="usa-network-east-feed" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network SD
+https://k1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=R1J8QbFWmFleKYcxSH3lQA&expires=1777194853&user_id=NUl2djVueGQ4alVwM0JTYlNNR0hyTE41WWdiell0TThLVXhUek5QMg==
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co/YRdK5NM/fubo-sports.png",US| FUBO SPORTS 1 HD
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5ac608b8804cec0453314a751cdf5f20":"2bfed47e32b19e4ecf3f0692876e4ce5","5ac608b8804cec0453314a751cdf5f10":"a01e1090ee4a41d57dff74a8703e17cf"}
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co.com/crWgv5z/vsportplus.png",V Sport + 🇳🇴
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20":"556d72c812df452fad9bed66292bfc63","a0e68f01a5428cbdb8cfac2080c66b10":"be7f9d1a00bbd0478335a4a48379157d"}
+#EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png",V Sport 1 ð³ð´
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b62aca5b566dc3ded74233192b28a120":"e8c5369c9c4aa58c1c8489c7db52db8c","b62aca5b566dc3ded74233192b28a110":"143bfe648cc9d14917d41e0662452771"}
+#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co.com/fxPGRt7/vsport2.png",V Sport 2 ð³ð´
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
+#EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co.com/X55jLTZ/vsport3.png",V Sport 3 🇳🇴
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",V SPORT FOOTBALL 🇸🇪
 http://s.only4.tv/7733/index.m3u8?token=jZqqvnnqCs
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Viasat sport
@@ -5905,421 +5955,491 @@ http://tango.123tv.to:8080/G75ZxBy4bb/KZ5KtL6dIh/830?play_token=Ee77JqM223
 ########################################
 #END-OF-PLAYLIST
 #CXT - Quality Streams Only - Order Preserved
+#EXTINF:-1 tvg-id="1896469" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",26/04 09:00 PM | CHELSEA LEEDS UNITED 8K : MAX 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1896469&extension=ts&play_token=ZjiUv8JyNj
 #EXTINF:-1 tvg-id="678598" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",26/04 09:00 PM | FA Player 01 Chelsea vs Manchester United // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=678598&extension=ts&play_token=NeB4bhIlYB
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=678598&extension=ts&play_token=pEmfUz4W2D
+#EXTINF:-1 tvg-id="1924716" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 09:00 PM | EN ESPAÑOL-CHELSEA VS. LEEDS UNITED (SEMIFINAL) (US) 8K US: ESPN+ 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1924716&extension=ts&play_token=9yilPrEtOG
+#EXTINF:-1 tvg-id="1601706" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 09:00 PM | US (ESPN+ 013) Chelsea vs. Leeds United (Semifinal) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601706&extension=ts&play_token=5T1K2qc2F4
+#EXTINF:-1 tvg-id="1601705" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 09:00 PM | US (ESPN+ 014) En Español_Chelsea vs. Leeds United (Semifinal) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601705&extension=ts&play_token=inFJ48AwWs
 #EXTINF:-1 tvg-id="1100811" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",26/04 09:00 PM | EN CHELSEA VS LEEDS UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100811
 #EXTINF:-1 tvg-id="1810019" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | FA-CUPEN CHELSEA LEEDS (SE) 8K SE: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810019&extension=ts&play_token=aCJPlWM2Yc
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810019&extension=ts&play_token=mYkUmECrFC
 #EXTINF:-1 tvg-id="1825971" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/04 09:00 PM | FA CUPEN SEMIFINAL: CHELSEA LEEDS (SE) 8K SE: PLAY+ 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825971&extension=ts&play_token=7mJM9lAMzY
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825971&extension=ts&play_token=yMtkD3alc6
 #EXTINF:-1 tvg-id="1881171" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 09:00 PM | Chelsea Leeds Halbfinale FA Cup | 8K DE: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881171&extension=ts&play_token=kn4dyRIiLT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881171&extension=ts&play_token=JYXX9hvHlN
 #EXTINF:-1 tvg-id="1893203" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 09:00 PM | Chelsea Leeds Halbfinale FA Cup | 8K AT: DAZN 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893203&extension=ts&play_token=2BM2Itdk1o
-#EXTINF:-1 tvg-id="1930906" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 09:00 PM | Chelsea vs. Leeds all | 8K NL: SOCCER 93
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893203&extension=ts&play_token=dxLrMsnkqE
+#EXTINF:-1 tvg-id="1930986" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 09:00 PM | Chelsea vs. Leeds all | 8K NL: SOCCER 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1930906&extension=ts&play_token=c8a9RdnaeO
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1930986&extension=ts&play_token=WBmOslSZOG
 #EXTINF:-1 tvg-id="918729" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | FA CUP CHELSEA LEEDS (NL) 8K NL: VIAPLAY 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=918729&extension=ts&play_token=cENLvaFz9Q
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=918729&extension=ts&play_token=Zkf5DNZo2o
 #EXTINF:-1 tvg-id="1863199" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | FA CUP CHELSEA LEEDS (DK) 8K DK: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863199&extension=ts&play_token=alK2uRtjeY
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863199&extension=ts&play_token=EK6fXrBRIr
 #EXTINF:-1 tvg-id="942829" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",26/04 09:00 PM | CHELSEA – LEEDS (NO) 8K NO: TV2 PLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=942829&extension=ts&play_token=C4MwG8YplK
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=942829&extension=ts&play_token=szNTQQI8kY
 #EXTINF:-1 tvg-id="1242763" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | FA CUP CHELSEA LEEDS (NO) 8K NO: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1242763&extension=ts&play_token=qNyDnCvUbj
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1242763&extension=ts&play_token=lGr001Vg5e
 #EXTINF:-1 tvg-id="1863304" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | FA CUP CHELSEA LEEDS (FI) 8K FI: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863304&extension=ts&play_token=8sLxU0u3VT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863304&extension=ts&play_token=S0VdYRSf0j
 #EXTINF:-1 tvg-id="1881017" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 09:00 PM | Chelsea Leeds FA Cup | 8K BE: DAZN 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881017&extension=ts&play_token=BzYr1kmjp9
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881017&extension=ts&play_token=nLRkzz45Om
+#EXTINF:-1 tvg-id="1924717" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 09:00 PM | CHELSEA VS. LEEDS UNITED (SEMIFINAL) (US) 8K US: ESPN+ 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1924717&extension=ts&play_token=8BQcgreWWy
 #EXTINF:-1 tvg-id="1488477" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",26/04 09:00 PM | SEMI-FINALS: CHELSEA VS. LEEDS UNITED (CA) 8K CA: SPORTSNET 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1488477&extension=ts&play_token=ZuauNp4yP6
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1488477&extension=ts&play_token=k5qGqGOdmO
 #EXTINF:-1 tvg-id="1008803" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | FA CUP CHELSEA LEEDS (IS) 8K IS: VIAPLAY 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1008803&extension=ts&play_token=609kGp1fIP
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1008803&extension=ts&play_token=m11ageGKTw
 #EXTINF:-1 tvg-id="1100813" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",26/04 09:00 PM | FR CHELSEA VS LEEDS UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100813
 #EXTINF:-1 tvg-id="1100815" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",26/04 09:00 PM | AR CHELSEA VS LEEDS UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100815
 #EXTINF:-1 tvg-id="1225673" group-title="Live FA, League Cup-Match" tvg-logo="https://go4.pw/59.png",26/04 09:00 PM | ALB CHELSEA VS LEEDS UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1225673
 #EXTINF:-1 tvg-id="1702599" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | Chelsea vs Leeds @ :Viaplay SE 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702599&extension=ts&play_token=8ghhcjSQFM
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702599&extension=ts&play_token=gMxNFIT0TH
 #EXTINF:-1 tvg-id="1704118" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/04 09:00 PM | FA cupen semifinal: Chelsea vs Leeds @ :TeliaPlay SE 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704118&extension=ts&play_token=kQQ93ecbuM
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704118&extension=ts&play_token=7nw67PSJfa
 #EXTINF:-1 tvg-id="1703213" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | Chelsea vs Leeds @ :Viaplay NL 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703213&extension=ts&play_token=HlfzkkZZ07
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703213&extension=ts&play_token=u0I76l4Szo
 #EXTINF:-1 tvg-id="1703054" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | Chelsea vs Leeds @ :Viaplay DK 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703054&extension=ts&play_token=LDeB7ee8dg
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703054&extension=ts&play_token=4q2YPHZqDe
 #EXTINF:-1 tvg-id="1702982" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | Chelsea vs Leeds @ :Viaplay NO 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702982&extension=ts&play_token=thejdsQ1yM
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702982&extension=ts&play_token=UgkgUXukEg
 #EXTINF:-1 tvg-id="1704233" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/04 09:00 PM | Chelsea vs Leeds @ :Telia FI 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704233&extension=ts&play_token=jbs5ll1IbS
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704233&extension=ts&play_token=lIlNz6L0wl
 #EXTINF:-1 tvg-id="1703115" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | Chelsea vs Leeds @ :Viaplay FI 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703115&extension=ts&play_token=WcWNEe6Zzs
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703115&extension=ts&play_token=Ro7xPn00iM
 #EXTINF:-1 tvg-id="1803770" group-title="Live FA, League Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 09:00 PM | Chelsea vs Leeds @ :Viaplay IS 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1803770&extension=ts&play_token=OJHEPRwMWC
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1803770&extension=ts&play_token=aPH9kMxjdK
 #EXTINF:-1 tvg-id="1881169" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 09:00 PM | Bayer Leverkusen SC Freiburg Google Pixel Frauen-Bundesliga | 8K DE: DAZN 67
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881169&extension=ts&play_token=gJn0WpqL9H
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881169&extension=ts&play_token=rNNp2e13XW
 #EXTINF:-1 tvg-id="1893201" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 09:00 PM | Bayer Leverkusen SC Freiburg Google Pixel Frauen-Bundesliga | 8K AT: DAZN 67
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893201&extension=ts&play_token=ovlfZcZ0kY
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893201&extension=ts&play_token=gM3nTIN1GU
 #EXTINF:-1 tvg-id="1100761" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | EN BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100761
+#EXTINF:-1 tvg-id="1601688" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 10:30 PM | US (ESPN+ 031) Borussia Dortmund vs. SC Freiburg ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601688&extension=ts&play_token=1YtICC783c
 #EXTINF:-1 tvg-id="1100767" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | DE BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100767
 #EXTINF:-1 tvg-id="1100763" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | FR BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100763
 #EXTINF:-1 tvg-id="1100765" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | AR BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100765
 #EXTINF:-1 tvg-id="1810013" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | BUNDESLIGA DORTMUND FREIBURG (SE) 8K SE: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810013&extension=ts&play_token=sffhMombMr
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810013&extension=ts&play_token=jkYvs3UCr5
 #EXTINF:-1 tvg-id="1881164" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 10:30 PM | Borussia Dortmund SC Freiburg Bundesliga | 8K DE: DAZN 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881164&extension=ts&play_token=UOr0oddixY
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881164&extension=ts&play_token=xb9U7A9ZDP
 #EXTINF:-1 tvg-id="1893196" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 10:30 PM | Borussia Dortmund SC Freiburg Bundesliga | 8K AT: DAZN 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893196&extension=ts&play_token=E1T42kykzk
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893196&extension=ts&play_token=4VSKzAn21z
 #EXTINF:-1 tvg-id="918724" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | BUNDESLIGA DORTMUND FREIBURG (NL) 8K NL: VIAPLAY 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=918724&extension=ts&play_token=MaWPjrxIdp
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=918724&extension=ts&play_token=LdmKrZV9eD
 #EXTINF:-1 tvg-id="1881043" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 10:30 PM | Borussia Dortmund Freiburg Bundesliga | 8K ES: DAZN 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881043&extension=ts&play_token=kgtHjxyNDG
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881043&extension=ts&play_token=xMWUbWDR7z
 #EXTINF:-1 tvg-id="1863193" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | BUNDESLIGA DORTMUND FREIBURG (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863193&extension=ts&play_token=3VWzH4COsn
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863193&extension=ts&play_token=70Zbohd97c
 #EXTINF:-1 tvg-id="1242753" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | BUNDESLIGA DORTMUND FREIBURG (NO) 8K NO: VIAPLAY 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1242753&extension=ts&play_token=iT4EVwLJ6F
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1242753&extension=ts&play_token=2JAm0nRwY2
 #EXTINF:-1 tvg-id="1863297" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | BUNDESLIIGA DORTMUND FREIBURG (FI) 8K FI: VIAPLAY 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863297&extension=ts&play_token=Y9TOsPa5W4
-#EXTINF:-1 tvg-id="1939804" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 10:30 PM | Dortmund vs. Freiburg all | 8K CA: SOCCER 152
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863297&extension=ts&play_token=c612AX2HCH
+#EXTINF:-1 tvg-id="1924699" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 10:30 PM | BORUSSIA DORTMUND VS. SC FREIBURG (US) 8K US: ESPN+ 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939804&extension=ts&play_token=hg31aH7ira
-#EXTINF:-1 tvg-id="1919018" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 10:30 PM | Dortmund vs. Freiburg all | 8K BR: SOCCER 66
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1924699&extension=ts&play_token=7AdkrvqeLb
+#EXTINF:-1 tvg-id="1939900" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 10:30 PM | Dortmund vs. Freiburg all | 8K CA: SOCCER 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919018&extension=ts&play_token=QRpQzE0aL1
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939900&extension=ts&play_token=FRwKO1Aj9s
+#EXTINF:-1 tvg-id="1919076" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 10:30 PM | Dortmund vs. Freiburg all | 8K BR: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919076&extension=ts&play_token=aBrjK6ro2J
 #EXTINF:-1 tvg-id="1008801" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | BUNDESLIGA DORTMUND FREIBURG (IS) 8K IS: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1008801&extension=ts&play_token=50ubpnnFyV
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1008801&extension=ts&play_token=AymgW3gVwF
 #EXTINF:-1 tvg-id="1702593" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | Dortmund vs Freiburg @ :Viaplay SE 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702593&extension=ts&play_token=xcjkEsVgdE
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702593&extension=ts&play_token=p9E43QDFfi
 #EXTINF:-1 tvg-id="1703208" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | Dortmund vs Freiburg @ :Viaplay NL 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703208&extension=ts&play_token=ruXlHM3Ebi
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703208&extension=ts&play_token=HSzDMpje5L
 #EXTINF:-1 tvg-id="1703048" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | Dortmund vs Freiburg @ :Viaplay DK 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703048&extension=ts&play_token=BzOqgc4Nq8
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703048&extension=ts&play_token=ua7dLHdV42
 #EXTINF:-1 tvg-id="1702973" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | Dortmund vs Freiburg @ :Viaplay NO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702973&extension=ts&play_token=pUDaPrhBP1
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702973&extension=ts&play_token=h74ZxRAiNT
 #EXTINF:-1 tvg-id="1703108" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | Dortmund vs Freiburg @ :Viaplay FI 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703108&extension=ts&play_token=c1XGK3M82r
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703108&extension=ts&play_token=EW433Q6ZCJ
 #EXTINF:-1 tvg-id="1803768" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",26/04 10:30 PM | Dortmund vs Freiburg @ :Viaplay IS 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1803768&extension=ts&play_token=IT3wF7em3B
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1803768&extension=ts&play_token=dz2uq6sHHK
 #EXTINF:-1 tvg-id="1100761" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | EN BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100761
+#EXTINF:-1 tvg-id="1601688" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 10:30 PM | US (ESPN+ 031) Borussia Dortmund vs. SC Freiburg ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601688&extension=ts&play_token=1YtICC783c
 #EXTINF:-1 tvg-id="1100767" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | DE BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100767
 #EXTINF:-1 tvg-id="1100763" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | FR BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100763
 #EXTINF:-1 tvg-id="1100765" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",26/04 10:30 PM | AR BORUSSIA DORTMUND VS FREIBURG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100765
 #EXTINF:-1 tvg-id="1881164" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 10:30 PM | Borussia Dortmund SC Freiburg Bundesliga | 8K DE: DAZN 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881164&extension=ts&play_token=UOr0oddixY
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881164&extension=ts&play_token=xb9U7A9ZDP
 #EXTINF:-1 tvg-id="1893196" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 10:30 PM | Borussia Dortmund SC Freiburg Bundesliga | 8K AT: DAZN 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893196&extension=ts&play_token=E1T42kykzk
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1893196&extension=ts&play_token=4VSKzAn21z
 #EXTINF:-1 tvg-id="1881043" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 10:30 PM | Borussia Dortmund Freiburg Bundesliga | 8K ES: DAZN 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881043&extension=ts&play_token=kgtHjxyNDG
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881043&extension=ts&play_token=xMWUbWDR7z
+#EXTINF:-1 tvg-id="1924699" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/04 10:30 PM | BORUSSIA DORTMUND VS. SC FREIBURG (US) 8K US: ESPN+ 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1924699&extension=ts&play_token=7AdkrvqeLb
 #EXTINF:-1 tvg-id="1899961" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 11:00 PM | Torino vs. Inter Lega Serie A | 8K GB: DAZN 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1899961&extension=ts&play_token=YdYURPhFd5
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1899961&extension=ts&play_token=EgOoq64Oj8
 #EXTINF:-1 tvg-id="1825958" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/04 11:00 PM | SERIE A: TORINO INTER (SE) 8K SE: PLAY+ 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825958&extension=ts&play_token=hUtXBpIrLF
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1825958&extension=ts&play_token=3wR4NeIsb6
 #EXTINF:-1 tvg-id="1881040" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/04 11:00 PM | Torino Inter Serie A | 8K ES: DAZN 96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881040&extension=ts&play_token=fcDfgHlR41
-#EXTINF:-1 tvg-id="1939802" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 11:00 PM | Torino vs. Inter all | 8K CA: SOCCER 154
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881040&extension=ts&play_token=nBMgrBhF0t
+#EXTINF:-1 tvg-id="1940128" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 11:00 PM | Torino vs. Inter all | 8K US: SOCCER 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939802&extension=ts&play_token=GlQnFjcgdP
-#EXTINF:-1 tvg-id="1919017" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 11:00 PM | Torino vs. Inter all | 8K BR: SOCCER 67
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940128&extension=ts&play_token=owaFBgWJSw
+#EXTINF:-1 tvg-id="1501731" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",26/04 11:00 PM | Serie A: Torino vs Inter @ :Paramount+ 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919017&extension=ts&play_token=I9gVD3760x
-#EXTINF:-1 tvg-id="1010138" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",26/04 11:00 PM | TORINO INTER MILAN (IS) 8K IS: LIVEY 18
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1501731&extension=ts&play_token=P9XJFDN2Bt
+#EXTINF:-1 tvg-id="1939901" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 11:00 PM | Torino vs. Inter all | 8K CA: SOCCER 55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1010138&extension=ts&play_token=cxY9KSPrTf
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939901&extension=ts&play_token=CH9SBOgpek
+#EXTINF:-1 tvg-id="1919075" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/04 11:00 PM | Torino vs. Inter all | 8K BR: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919075&extension=ts&play_token=0y5gQ9sV7b
+#EXTINF:-1 tvg-id="1010150" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",26/04 11:00 PM | TORINO INTER MILAN (IS) 8K IS: LIVEY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1010150&extension=ts&play_token=aiVwIoeYl0
 #EXTINF:-1 tvg-id="1704105" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/04 11:00 PM | Serie A: Torino vs Inter @ :TeliaPlay SE 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704105&extension=ts&play_token=DeKkrNiz8D
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704105&extension=ts&play_token=0KXNeAxZNi
 #EXTINF:-1 tvg-id="1704228" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",26/04 11:00 PM | Serie A: Torino vs Inter @ :Telia FI 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704228&extension=ts&play_token=LJvknXQWFk
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704228&extension=ts&play_token=wDeAF6jlPp
 #EXTINF:-1 tvg-id="1810007" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | LIGUE 1 MARSEILLE NICE (SE) 8K SE: VIAPLAY 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810007&extension=ts&play_token=OucBp3wrir
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1810007&extension=ts&play_token=de6K0jMmNU
+#EXTINF:-1 tvg-id="1930976" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/04 01:45 AM | Marseille vs. Nice all | 8K NL: SOCCER 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1930976&extension=ts&play_token=SSxFggKtR7
 #EXTINF:-1 tvg-id="918723" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | LIGUE 1 MARSEILLE NICE (NL) 8K NL: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=918723&extension=ts&play_token=FEFaCSp37Y
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=918723&extension=ts&play_token=5QEUmwgCS4
 #EXTINF:-1 tvg-id="1863185" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | LIGUE 1 MARSEILLE NICE (DK) 8K DK: VIAPLAY 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863185&extension=ts&play_token=WrJT2aJYNS
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863185&extension=ts&play_token=1psEfFzQ7q
 #EXTINF:-1 tvg-id="1242745" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | LIGUE 1 MARSEILLE NICE (NO) 8K NO: VIAPLAY 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1242745&extension=ts&play_token=X4ENhV3XDS
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1242745&extension=ts&play_token=OGWLHmv3yV
 #EXTINF:-1 tvg-id="1863289" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | LIGUE 1 MARSEILLE NICE (FI) 8K FI: VIAPLAY 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863289&extension=ts&play_token=HeawTiGLgI
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863289&extension=ts&play_token=Xq8t61VWhg
+#EXTINF:-1 tvg-id="1919050" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/04 01:45 AM | Marseille vs. Nice all | 8K BR: SOCCER 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919050&extension=ts&play_token=skuIdknP4m
 #EXTINF:-1 tvg-id="1018308" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",27/04 01:45 AM | FR OLYMPIQUE MARSEILLE VS NICE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018308
 #EXTINF:-1 tvg-id="1018317" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",27/04 01:45 AM | AR OLYMPIQUE MARSEILLE VS NICE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64CFEC8BBFCEDD4BCEF22B94F5F8A6D8
+#EXTVLCOPT:http-header=Authorization: Bearer 2D5182ADDFEEF336D649C7FA08B7ECBF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018317
 #EXTINF:-1 tvg-id="1702586" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | Marseille vs Nice @ :Viaplay SE 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702586&extension=ts&play_token=6XFmE87HIq
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702586&extension=ts&play_token=eFT2mQLU3f
 #EXTINF:-1 tvg-id="1703207" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | Marseille vs Nice @ :Viaplay NL 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703207&extension=ts&play_token=OJZTSlNHAp
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703207&extension=ts&play_token=EUjXW1yjhh
 #EXTINF:-1 tvg-id="1703039" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | Marseille vs Nice @ :Viaplay DK 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703039&extension=ts&play_token=YAdCL52AA7
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703039&extension=ts&play_token=d6fh2ssalG
 #EXTINF:-1 tvg-id="1702964" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | Marseille vs Nice @ :Viaplay NO 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702964&extension=ts&play_token=KiyFXszrUE
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702964&extension=ts&play_token=x5GqSIscFl
 #EXTINF:-1 tvg-id="1703099" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",27/04 01:45 AM | Marseille vs Nice @ :Viaplay FI 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703099&extension=ts&play_token=YN4Veil9rq
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703099&extension=ts&play_token=7TuROqOq9s
 #EXTINF:-1 tvg-id="1314045" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SERIE A ITALY/AC MILAN.png",27/04 01:45 AM | ┃ ┃ SERIE A AC MILAN FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 01E4F59F1C3A1F2DB44E497C3B8C6210
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=1314045&extension=ts&play_token=6rBd6bU9T5
+#EXTVLCOPT:http-header=Authorization: Bearer 5FC36141EF9F566F47DCF6DB652EB02F
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=1314045&extension=ts&play_token=2wKwmWvclZ
+#EXTINF:-1 tvg-id="1896463" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391",27/04 01:45 AM | AC MILAN JUVENTUS 8K : MAX 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1896463&extension=ts&play_token=pkXBSp6Dks
 #EXTINF:-1 tvg-id="621426" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13351.png?ver=68006",27/04 01:45 AM | SERIE A AC MILAN 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621426&extension=ts&play_token=hjfZxXrHZG
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621426&extension=ts&play_token=l2janWyZNy
 #EXTINF:-1 tvg-id="1881134" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",27/04 01:45 AM | AC Milan Juventus Serie A | 8K ES: DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881134&extension=ts&play_token=YTG7x7zGbL
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1881134&extension=ts&play_token=MYgbXcRxPz
 #EXTINF:-1 tvg-id="1704219" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",27/04 01:45 AM | Serie A: AC Milan vs Juventus @ :Telia FI 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704219&extension=ts&play_token=2H2rDuYoH2
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704219&extension=ts&play_token=CXD8DDTA8N
 #EXTINF:-1 tvg-id="1704284" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14665.png?ver=4488",27/04 01:45 AM | AC Milan Juventus :MTV FI 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704284&extension=ts&play_token=aSjRWO4vAB
-#EXTINF:-1 tvg-id="1010135" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",27/04 01:45 AM | AC MILAN JUVENTUS (IS) 8K IS: LIVEY 21
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1704284&extension=ts&play_token=0Hd67ESScJ
+#EXTINF:-1 tvg-id="1010147" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",27/04 01:45 AM | AC MILAN JUVENTUS (IS) 8K IS: LIVEY 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C9C0C760C7ED3433706FDC4037FFE5B1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1010135&extension=ts&play_token=fQh5OIcDtu
+#EXTVLCOPT:http-header=Authorization: Bearer 2597B98706334F2223A1EFB27B2A9613
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1010147&extension=ts&play_token=8BJiK5Id7n
 #EXTINF:-1 tvg-id="1158691" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SERIE A TEAMS/AC MILAN.png",27/04 01:45 AM | ┃IT┃ AC MILAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 01E4F59F1C3A1F2DB44E497C3B8C6210
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=1158691&extension=ts&play_token=aLey3ka4sH
+#EXTVLCOPT:http-header=Authorization: Bearer 5FC36141EF9F566F47DCF6DB652EB02F
+http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=1158691&extension=ts&play_token=Q7rnbByD0z
 #EXTINF:-1 tvg-id="438871" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png",26/04 04:00 PM | Mutua Madrid Open E16 (UK - NOW HK NOW SPORTS 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
