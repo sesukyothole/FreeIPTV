@@ -2,10 +2,10 @@
 #EXTM3U
 #PLAYLIST:Cleaned Playlist - Cleaned
 #GENERATED-BY: CXT Cleaner v2.0 (Stalker Ready)
-#VALIDATION-DATE: 2026-05-01 20:57:55
+#VALIDATION-DATE: 2026-05-01 22:30:11
 #TOTAL-STREAMS-CHECKED: 2883
-#TOTAL-VALID-STREAMS: 2523
-#SUCCESS-RATE: 87.5%
+#TOTAL-VALID-STREAMS: 2516
+#SUCCESS-RATE: 87.3%
 #FILTERS-APPLIED: ADULT, .mp4, cinehub24.com
 #ORDER-PRESERVATION: Original order maintained
 ########################################
@@ -890,8 +890,6 @@ http://46.151.196.223:14450
 http://46.151.196.223:14456
 #EXTINF:-1 tvg-id="ESPN 5" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN5 HD³
 http://prys.xyz:80/live/Sandramaria/22999061026/1026137.ts
-#EXTINF:-1 tvg-id="417391" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",- ESPN6
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/129623.ts
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",1 SPORT 🇮🇱
 http://77.137.40.221:8000/play/a016
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://img.platform.wurl.dev/channel/2198/lg/ae6736/LG-Logo-PNG-100x100_v1.png",102 Scripps Sports Network
@@ -2156,8 +2154,6 @@ http://190.117.20.39:8000/play/a08d/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://x12tv.co/A/DB.png",DUBAI SPORT 1
 http://5678999.life:2082/adamusa1242025/attalah77448866/1585
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png",Dubai Sports 2
-http://cdn.tv-rds.workers.dev/DubaiSports2.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://ewsat.com/img/EDGE_SPORT.png",Edge Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",EDGE SPORTS
@@ -2446,6 +2442,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3811
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgjV2TY8doY3wUWCWHEdAbA
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/ESPNExtra-logo.png",ESPN EXTRA ARG
 http://cdn.tv-rds.workers.dev/ESPNPLUSARG.m3u8
+#EXTINF:-1 tvg-id="465198" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true",ESPN HD
+https://e2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=xkoctdFnGU20s4SxqKrBvA&expires=1777659027&user_id=bWJNWklTNVFURGVyRGNNQWFjc1dEU3BzTVJYaTF6V0NNNDlhbXZrSQ==
 #EXTINF:-1 tvg-id="465198" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN HD
 http://prys.xyz:80/live/Sandramaria/22999061026/1026125.ts
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",ESPN NETWORK
@@ -2566,8 +2564,6 @@ http://81.15.109.89:8001/play/Eurosport2Poland
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/60002.ts
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png",Eurosport 2 PT (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/910
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 RS
-http://cdn.tv-rds.workers.dev/EUROSPORT2RS.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 RU
 http://cdn.tv-rds.workers.dev/EURO2RU.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png",EUROSPORT 2 UK
@@ -2635,10 +2631,6 @@ https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
 https://tvpass.org/live/fanduel-sports-network-west/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" group-title="⚽🥎| Thể Thao",Fanduel Sports Network Wisconsin
 https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" group-title="⚽🥎| Thể Thao",Fanduel Sports Southeast Georgia
-https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" group-title="⚽🥎| Thể Thao",Fanduel Sports Southeast North Carolina
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/YPHrFU0.png",FanDuel TV (720p) (eng4) (English) (Sports) - 720P
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/qBVqtYd.png",FB TV (eng4) (English) (Sports)
@@ -2721,8 +2713,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://iili.io/KYJC4V9.png",Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/LHtxKI8.png",Fox Sports 2 (720p) [Not 24/7] (eng4) (English) (Sports) - 720P
-https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png",Fox Sports 2 (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/44034.ts
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-2.png",Fox Sports 2 (g)
@@ -2860,8 +2850,6 @@ https://tvpass.org/live/GolfChannel/hd
 https://v13.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=zPVqYd5bfG4j86tgswgeWg&expires=1777659311&user_id=bWJNWklTNVFURGVyRGNNQWFjc1dEU3BzTVJYaTF6V0NNNDlhbXZrSQ==
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",Golf Channel Latin America (spa3) (Spanish) (Sports)
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
-#EXTINF:-1 tvg-id="golf-channel-usa" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",Golf Channel SD
-https://v16.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=G8Yq61cF5zBiiy7zop5LwA&expires=1777659302&user_id=bWJNWklTNVFURGVyRGNNQWFjc1dEU3BzTVJYaTF6V0NNNDlhbXZrSQ==
 #EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg",GOLF CHANNEL 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -2907,6 +2895,8 @@ https://horizonsports.b-cdn.net/horizonsports-global/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="sport.tr" group-title="⚽🥎| Thể Thao",Ht Spor
 https://andro.226503.xyz/checklist/androstreamliveht.m3u8
+#EXTINF:-1 tvg-id="htspor" group-title="⚽🥎| Thể Thao" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/S4/98405/Thumbnail.png",HT Spor
+http://87.121.104.29:5010/channel?id=394506&token=12345ffb02b73b23efc71023da792647
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",HT SPOR 🇹🇷
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/S4/98405/Thumbnail.png",HTSPOR
@@ -3246,8 +3236,6 @@ http://172.110.219.252:80/live/47125065/12264670/152866.ts
 http://172.110.219.252:80/live/47125065/12264670/4035534.ts
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://32q0d.xyz:8080/images/NSPORTS.png",NSports YTB HD 02
 http://172.110.219.252:80/live/47125065/12264670/4035535.ts
-#EXTINF:-1 tvg-id="NudgeSportsChannel.ph@HD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/TW0hapZ.png",Nudge Sports Channel (1080p) (eng7) (English) (Sports) - 1080P
-https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png",OFFLINE - VALENTINE VS MAITLAND [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4057,6 +4045,8 @@ http://lb.wisp.cat/lb0/CZ_SPORT2_HD/video.m3u8?token=AUSnMTD
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",SPORT 2 HD 🇨🇿
 http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="4️⃣🇰 🇺 🇭 🇩" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co/fFB348B/sport5.png",SPORT 5 ⁴ᴷ
+http://185.193.88.10/iptv/AHMQNVLWUTM5PW/16019/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="76" group-title="⚽🥎| Thể Thao" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png",Sport Fishing TV
@@ -5455,8 +5445,6 @@ https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/770
 #EXTINF:-1 tvg-id="470446" group-title="⚽🥎| Thể Thao",TSN1
 https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id="470446" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png",TSN1
-http://cdn.tv-rds.workers.dev/TSN1.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN1 (1080p) [Not 24/7] (eng9) (English) (Sports) - 1080P
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="470550" group-title="⚽🥎| Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png",TSN2
@@ -5469,6 +5457,8 @@ https://tvpass.org/live/tsn2/hd
 http://cdn.tv-rds.workers.dev/TSN3.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/AYza8KO.png",TSN3 (1080p) [Not 24/7] (eng9) (English) (Sports) - 1080P
 https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="470730" group-title="⚽🥎| Thể Thao",TSN4
+https://tvpass.org/live/tsn4/sd
 #EXTINF:-1 tvg-id="470730" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png",TSN4
 http://cdn.tv-rds.workers.dev/TSN4.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/qJyAWU8.png",TSN4 (720p) [Not 24/7] (eng9) (English) (Sports) - 720P
@@ -5599,10 +5589,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
 http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/10252
 #EXTINF:-1 tvg-id="USA.Network.HD.ca2" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co/kx93Bbh/CA-USA-Nework.png",USA Network 1tv.
 http://1tv41.icu:8080/nworbeilrahc@hotmail.com/T33yQRau4a/57252
-#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network East (1080p) [Not 24/7] - 1080P
-https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="usa-network-east-feed" group-title="⚽🥎| Thể Thao",USA Network East Feed
-https://tvpass.org/live/USANetworkEast/sd
 #EXTINF:-1 tvg-id="USA.br" group-title="⚽🥎| Thể Thao" tvg-logo="https://logos.imperioapps.top/USANETWORK.png",Usa Network FHD
 http://172.110.219.252:80/live/47125065/12264670/151463.ts
 #EXTINF:-1 tvg-id="470317" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network HD
@@ -5641,6 +5627,8 @@ http://s.only4.tv/7733/index.m3u8?token=jZqqvnnqCs
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png",Viasat Sport 1 Sweden
 http://cdn.tv-rds.workers.dev/ViasatSportSE.m3u8
+#EXTINF:-1 tvg-id="45669" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/klRvhR5.png",viju+ Premiere
+https://stream2.somon.tv/vippremiera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="6517" group-title="⚽🥎| Thể Thao",viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",VIP Premiere
@@ -5976,8 +5964,6 @@ http://5678999.life:2082/adamusa1242025/attalah77448866/167716
 http://5678999.life:2082/adamusa1242025/attalah77448866/126855
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/BKaEtqL.png",Астрахань.Ru Sport (720p) - 720P
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5 (1080p) [Not 24/7] (rus1) (Russian) (Sports) - 1080P
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by@Internet" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5 Интернет (1080p) [Not 24/7] (rus1) (Russian) (Sports) - 1080P
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ (720p) (rus1) (Russian) (Sports) - 720P
@@ -6618,41 +6604,6 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1290198&exten
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1B3096007E03530BDD25066DDDBFDFCF
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281068
-#EXTINF:-1 tvg-id="764066" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (PT - SPORT TV 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1B3096007E03530BDD25066DDDBFDFCF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/764066
-#EXTINF:-1 tvg-id="959358" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (┃PT┃ SPORT TV 6 FHD HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BACCE8DA8B1325D1566570540D1A0BE5
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=959358&extension=ts&play_token=shRNf97uLL
-#EXTINF:-1 tvg-id="959359" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (┃PT┃ SPORT TV 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BACCE8DA8B1325D1566570540D1A0BE5
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=959359&extension=ts&play_token=o7jqT1i6pb
-#EXTINF:-1 tvg-id="959360" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (┃PT┃ SPORT TV 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BACCE8DA8B1325D1566570540D1A0BE5
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=959360&extension=ts&play_token=9tm8fNutbW
-#EXTINF:-1 tvg-id="959361" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (┃PT┃ SPORT TV 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BACCE8DA8B1325D1566570540D1A0BE5
-http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=959361&extension=ts&play_token=7EU2AYP3Af
-#EXTINF:-1 tvg-id="386376" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (PT: SPORT TV 6 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5E0C5355694C70C90E41F47FBB0F948
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=386376&extension=ts&play_token=mbgZEXZaoH
-#EXTINF:-1 tvg-id="589155" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",01/05 06:59 PM | Judo Grand Slam 2026 - Dushanbe - Dia 1 (PT: SPORT TV 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5E0C5355694C70C90E41F47FBB0F948
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=589155&extension=ts&play_token=PpF2nRw5d0
 #EXTINF:-1 tvg-id="1107" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png",01/05 09:00 PM | 1/2 Finale A (┃HR┃ SPORT KLUB 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:4E:F2; stb_lang=en; timezone=GMT
